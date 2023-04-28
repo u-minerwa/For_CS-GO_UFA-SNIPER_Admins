@@ -24,12 +24,12 @@
   
 12. Win+R: recent, %appdata%, prefetch; 
 13. Win+R: regedit (Редактор реестра). 
-Win+R, в окне пишем команду "regedit". Открываем редактор реестра и вставляем в поисковую строку сверху по порядку (по одной) следующие строки:
-Компьютер\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\AppSwitched
-Компьютер\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\ShowJumpView
-Компьютер\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
-Компьютер\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\bam\State\UserSettings
+  Win+R, в окне пишем команду "regedit". Открываем редактор реестра и вставляем в поисковую строку сверху по порядку (по одной) следующие строки:
+  Компьютер\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\AppSwitched
+  Компьютер\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\ShowJumpView
+  Компьютер\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+  Компьютер\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\bam\State\UserSettings
 
-Для EVERYTHING: 
+14. Для EVERYTHING: 
+
 R3D | Xone | Midnight | MUTINY | Yeahnot | LeagueMode | Unreal | VRedux | FURIOS | otcv | Avira | Neverlose | ESPdX | BoBerHook  | Legendware | EGHack | nixware.cc | HAUNTEDPROJECT| externalcrack | RAGER9 | RAGER8 | .ahk | WinX | PhoenixHack | OBR  | OneByteRadar | Skinchanger | NAIM | EZinjector | Reborn | OneByteWall*Hack | Keter | Annihilation | Sapphire | f0rg0tten  | Osiris | Multihack | Breakthrough | REKTWARE | D3m | ExtrimHack | EZfrags | Shark | RHcheats | FREEQN | Aqua | Boomwtf | Pphud  | INDIGO | FRUX0 | hack | cheat | чит | KlarWare | Aimware | Skeet | gamesense | Aurora | SpirtHack | Fatality | OneTap  | ev0lve | Eternity | Z0rhack | Stickrpg | Demonside.us | Bhop | BunnyHop | AviraSAMOWARE | ExLoader | .amc | R8 | freeqn | imgui.ini 
-
