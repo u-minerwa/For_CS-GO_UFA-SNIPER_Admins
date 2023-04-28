@@ -1,0 +1,2031 @@
+[30/2017/04:27:33]  Skype: SkypeRT
+[30/2017/04:27:33]  -------------------------------------------------
+[30/2017/04:27:33]  [System Process]
+[30/2017/04:27:33]  System
+[30/2017/04:27:33]  smss.exe
+[30/2017/04:27:33]  csrss.exe
+[30/2017/04:27:33]  wininit.exe
+[30/2017/04:27:33]  csrss.exe
+[30/2017/04:27:33]  winlogon.exe
+[30/2017/04:27:33]  services.exe
+[30/2017/04:27:33]  lsass.exe
+[30/2017/04:27:33]  lsm.exe
+[30/2017/04:27:33]  svchost.exe
+[30/2017/04:27:33]  svchost.exe
+[30/2017/04:27:33]  atiesrxx.exe
+[30/2017/04:27:33]  svchost.exe
+[30/2017/04:27:33]  svchost.exe
+[30/2017/04:27:33]  svchost.exe
+[30/2017/04:27:33]  audiodg.exe
+[30/2017/04:27:33]  svchost.exe
+[30/2017/04:27:33]  RTKAUDIOSERVICE64.EXE
+[30/2017/04:27:33]  RAVBg64.exe
+[30/2017/04:27:33]  QHActiveDefense.exe
+[30/2017/04:27:33]  atieclxx.exe
+[30/2017/04:27:33]  svchost.exe
+[30/2017/04:27:33]  AsLdrSrv.exe
+[30/2017/04:27:33]  spoolsv.exe
+[30/2017/04:27:33]  svchost.exe
+[30/2017/04:27:33]  Fuel.Service.exe
+[30/2017/04:27:33]  service_update.exe
+[30/2017/04:27:33]  svchost.exe
+[30/2017/04:27:33]  svchost.exe
+[30/2017/04:27:33]  svchost.exe
+[30/2017/04:27:33]  QHWatchdog.exe
+[30/2017/04:27:33]  WmiPrvSE.exe
+[30/2017/04:27:33]  GoogleCrashHandler.exe
+[30/2017/04:27:33]  GoogleCrashHandler64.exe
+[30/2017/04:27:33]  svchost.exe
+[30/2017/04:27:33]  wmpnetwk.exe
+[30/2017/04:27:33]  SearchIndexer.exe
+[30/2017/04:27:33]  WmiPrvSE.exe
+[30/2017/04:27:33]  taskhost.exe
+[30/2017/04:27:33]  HControl.exe
+[30/2017/04:27:33]  dwm.exe
+[30/2017/04:27:33]  explorer.exe
+[30/2017/04:27:33]  taskeng.exe
+[30/2017/04:27:33]  RAVCpl64.exe
+[30/2017/04:27:33]  ETDCtrl.exe
+[30/2017/04:27:33]  vsnp2uvc.exe
+[30/2017/04:27:33]  Skype.exe
+[30/2017/04:27:33]  ATKOSD2.exe
+[30/2017/04:27:33]  ETDCtrlHelper.exe
+[30/2017/04:27:33]  DMedia.exe
+[30/2017/04:27:33]  CheckNDISPort_df.exe
+[30/2017/04:27:33]  CancelAutoPlay_df.exe
+[30/2017/04:27:33]  MOM.exe
+[30/2017/04:27:33]  QHSafeTray.exe
+[30/2017/04:27:33]  AsusTPLoader.exe
+[30/2017/04:27:33]  mshta.exe
+[30/2017/04:27:33]  cmd.exe
+[30/2017/04:27:33]  conhost.exe
+[30/2017/04:27:33]  QuickGesture64.exe
+[30/2017/04:27:33]  Skype.exe
+[30/2017/04:27:33]  powershell.exe
+[30/2017/04:27:33]  QuickGesture.exe
+[30/2017/04:27:33]  RAVBg64.exe
+[30/2017/04:27:33]  Skype.exe
+[30/2017/04:27:33]  Skype.exe
+[30/2017/04:27:33]  AsusSmartGestureDetector64.exe
+[30/2017/04:27:33]  PresentationFontCache.exe
+[30/2017/04:27:33]  ucp.exe
+[30/2017/04:27:33]  chrome.exe
+[30/2017/04:27:33]  chrome.exe
+[30/2017/04:27:33]  chrome.exe
+[30/2017/04:27:33]  chrome.exe
+[30/2017/04:27:33]  chrome.exe
+[30/2017/04:27:33]  chrome.exe
+[30/2017/04:27:33]  cmd.exe
+[30/2017/04:27:33]  conhost.exe
+[30/2017/04:27:33]  360webshield.exe
+[30/2017/04:27:33]  chrome.exe
+[30/2017/04:27:33]  Skype.exe
+[30/2017/04:27:33]  SearchProtocolHost.exe
+[30/2017/04:27:33]  SearchFilterHost.exe
+[30/2017/04:27:33]  WmiPrvSE.exe
+[30/2017/04:27:33]  Mark46.PS.v0.0.5.5.exe
+[30/2017/04:27:33]  -------------------------------------------------
+[30/2017/04:27:35]  Ваш ID: 333050Z797
+[30/2017/04:27:35]  Windows 7  Service Pack 1 x32
+[30/2017/04:27:44]  ....................................................................................
+[30/2017/04:27:44]  -------------------------------------------------
+[30/2017/04:27:44]  [System Process]
+[30/2017/04:27:44]  System
+[30/2017/04:27:44]  smss.exe
+[30/2017/04:27:44]  csrss.exe
+[30/2017/04:27:44]  wininit.exe
+[30/2017/04:27:44]  csrss.exe
+[30/2017/04:27:44]  winlogon.exe
+[30/2017/04:27:44]  services.exe
+[30/2017/04:27:44]  lsass.exe
+[30/2017/04:27:44]  lsm.exe
+[30/2017/04:27:44]  svchost.exe
+[30/2017/04:27:44]  svchost.exe
+[30/2017/04:27:44]  atiesrxx.exe
+[30/2017/04:27:44]  svchost.exe
+[30/2017/04:27:44]  svchost.exe
+[30/2017/04:27:44]  svchost.exe
+[30/2017/04:27:44]  audiodg.exe
+[30/2017/04:27:44]  svchost.exe
+[30/2017/04:27:44]  RTKAUDIOSERVICE64.EXE
+[30/2017/04:27:44]  RAVBg64.exe
+[30/2017/04:27:44]  QHActiveDefense.exe
+[30/2017/04:27:44]  atieclxx.exe
+[30/2017/04:27:44]  svchost.exe
+[30/2017/04:27:44]  AsLdrSrv.exe
+[30/2017/04:27:44]  spoolsv.exe
+[30/2017/04:27:44]  svchost.exe
+[30/2017/04:27:44]  Fuel.Service.exe
+[30/2017/04:27:44]  service_update.exe
+[30/2017/04:27:44]  svchost.exe
+[30/2017/04:27:44]  svchost.exe
+[30/2017/04:27:45]  svchost.exe
+[30/2017/04:27:45]  QHWatchdog.exe
+[30/2017/04:27:45]  WmiPrvSE.exe
+[30/2017/04:27:45]  GoogleCrashHandler.exe
+[30/2017/04:27:45]  GoogleCrashHandler64.exe
+[30/2017/04:27:45]  svchost.exe
+[30/2017/04:27:45]  wmpnetwk.exe
+[30/2017/04:27:45]  SearchIndexer.exe
+[30/2017/04:27:45]  WmiPrvSE.exe
+[30/2017/04:27:45]  taskhost.exe
+[30/2017/04:27:45]  HControl.exe
+[30/2017/04:27:45]  dwm.exe
+[30/2017/04:27:45]  explorer.exe
+[30/2017/04:27:45]  taskeng.exe
+[30/2017/04:27:45]  RAVCpl64.exe
+[30/2017/04:27:45]  ETDCtrl.exe
+[30/2017/04:27:45]  vsnp2uvc.exe
+[30/2017/04:27:45]  Skype.exe
+[30/2017/04:27:45]  ATKOSD2.exe
+[30/2017/04:27:45]  ETDCtrlHelper.exe
+[30/2017/04:27:45]  DMedia.exe
+[30/2017/04:27:45]  CheckNDISPort_df.exe
+[30/2017/04:27:45]  CancelAutoPlay_df.exe
+[30/2017/04:27:45]  MOM.exe
+[30/2017/04:27:45]  QHSafeTray.exe
+[30/2017/04:27:45]  AsusTPLoader.exe
+[30/2017/04:27:45]  mshta.exe
+[30/2017/04:27:45]  cmd.exe
+[30/2017/04:27:45]  conhost.exe
+[30/2017/04:27:45]  QuickGesture64.exe
+[30/2017/04:27:45]  Skype.exe
+[30/2017/04:27:45]  powershell.exe
+[30/2017/04:27:45]  QuickGesture.exe
+[30/2017/04:27:45]  RAVBg64.exe
+[30/2017/04:27:45]  Skype.exe
+[30/2017/04:27:45]  Skype.exe
+[30/2017/04:27:45]  AsusSmartGestureDetector64.exe
+[30/2017/04:27:45]  PresentationFontCache.exe
+[30/2017/04:27:45]  ucp.exe
+[30/2017/04:27:45]  chrome.exe
+[30/2017/04:27:45]  chrome.exe
+[30/2017/04:27:45]  chrome.exe
+[30/2017/04:27:45]  chrome.exe
+[30/2017/04:27:45]  chrome.exe
+[30/2017/04:27:45]  chrome.exe
+[30/2017/04:27:45]  cmd.exe
+[30/2017/04:27:45]  conhost.exe
+[30/2017/04:27:45]  360webshield.exe
+[30/2017/04:27:45]  chrome.exe
+[30/2017/04:27:45]  Skype.exe
+[30/2017/04:27:45]  SearchProtocolHost.exe
+[30/2017/04:27:45]  SearchFilterHost.exe
+[30/2017/04:27:45]  WmiPrvSE.exe
+[30/2017/04:27:45]  Mark46.PS.v0.0.5.5.exe
+[30/2017/04:27:45]  -------------------------------------------------
+[30/2017/04:27:47]  1 > D:\\cssv34\Counter-Strike Source v34 NewStyleucp.exe
+[30/2017/04:27:48]  Сканирование начался...
+[30/2017/04:27:59]  DubMood MK-01 (Не обнаружено)
+[30/2017/04:28:08]  WallHack UCP (Не обнаружено)
+[30/2017/04:28:14]  Unknown Hack (Не обнаружено)
+[30/2017/04:28:20]  DubMood MK-02 (Не обнаружено)
+[30/2017/04:28:20]  =========================================================================================
+[30/2017/04:28:20]  MD5: [20c921391ff8ab1045cb52503438e408] - Size: [6.5 KB] - DLL: C:\\Windows\System32\apisetschema.dll
+[30/2017/04:28:20]  MD5: [c5dea5b95af9aa981c88cab94a58213e] - Size: [410.04 KB] - DLL: C:\\Windows\System32\locale.nls
+[30/2017/04:28:20]  MD5: [364ffe57fbbcbd901effa5a22d603a65] - Size: [4 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\msctf.dll.mui
+[30/2017/04:28:20]  MD5: [8dd165cd6796dc2b62230962b0fef630] - Size: [839.63 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\ucp.exe
+[30/2017/04:28:20]  MD5: [ccd2975301b474a63693752453759628] - Size: [100 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\scenefilecache.dll
+[30/2017/04:28:20]  MD5: [05f8901f9b0cf472b183196d84791389] - Size: [2.81 MB] - DLL: C:\\Windows\Globalization\Sorting\SortDefault.nls
+[30/2017/04:28:20]  MD5: [f59264b667c12bbbac3a2af97181a66e] - Size: [31.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\urlmon.dll.mui
+[30/2017/04:28:20]  MD5: [e7f29ce7e585fe009c78787bb8e5c50d] - Size: [16 KB] - DLL: C:\\Users\Рафаэль\AppData\Local\Microsoft\Internet Explorer\MSIMGSIZ.DAT
+[30/2017/04:28:20]  MD5: [7d394a092014078a2f2168dc57d015b1] - Size: [4.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\mshtml.dll.mui
+[30/2017/04:28:20]  MD5: [376acdef47613b7374e0b25b1a42d1db] - Size: [209.24 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\tier0.dll
+[30/2017/04:28:20]  MD5: [848db2d8b367209b887c20d364a522c0] - Size: [240 KB] - DLL: C:\\Users\Рафаэль\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+[30/2017/04:28:20]  MD5: [cab4835b89670ce8afd8ab76eccad73c] - Size: [32 KB] - DLL: C:\\Users\Рафаэль\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+[30/2017/04:28:20]  MD5: [b888c6b4c0683e81dc339f01940aa915] - Size: [144 KB] - DLL: C:\\Users\Рафаэль\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+[30/2017/04:28:20]  MD5: [f462545467a417699fac0b28c7e1e77c] - Size: [116 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vstdlib.dll
+[30/2017/04:28:20]  MD5: [4006dd98edcfd1da23ac6175e73cb1e0] - Size: [316 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\FileSystem_Steam.dll
+[30/2017/04:28:20]  MD5: [e115e693576a3bce05e6a10cdd891d75] - Size: [92 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\parsifal.dll
+[30/2017/04:28:20]  MD5: [886cff5bd45ee6e1f22099f2b69e4b4c] - Size: [196 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\dmserializers.dll
+[30/2017/04:28:20]  MD5: [f605ab26b3f78cb5676148b04d82c1ec] - Size: [7.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\msvfw32.dll.mui
+[30/2017/04:28:20]  MD5: [a990d29d0bf0cc3f69fa2fda8cc35e86] - Size: [952 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\datamodel.dll
+[30/2017/04:28:20]  MD5: [9988927d465010fe7527acb6ad500e15] - Size: [136 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\datacache.dll
+[30/2017/04:28:20]  MD5: [4c60d794e334c48e0512f0e95130454e] - Size: [68 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\inputsystem.dll
+[30/2017/04:28:20]  MD5: [acb769ec498fb62316eab45adb680f22] - Size: [64.53 KB] - DLL: C:\\Windows\System32\C_1252.NLS
+[30/2017/04:28:20]  MD5: [3de458f059ce4a5a89df9c59b253dc27] - Size: [76 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\valve_avi.dll
+[30/2017/04:28:20]  MD5: [cf7cbff5eea947f17da5978021d1ddcb] - Size: [588 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\MaterialSystem.dll
+[30/2017/04:28:20]  MD5: [7a16401e816c6bfd8b662028d9ccfb33] - Size: [773.49 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vguimatsurface.dll
+[30/2017/04:28:20]  MD5: [19e072aed1546482f325c03568fa0e0e] - Size: [449.49 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vgui2.dll
+[30/2017/04:28:20]  MD5: [9d243b36b4d4c383484a61fc0d8e3aed] - Size: [62.5 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\steam_api.dll
+[30/2017/04:28:20]  MD5: [bcde0b774050cf3504a5619b225b36eb] - Size: [50.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\setupapi.dll.mui
+[30/2017/04:28:20]  MD5: [4ba5ea72e175c75ddf5de6147c47ac23] - Size: [3.7 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\engine.dll
+[30/2017/04:28:20]  MD5: [f7ce6a01fd8cc53f151928712d8959ae] - Size: [152 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vaudio_speex.dll
+[30/2017/04:28:20]  MD5: [9376509054231fa938601ada5321e182] - Size: [52 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\unicode.dll
+[30/2017/04:28:20]  MD5: [94cc268515a532651e1e5c154103fa89] - Size: [2.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\wdmaud.drv.mui
+[30/2017/04:28:20]  MD5: [6798b61b8bf40e20613a32baacc69413] - Size: [2 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\MMDevAPI.dll.mui
+[30/2017/04:28:20]  MD5: [5aba5d97637291b1494ca73044848d3c] - Size: [124 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dbg.dll
+[30/2017/04:28:20]  MD5: [1c7fa1f970cd8c2e84bcaf5d929b266f] - Size: [168 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx6.dll
+[30/2017/04:28:20]  MD5: [569cfec8463082ee3ddfc6866befcf4a] - Size: [120 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx7.dll
+[30/2017/04:28:20]  MD5: [91b57edfedd614358debca629dfeb5cd] - Size: [224 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx8.dll
+[30/2017/04:28:20]  MD5: [dfe1ba04c7e489d1a6877e827cd7d241] - Size: [280 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx9.dll
+[30/2017/04:28:20]  MD5: [2f213c417a405b05fb207fd4574755c5] - Size: [16.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\mlang.dll.mui
+[30/2017/04:28:20]  MD5: [b3f19302660cbeea4afa5632fe700d74] - Size: [196 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\SoundEmitterSystem.dll
+[30/2017/04:28:21]  MD5: [4c64bf18568f73070546a445b0726f80] - Size: [15 KB] - DLL: C:\\Windows\SysWOW64\en-US\mlang.dll.mui
+[30/2017/04:28:21]  MD5: [8e82d6ea8a7c3b674ad7b4e612d994d9] - Size: [41 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\crypt32.dll.mui
+[30/2017/04:28:21]  MD5: [6cb26848bcdaa361b6ee21264fb362c3] - Size: [64.53 KB] - DLL: C:\\Windows\System32\C_20127.NLS
+[30/2017/04:28:21]  MD5: [0e99ca8ec1ff013f4bc7898a9c7db51b] - Size: [1.76 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\GameUI.dll
+[30/2017/04:28:21]  MD5: [90fb1802d488ffa9029854a77d4f3f27] - Size: [4 KB] - DLL: C:\\Windows\SysWOW64\oleaccrc.dll
+[30/2017/04:28:21]  MD5: [d255db57c55d6c8dbf06e8d963f4d742] - Size: [56 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vaudio_miles.dll
+[30/2017/04:28:21]  MD5: [fa9d5468cf51cd1d0a925ab1a17197f2] - Size: [176 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\launcher.dll
+[30/2017/04:28:21]  MD5: [958021f4ef8693b962c57d5854160e09] - Size: [1.03 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\ServerBrowser.dll
+[30/2017/04:28:21]  MD5: [9596dc8cb1f0daa047522ce84850ca41] - Size: [304 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\Steam.dll
+[30/2017/04:28:21]  MD5: [91372c57cd38cd596dc33f54fd88392f] - Size: [364 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\Mss32.dll
+[30/2017/04:28:21]  MD5: [c1ba065f4508aeb9028828cf418991be] - Size: [5.79 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\cstrike\bin\server.dll
+[30/2017/04:28:21]  MD5: [091fddc0a30055e077dbc73d2c687098] - Size: [3.97 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\cstrike\bin\client.dll
+[30/2017/04:28:21]  MD5: [2f95888eac02a20afb93051bd73b76ab] - Size: [1.13 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vphysics.dll
+[30/2017/04:28:21]  MD5: [b6bcba8dff46272b218dae0a93ffeb0b] - Size: [209.5 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\mssvoice.asi
+[30/2017/04:28:21]  MD5: [c6bf2dd9018536e3478369cc65a03870] - Size: [146 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\mssmp3.asi
+[30/2017/04:28:21]  MD5: [5dea6e46a8899ce6bc9ebea17b59e29d] - Size: [605.24 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\shaderapidx9.dll
+[30/2017/04:28:21]  MD5: [99ad19565b1fc08af26c98dfda0d99b1] - Size: [400 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\StudioRender.dll
+[30/2017/04:28:21]  MD5: [7eefd6f7a921334c21fecf9b7d575546] - Size: [1.26 MB] - DLL: C:\\Windows\SysWOW64\ru-RU\ieframe.dll.mui
+[30/2017/04:28:21]  MD5: [3c7516556aaaae6758768a39ae09b496] - Size: [9.19 MB] - DLL: C:\\Windows\Fonts\StaticCache.dat
+[30/2017/04:28:21]  MD5: [7adc4cb02f9a7af5394f690d11a6ae8b] - Size: [4.05 MB] - DLL: C:\\Windows\SysWOW64\atiumdag.dll
+[30/2017/04:28:21]  MD5: [f36ad0f7341e35476f004249406468f3] - Size: [3.46 MB] - DLL: C:\\Windows\SysWOW64\atiumdva.dll
+[30/2017/04:28:21]  MD5: [5a12c364ad1d4fcc0ad0e56dbbc34462] - Size: [16.5 KB] - DLL: C:\\Windows\SysWOW64\midimap.dll
+[30/2017/04:28:21]  MD5: [85683df1f917e4d7f6be1a04986bf1c8] - Size: [70.5 KB] - DLL: C:\\Windows\SysWOW64\msacm32.dll
+[30/2017/04:28:21]  MD5: [d205c24a9d069049fe2df2a1b38726a7] - Size: [168 KB] - DLL: C:\\Windows\SysWOW64\wdmaud.drv
+[30/2017/04:28:21]  MD5: [e84acdc4317b6092d6f48dc98c0f2230] - Size: [28.5 KB] - DLL: C:\\Windows\SysWOW64\atiu9pag.dll
+[30/2017/04:28:21]  MD5: [f729a943495e86022316bb7f33092448] - Size: [656 KB] - DLL: C:\\Windows\SysWOW64\aticfx32.dll
+[30/2017/04:28:21]  MD5: [6ef5f3f18413c367195f06e503ab86a6] - Size: [1.74 MB] - DLL: C:\\Windows\SysWOW64\d3d9.dll
+[30/2017/04:28:21]  MD5: [77b1471a490b53b24efe136f09f76550] - Size: [11 KB] - DLL: C:\\Windows\SysWOW64\d3d8thk.dll
+[30/2017/04:28:21]  MD5: [a4c85f362ebb7815676f1cd9cfc5ba59] - Size: [4.5 KB] - DLL: C:\\Windows\SysWOW64\ksuser.dll
+[30/2017/04:28:21]  MD5: [139d3ab6aa920c34c50cbffb9eb7d222] - Size: [14 KB] - DLL: C:\\Windows\SysWOW64\avrt.dll
+[30/2017/04:28:21]  MD5: [4619e14b2df4137907cd988aca4b30a5] - Size: [10.48 MB] - DLL: C:\\Windows\SysWOW64\ieframe.dll
+[30/2017/04:28:21]  MD5: [c50799f0d47dfb9774f721521b6c41d5] - Size: [5.7 MB] - DLL: C:\\Windows\SysWOW64\mshtml.dll
+[30/2017/04:28:21]  MD5: [2fd5f55a00ec548df812c08238717edb] - Size: [81 KB] - DLL: C:\\Windows\SysWOW64\bcrypt.dll
+[30/2017/04:28:21]  MD5: [d05915a7710b4c8e2c15b58286d72fc4] - Size: [218 KB] - DLL: C:\\Windows\SysWOW64\ncrypt.dll
+[30/2017/04:28:21]  MD5: [8e01332cc4b68bc6b5b7effe374442aa] - Size: [228 KB] - DLL: C:\\Windows\SysWOW64\oleacc.dll
+[30/2017/04:28:21]  MD5: [58788565442368b0615ddaf1d452b843] - Size: [518 KB] - DLL: C:\\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\comctl32.dll
+[30/2017/04:28:21]  MD5: [c940f2f5c60b3727c5f18840735b229c] - Size: [191 KB] - DLL: C:\\Windows\SysWOW64\AudioSes.dll
+[30/2017/04:28:22]  MD5: [243974ec02f7ae49e4179c54624143ab] - Size: [208.5 KB] - DLL: C:\\Windows\SysWOW64\MMDevAPI.dll
+[30/2017/04:28:22]  MD5: [43964fa89ccf97ba6be34d69455ac65f] - Size: [240 KB] - DLL: C:\\Windows\SysWOW64\uxtheme.dll
+[30/2017/04:28:22]  MD5: [39c5f32747b3414d1bb216fdb1defc58] - Size: [65.5 KB] - DLL: C:\\Windows\SysWOW64\dwmapi.dll
+[30/2017/04:28:22]  MD5: [63df770df74acb370ef5a16727069aaf] - Size: [21.5 KB] - DLL: C:\\Windows\SysWOW64\hid.dll
+[30/2017/04:28:22]  MD5: [e3e811471de781900ff21c1fd84e941e] - Size: [88 KB] - DLL: C:\\Windows\SysWOW64\ntdsapi.dll
+[30/2017/04:28:22]  MD5: [cfc7d8289d2b5f3cf8d16e2db7f93d4a] - Size: [592 KB] - DLL: C:\\Windows\SysWOW64\wbem\fastprox.dll
+[30/2017/04:28:22]  MD5: [07393a09c46083588e751b63b03c8301] - Size: [20.5 KB] - DLL: C:\\Windows\SysWOW64\msacm32.drv
+[30/2017/04:28:22]  MD5: [3a2e6016ff209066f3129543660be0b5] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-utility-l1-1-0.dll
+[30/2017/04:28:22]  MD5: [e37ec711d51aaf9fd8570739ed8a1ac0] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-environment-l1-1-0.dll
+[30/2017/04:28:22]  MD5: [bcbe1bd34aa5e3e585e8a186ece49fa0] - Size: [13.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-filesystem-l1-1-0.dll
+[30/2017/04:28:22]  MD5: [e5de5f75ff6739ac9aabbdd4740b22a9] - Size: [13.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-time-l1-1-0.dll
+[30/2017/04:28:22]  MD5: [3df1d7da8c1493a5a00c0474323fef20] - Size: [900.81 KB] - DLL: C:\\Windows\SysWOW64\ucrtbase.dll
+[30/2017/04:28:22]  MD5: [74126d3bed0e43de875b66c63c608f42] - Size: [19.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-multibyte-l1-1-0.dll
+[30/2017/04:28:22]  MD5: [109f0f02fd37c84bfc7508d4227d7ed5] - Size: [429.8 KB] - DLL: C:\\Windows\SysWOW64\msvcp140.dll
+[30/2017/04:28:22]  MD5: [924e2f51de0177d08aabab725421d70c] - Size: [21.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-math-l1-1-0.dll
+[30/2017/04:28:22]  MD5: [b05d416f3162d1686914606e9c794997] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-locale-l1-1-0.dll
+[30/2017/04:28:22]  MD5: [522226c519cdd233360bf0ce80b0ceba] - Size: [15.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-convert-l1-1-0.dll
+[30/2017/04:28:22]  MD5: [1d96a0d2ef83c6c1176806c02f96384a] - Size: [17.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-stdio-l1-1-0.dll
+[30/2017/04:28:22]  MD5: [db9feff915f895be960e9d1d47639324] - Size: [12.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-heap-l1-1-0.dll
+[30/2017/04:28:22]  MD5: [7587bf9cb4147022cd5681b015183046] - Size: [81.82 KB] - DLL: C:\\Windows\SysWOW64\vcruntime140.dll
+[30/2017/04:28:22]  MD5: [776ae0564f8b1c282e331fd95a1bdc5f] - Size: [46.5 KB] - DLL: C:\\Windows\SysWOW64\wbem\wbemsvc.dll
+[30/2017/04:28:22]  MD5: [704314fd398c81d5f342caa5df7b7f21] - Size: [354.5 KB] - DLL: C:\\Windows\SysWOW64\wbemcomn.dll
+[30/2017/04:28:22]  MD5: [c5b0324db461559add070e632a6919fa] - Size: [28.5 KB] - DLL: C:\\Windows\SysWOW64\wbem\wbemprox.dll
+[30/2017/04:28:22]  MD5: [0e9d1bce1bb8a5e25b505ce7b52cce74] - Size: [17.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-string-l1-1-0.dll
+[30/2017/04:28:22]  MD5: [11a771fc68fb315ad3ddb1d73d4353ed] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-file-l1-2-0.dll
+[30/2017/04:28:22]  MD5: [d34ac714c338c2d4a3d98c5a4a81313f] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-processthreads-l1-1-1.dll
+[30/2017/04:28:22]  MD5: [83d00d9303375b674e6cfc4365321c72] - Size: [13.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-localization-l1-2-0.dll
+[30/2017/04:28:22]  MD5: [57b17fd79b22fff75f1e34b1b680383c] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-file-l2-1-0.dll
+[30/2017/04:28:22]  MD5: [0e85c11f8850d524b02181c6e02ba9ae] - Size: [443 KB] - DLL: C:\\Windows\SysWOW64\dsound.dll
+[30/2017/04:28:22]  MD5: [d2bbc72e0cdf8639c8274edb395c9103] - Size: [133.5 KB] - DLL: C:\\Windows\SysWOW64\dinput.dll
+[30/2017/04:28:22]  MD5: [d07f2e1ff3ca24a06adde429a0130e50] - Size: [15.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-runtime-l1-1-0.dll
+[30/2017/04:28:22]  MD5: [241a1900c52dcba38b20a4f3671444e0] - Size: [1012.5 KB] - DLL: C:\\Windows\SysWOW64\d3d8.dll
+[30/2017/04:28:22]  MD5: [c6cbaacb8f1d8d1c9da89c1e9c21925b] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-timezone-l1-1-0.dll
+[30/2017/04:28:22]  MD5: [1fcda65915e15a4410ac7912f1f93e03] - Size: [38 KB] - DLL: C:\\Windows\SysWOW64\mcicda.dll
+[30/2017/04:28:22]  MD5: [c335ec1182ac10b188705554e0bc1186] - Size: [117.5 KB] - DLL: C:\\Windows\SysWOW64\msvfw32.dll
+[30/2017/04:28:22]  MD5: [dceabba22e12cc44c2e7785c0eb9c6e3] - Size: [89.5 KB] - DLL: C:\\Windows\SysWOW64\avifil32.dll
+[30/2017/04:28:22]  MD5: [df13a51a5c591887d2ec6ae64ceed0fa] - Size: [15 KB] - DLL: C:\\Windows\SysWOW64\wsock32.dll
+[30/2017/04:28:22]  MD5: [ac122407b29378ff9646f03404ac7c54] - Size: [35.5 KB] - DLL: C:\\Windows\SysWOW64\wshbth.dll
+[30/2017/04:28:22]  MD5: [5df5d8cfd9b9573fa3b2c89d9061a240] - Size: [20.5 KB] - DLL: C:\\Windows\SysWOW64\winrnr.dll
+[30/2017/04:28:22]  MD5: [5cf640eddb1e40a5ab1bb743bcdec610] - Size: [63.5 KB] - DLL: C:\\Windows\SysWOW64\pnrpnsp.dll
+[30/2017/04:28:22]  MD5: [0b7e85364cb878e2ad531db7b601a9e5] - Size: [51 KB] - DLL: C:\\Windows\SysWOW64\NapiNSP.dll
+[30/2017/04:28:22]  MD5: [fe48346938c1cdddf4e4097db9b99764] - Size: [51 KB] - DLL: C:\\Windows\SysWOW64\nlaapi.dll
+[30/2017/04:28:22]  MD5: [f0d0e883ebbdc7615dc9edea0ffb2817] - Size: [211.5 KB] - DLL: C:\\Windows\SysWOW64\FWPUCLNT.DLL
+[30/2017/04:28:22]  MD5: [ed6ee83d61ebc683c2cd8e899ea6febe] - Size: [11.5 KB] - DLL: C:\\Windows\SysWOW64\rasadhlp.dll
+[30/2017/04:28:22]  MD5: [73e8667a19feedd856df2695e9e511d4] - Size: [10.5 KB] - DLL: C:\\Windows\SysWOW64\wship6.dll
+[30/2017/04:28:22]  MD5: [ee5c8e27c37b79cb54a2fceeed2dc262] - Size: [9 KB] - DLL: C:\\Windows\SysWOW64\WSHTCPIP.DLL
+[30/2017/04:28:22]  MD5: [3fd15b4611d9bda3f8013548c0ecaeca] - Size: [119 KB] - DLL: C:\\Windows\SysWOW64\ntmarta.dll
+[30/2017/04:28:22]  MD5: [9f466ef69389a8a3dcbac655a4ca2d85] - Size: [1.55 MB] - DLL: C:\\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.23894_none_5c0be957a009922e\GdiPlus.dll
+[30/2017/04:28:22]  MD5: [885e18b2d0a445fb637850282530eb72] - Size: [1.6 MB] - DLL: C:\\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\comctl32.dll
+[30/2017/04:28:22]  MD5: [12c45e3cb6d65f73209549e2d02eca7a] - Size: [965 KB] - DLL: C:\\Windows\SysWOW64\propsys.dll
+[30/2017/04:28:22]  MD5: [863f793d15b4026b1a5fdeca873d4d84] - Size: [289 KB] - DLL: C:\\Windows\SysWOW64\apphelp.dll
+[30/2017/04:28:22]  MD5: [1d70f80d1cfde11571054e56b45c15c2] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-synch-l1-2-0.dll
+[30/2017/04:28:22]  MD5: [a88241c2a519afd2c99a40000f9113e6] - Size: [226 KB] - DLL: C:\\Windows\SysWOW64\mswsock.dll
+[30/2017/04:28:22]  MD5: [5997d769cdb108390dcfaebf442bf816] - Size: [45 KB] - DLL: C:\\Windows\SysWOW64\RpcRtRemote.dll
+[30/2017/04:28:22]  MD5: [0915c4db6dbc3bb9e11b7ecbbe4b7159] - Size: [36.5 KB] - DLL: C:\\Windows\SysWOW64\rtutils.dll
+[30/2017/04:28:22]  MD5: [d72b4a7b7ed6a419d9573d9dc402e278] - Size: [21.5 KB] - DLL: C:\\Windows\SysWOW64\secur32.dll
+[30/2017/04:28:22]  MD5: [b40420876b9288e0a1c8cca8a84e5dc9] - Size: [264 KB] - DLL: C:\\Windows\SysWOW64\dnsapi.dll
+[30/2017/04:28:22]  MD5: [ed8ec63f7522df4852147c84ec62c36a] - Size: [237.24 KB] - DLL: C:\\Windows\SysWOW64\rsaenh.dll
+[30/2017/04:28:22]  MD5: [7321f18d1f820612ed0e9f2d4b578a7e] - Size: [77 KB] - DLL: C:\\Windows\SysWOW64\cryptsp.dll
+[30/2017/04:28:22]  MD5: [e5a4a1326a02f8e7b59e6c3270ce7202] - Size: [46 KB] - DLL: C:\\Windows\SysWOW64\wkscli.dll
+[30/2017/04:28:22]  MD5: [5ccdcd40e732d54e0f7451ac66ac1c87] - Size: [88 KB] - DLL: C:\\Windows\SysWOW64\srvcli.dll
+[30/2017/04:28:22]  MD5: [20b3934db73eaba2b49b7177873cb81f] - Size: [22 KB] - DLL: C:\\Windows\SysWOW64\netutils.dll
+[30/2017/04:28:22]  MD5: [2fca0d2c59a855c54bafa22aa329df0f] - Size: [56 KB] - DLL: C:\\Windows\SysWOW64\netapi32.dll
+[30/2017/04:28:22]  MD5: [702254574e7e52052de39408457b7149] - Size: [21 KB] - DLL: C:\\Windows\SysWOW64\version.dll
+[30/2017/04:28:22]  MD5: [f05f26dd4b8640cb71f8c40bd6530fd1] - Size: [16 KB] - DLL: C:\\Windows\SysWOW64\winnsi.dll
+[30/2017/04:28:22]  MD5: [a90dc9abd65db1a8902f361103029952] - Size: [101.5 KB] - DLL: C:\\Windows\SysWOW64\IPHLPAPI.DLL
+[30/2017/04:28:22]  MD5: [2bf6be23d2e045e020c70379ec8620ad] - Size: [1.38 MB] - DLL: C:\\Program Files (x86)\360\Total Security\safemon\safemon.dll
+[30/2017/04:28:22]  MD5: [08dfdbd2fd4ea951dc46b1c7661ed35a] - Size: [142 KB] - DLL: C:\\Windows\SysWOW64\powrprof.dll
+[30/2017/04:28:22]  MD5: [ec546e99ad2a4ce11d1186c6f770b6e8] - Size: [104 KB] - DLL: C:\\Windows\SysWOW64\cryptnet.dll
+[30/2017/04:28:22]  MD5: [fbe4e7975289230f84d9da2222448ac3] - Size: [77.5 KB] - DLL: C:\\Windows\SysWOW64\gpapi.dll
+[30/2017/04:28:22]  MD5: [6b98026761228f913e9fa3f974920a20] - Size: [243.51 KB] - DLL: C:\\Windows\SysWOW64\bcryptprimitives.dll
+[30/2017/04:28:22]  MD5: [209af147f8e7a8d780621e893b6409f1] - Size: [17 KB] - DLL: C:\\Windows\SysWOW64\credssp.dll
+[30/2017/04:28:22]  MD5: [3b33579008111ebfd3d258547b27d940] - Size: [248.5 KB] - DLL: C:\\Windows\SysWOW64\schannel.dll
+[30/2017/04:28:22]  MD5: [839f96dbaafd3353e0b248a5e0bd2a51] - Size: [317.5 KB] - DLL: C:\\Windows\SysWOW64\rasapi32.dll
+[30/2017/04:28:22]  MD5: [ffa7172354b9256dbb2cdd75f16f33fe] - Size: [75 KB] - DLL: C:\\Windows\SysWOW64\rasman.dll
+[30/2017/04:28:22]  MD5: [919001d2bb17df06ca3f8ac16ad039f6] - Size: [371.5 KB] - DLL: C:\\Windows\SysWOW64\sxs.dll
+[30/2017/04:28:22]  MD5: [1d1eaa16d193c6a2d45981ed3914d22a] - Size: [30.5 KB] - DLL: C:\\Windows\SysWOW64\msimtf.dll
+[30/2017/04:28:22]  MD5: [6f8e3b7b70e1bba871212940c1fbdf60] - Size: [10.5 KB] - DLL: C:\\Windows\SysWOW64\SensApi.dll
+[30/2017/04:28:22]  MD5: [26025a46fb3fdb40ff06bbf1834093b5] - Size: [153.5 KB] - DLL: C:\\Windows\SysWOW64\msls31.dll
+[30/2017/04:28:22]  MD5: [8ee6bde1d572677aa35707c52c585f75] - Size: [173.5 KB] - DLL: C:\\Windows\SysWOW64\mlang.dll
+[30/2017/04:28:22]  MD5: [d5aefad57c08349a4393d987df7c715d] - Size: [189.5 KB] - DLL: C:\\Windows\SysWOW64\winmm.dll
+[30/2017/04:28:22]  MD5: [c733d233b623b7ffce5031e4b756ee26] - Size: [31 KB] - DLL: C:\\Windows\SysWOW64\profapi.dll
+[30/2017/04:28:22]  MD5: [d15618a0ff8dbc2c5bf3726bacc75a0b] - Size: [80 KB] - DLL: C:\\Windows\SysWOW64\userenv.dll
+[30/2017/04:28:22]  MD5: [-1] - Size: [4 GB] - DLL: 
+[30/2017/04:28:22]  MD5: [04c83f9778935f4b8053b60faecd00f8] - Size: [35.5 KB] - DLL: C:\\Windows\SysWOW64\cryptbase.dll
+[30/2017/04:28:22]  MD5: [664aaead250e379b8ea659e6fba88fb7] - Size: [94.5 KB] - DLL: C:\\Windows\SysWOW64\sspicli.dll
+[30/2017/04:28:23]  MD5: [10fb16b50affda6d44588f3c445dc273] - Size: [1.59 MB] - DLL: C:\\Windows\SysWOW64\setupapi.dll
+[30/2017/04:28:23]  MD5: [9dc80a8aaaaac397bdab3c67165a824e] - Size: [674.5 KB] - DLL: C:\\Windows\SysWOW64\msvcrt.dll
+[30/2017/04:28:23]  MD5: [44214c94911c7cfb1d52cb64d5e8368d] - Size: [958 KB] - DLL: C:\\Windows\SysWOW64\wininet.dll
+[30/2017/04:28:23]  MD5: [0e66441d514c6ce6e3f8e0bfe368a561] - Size: [269 KB] - DLL: C:\\Windows\SysWOW64\KernelBase.dll
+[30/2017/04:28:23]  MD5: [a543ac1f7138376d778d630a35fcbc4c] - Size: [6 KB] - DLL: C:\\Windows\SysWOW64\psapi.dll
+[30/2017/04:28:23]  MD5: [09e512220e90adda6e818120bb528b0a] - Size: [175 KB] - DLL: C:\\Windows\SysWOW64\wintrust.dll
+[30/2017/04:28:23]  MD5: [8cc3c111d653e96f3ea1590891491d71] - Size: [342 KB] - DLL: C:\\Windows\SysWOW64\shlwapi.dll
+[30/2017/04:28:23]  MD5: [05eeab5333915ac5fc14923348699767] - Size: [650.5 KB] - DLL: C:\\Windows\SysWOW64\rpcrt4.dll
+[30/2017/04:28:23]  MD5: [cc4ed8bea78b0dca6f217e014c3291a7] - Size: [63 KB] - DLL: C:\\Windows\SysWOW64\devobj.dll
+[30/2017/04:28:23]  MD5: [e069a3b525828f055d9bf71a1b3dbc1e] - Size: [305.5 KB] - DLL: C:\\Windows\SysWOW64\gdi32.dll
+[30/2017/04:28:23]  MD5: [cfc97f07904067a1e5fae195d534da3a] - Size: [90 KB] - DLL: C:\\Windows\SysWOW64\sechost.dll
+[30/2017/04:28:23]  MD5: [3cb074875ac88a7c1010a2a7f9881a8c] - Size: [813.5 KB] - DLL: C:\\Windows\SysWOW64\user32.dll
+[30/2017/04:28:23]  MD5: [56c419d44417bed424a155213f77919e] - Size: [1.35 MB] - DLL: C:\\Windows\SysWOW64\ole32.dll
+[30/2017/04:28:23]  MD5: [af40fdab98b0ff209632c3403db6c39f] - Size: [811 KB] - DLL: C:\\Windows\SysWOW64\msctf.dll
+[30/2017/04:28:23]  MD5: [f8c7346ce9939f2e67887e2300f25694] - Size: [615 KB] - DLL: C:\\Windows\SysWOW64\usp10.dll
+[30/2017/04:28:23]  MD5: [71ed0b7ab6d3cb42604a924598b06b97] - Size: [25 KB] - DLL: C:\\Windows\SysWOW64\lpk.dll
+[30/2017/04:28:23]  MD5: [ebb431c6332107651cd2e2715a707994] - Size: [1.17 MB] - DLL: C:\\Windows\SysWOW64\urlmon.dll
+[30/2017/04:28:23]  MD5: [3ffaea12666e565ff51bf2fca674f543] - Size: [142.5 KB] - DLL: C:\\Windows\SysWOW64\cfgmgr32.dll
+[30/2017/04:28:23]  MD5: [ff5688d309347f2720911d8796912834] - Size: [510 KB] - DLL: C:\\Windows\SysWOW64\clbcatq.dll
+[30/2017/04:28:23]  MD5: [683e0c9da9e1eb9e4691dfae0ec83e36] - Size: [1.97 MB] - DLL: C:\\Windows\SysWOW64\iertutil.dll
+[30/2017/04:28:24]  MD5: [6d16e9db9569e82f09e5037c361bd0fc] - Size: [12.28 MB] - DLL: C:\\Windows\SysWOW64\shell32.dll
+[30/2017/04:28:24]  MD5: [2f929c103155ee98efb649fe9af21740] - Size: [265 KB] - DLL: C:\\Windows\SysWOW64\Wldap32.dll
+[30/2017/04:28:24]  MD5: [df132f0cdef8b997eee1fa016dba2007] - Size: [629 KB] - DLL: C:\\Windows\SysWOW64\advapi32.dll
+[30/2017/04:28:24]  MD5: [461e66e464906659438e351f90dc2f07] - Size: [1.06 MB] - DLL: C:\\Windows\SysWOW64\kernel32.dll
+[30/2017/04:28:24]  MD5: [938f39b50bafe13d6f58c7790682c010] - Size: [33.5 KB] - DLL: C:\\Windows\SysWOW64\msasn1.dll
+[30/2017/04:28:24]  MD5: [a6f09e5669d9a19035f6d942caa15882] - Size: [117 KB] - DLL: C:\\Windows\SysWOW64\imm32.dll
+[30/2017/04:28:24]  MD5: [94e1c3a20358db82b31677318bbeb120] - Size: [568 KB] - DLL: C:\\Windows\SysWOW64\oleaut32.dll
+[30/2017/04:28:24]  MD5: [6b1e1d3d3db1c1fad675e01c6fbef330] - Size: [1.12 MB] - DLL: C:\\Windows\SysWOW64\crypt32.dll
+[30/2017/04:28:24]  MD5: [0723a00c740a0d1b5460fbfe048c3e68] - Size: [8.5 KB] - DLL: C:\\Windows\SysWOW64\nsi.dll
+[30/2017/04:28:24]  MD5: [59ea5753ebdae42cf92fd5b6e7ae4d53] - Size: [201.5 KB] - DLL: C:\\Windows\SysWOW64\ws2_32.dll
+[30/2017/04:28:24]  MD5: [3af3c9d98e5020e55da67e3bd468d59d] - Size: [1.25 MB] - DLL: C:\\Windows\System32\ntdll.dll
+[30/2017/04:28:24]  MD5: [9c278785347bcc991f8ea2999d90f58d] - Size: [2 KB] - DLL: C:\\Windows\SysWOW64\normaliz.dll
+[30/2017/04:28:24]  MD5: [3af3c9d98e5020e55da67e3bd468d59d] - Size: [1.25 MB] - DLL: C:\\Windows\SysWOW64\ntdll.dll
+[30/2017/04:28:24]  =========================================================================================
+[30/2017/04:28:24]  Сканирование завершено!
+[30/2017/04:28:24]  -> ScreenShot URL: http://mark46.clan.su/MK/NOHACK_USER/333050Z797_ucp/YOQCRPJU6IFOOZV_NOHACK.JPG
+[30/2017/04:28:24]  ....................................................................................
+[30/2017/04:28:58]  Найдена конфликтная программа.
+ Откройте диспетчер задач и отключите все сторонние программы кроме игры. 
+______________________________________________
+ Подсказка: DLL Injector v2.0 www.dllinjector.com
+[31/2017/09:53:15]  Skype: SkypeRT
+[31/2017/09:53:15]  -------------------------------------------------
+[31/2017/09:53:15]  [System Process]
+[31/2017/09:53:15]  System
+[31/2017/09:53:15]  smss.exe
+[31/2017/09:53:15]  csrss.exe
+[31/2017/09:53:15]  wininit.exe
+[31/2017/09:53:15]  csrss.exe
+[31/2017/09:53:15]  services.exe
+[31/2017/09:53:15]  lsass.exe
+[31/2017/09:53:15]  lsm.exe
+[31/2017/09:53:15]  svchost.exe
+[31/2017/09:53:15]  svchost.exe
+[31/2017/09:53:15]  winlogon.exe
+[31/2017/09:53:15]  atiesrxx.exe
+[31/2017/09:53:15]  svchost.exe
+[31/2017/09:53:15]  svchost.exe
+[31/2017/09:53:15]  svchost.exe
+[31/2017/09:53:15]  svchost.exe
+[31/2017/09:53:15]  RTKAUDIOSERVICE64.EXE
+[31/2017/09:53:15]  RAVBg64.exe
+[31/2017/09:53:15]  atieclxx.exe
+[31/2017/09:53:15]  QHActiveDefense.exe
+[31/2017/09:53:15]  svchost.exe
+[31/2017/09:53:15]  AsLdrSrv.exe
+[31/2017/09:53:15]  spoolsv.exe
+[31/2017/09:53:15]  svchost.exe
+[31/2017/09:53:15]  Fuel.Service.exe
+[31/2017/09:53:15]  service_update.exe
+[31/2017/09:53:15]  svchost.exe
+[31/2017/09:53:15]  svchost.exe
+[31/2017/09:53:15]  svchost.exe
+[31/2017/09:53:15]  WmiPrvSE.exe
+[31/2017/09:53:15]  QHWatchdog.exe
+[31/2017/09:53:15]  GoogleCrashHandler.exe
+[31/2017/09:53:15]  GoogleCrashHandler64.exe
+[31/2017/09:53:15]  wmpnetwk.exe
+[31/2017/09:53:15]  svchost.exe
+[31/2017/09:53:15]  SearchIndexer.exe
+[31/2017/09:53:15]  taskhost.exe
+[31/2017/09:53:15]  HControl.exe
+[31/2017/09:53:15]  dwm.exe
+[31/2017/09:53:15]  explorer.exe
+[31/2017/09:53:15]  taskeng.exe
+[31/2017/09:53:15]  RAVCpl64.exe
+[31/2017/09:53:15]  ETDCtrl.exe
+[31/2017/09:53:15]  vsnp2uvc.exe
+[31/2017/09:53:15]  Skype.exe
+[31/2017/09:53:15]  ATKOSD2.exe
+[31/2017/09:53:15]  DMedia.exe
+[31/2017/09:53:15]  CheckNDISPort_df.exe
+[31/2017/09:53:15]  CancelAutoPlay_df.exe
+[31/2017/09:53:15]  MOM.exe
+[31/2017/09:53:15]  QHSafeTray.exe
+[31/2017/09:53:15]  ETDCtrlHelper.exe
+[31/2017/09:53:15]  AsusTPLoader.exe
+[31/2017/09:53:15]  CCC.exe
+[31/2017/09:53:15]  WmiPrvSE.exe
+[31/2017/09:53:15]  Skype.exe
+[31/2017/09:53:15]  Skype.exe
+[31/2017/09:53:15]  QuickGesture64.exe
+[31/2017/09:53:15]  Skype.exe
+[31/2017/09:53:15]  QuickGesture.exe
+[31/2017/09:53:15]  mshta.exe
+[31/2017/09:53:15]  AsusSmartGestureDetector64.exe
+[31/2017/09:53:15]  cmd.exe
+[31/2017/09:53:15]  conhost.exe
+[31/2017/09:53:15]  powershell.exe
+[31/2017/09:53:15]  RAVBg64.exe
+[31/2017/09:53:15]  PresentationFontCache.exe
+[31/2017/09:53:15]  audiodg.exe
+[31/2017/09:53:15]  WUDFHost.exe
+[31/2017/09:53:15]  taskeng.exe
+[31/2017/09:53:15]  SearchProtocolHost.exe
+[31/2017/09:53:15]  SearchFilterHost.exe
+[31/2017/09:53:15]  WmiPrvSE.exe
+[31/2017/09:53:15]  dllhost.exe
+[31/2017/09:53:15]  Mark46.PS.v0.0.5.5.exe
+[31/2017/09:53:15]  -------------------------------------------------
+[31/2017/09:53:17]  Ваш ID: 333050Z797
+[31/2017/09:53:17]  Windows 7  Service Pack 1 x32
+[15/2018/04:02:16]  Skype: SkypeRT
+[15/2018/04:02:16]  -------------------------------------------------
+[15/2018/04:02:16]  [System Process]
+[15/2018/04:02:16]  System
+[15/2018/04:02:16]  smss.exe
+[15/2018/04:02:16]  csrss.exe
+[15/2018/04:02:16]  wininit.exe
+[15/2018/04:02:16]  csrss.exe
+[15/2018/04:02:16]  winlogon.exe
+[15/2018/04:02:16]  services.exe
+[15/2018/04:02:16]  lsass.exe
+[15/2018/04:02:16]  lsm.exe
+[15/2018/04:02:16]  svchost.exe
+[15/2018/04:02:16]  ASCService.exe
+[15/2018/04:02:16]  svchost.exe
+[15/2018/04:02:16]  atiesrxx.exe
+[15/2018/04:02:16]  svchost.exe
+[15/2018/04:02:16]  svchost.exe
+[15/2018/04:02:16]  svchost.exe
+[15/2018/04:02:16]  svchost.exe
+[15/2018/04:02:16]  svchost.exe
+[15/2018/04:02:16]  atieclxx.exe
+[15/2018/04:02:16]  RTKAUDIOSERVICE64.EXE
+[15/2018/04:02:16]  RAVBg64.exe
+[15/2018/04:02:16]  QHActiveDefense.exe
+[15/2018/04:02:16]  svchost.exe
+[15/2018/04:02:16]  AsLdrSrv.exe
+[15/2018/04:02:16]  spoolsv.exe
+[15/2018/04:02:17]  svchost.exe
+[15/2018/04:02:17]  Fuel.Service.exe
+[15/2018/04:02:17]  svchost.exe
+[15/2018/04:02:17]  svchost.exe
+[15/2018/04:02:17]  TeamViewer_Service.exe
+[15/2018/04:02:17]  svchost.exe
+[15/2018/04:02:17]  svchost.exe
+[15/2018/04:02:17]  svchost.exe
+[15/2018/04:02:17]  WmiPrvSE.exe
+[15/2018/04:02:17]  WmiPrvSE.exe
+[15/2018/04:02:17]  QHWatchdog.exe
+[15/2018/04:02:17]  taskhost.exe
+[15/2018/04:02:17]  HControl.exe
+[15/2018/04:02:17]  dwm.exe
+[15/2018/04:02:17]  explorer.exe
+[15/2018/04:02:17]  taskeng.exe
+[15/2018/04:02:17]  Monitor.exe
+[15/2018/04:02:17]  taskeng.exe
+[15/2018/04:02:17]  AsusTPLoader.exe
+[15/2018/04:02:17]  QuickGesture64.exe
+[15/2018/04:02:17]  QuickGesture.exe
+[15/2018/04:02:17]  RAVCpl64.exe
+[15/2018/04:02:17]  ETDCtrl.exe
+[15/2018/04:02:17]  vsnp2uvc.exe
+[15/2018/04:02:17]  GoogleCrashHandler.exe
+[15/2018/04:02:17]  GoogleCrashHandler64.exe
+[15/2018/04:02:17]  ETDCtrlHelper.exe
+[15/2018/04:02:17]  ATKOSD2.exe
+[15/2018/04:02:17]  svchost.exe
+[15/2018/04:02:17]  AsusSmartGestureDetector64.exe
+[15/2018/04:02:17]  CheckNDISPort_df.exe
+[15/2018/04:02:17]  CancelAutoPlay_df.exe
+[15/2018/04:02:17]  MOM.exe
+[15/2018/04:02:17]  SearchIndexer.exe
+[15/2018/04:02:17]  wmpnetwk.exe
+[15/2018/04:02:17]  svchost.exe
+[15/2018/04:02:17]  RAVBg64.exe
+[15/2018/04:02:17]  dllhost.exe
+[15/2018/04:02:17]  UninstallMonitor.exe
+[15/2018/04:02:17]  PresentationFontCache.exe
+[15/2018/04:02:17]  chrome.exe
+[15/2018/04:02:17]  chrome.exe
+[15/2018/04:02:17]  chrome.exe
+[15/2018/04:02:17]  chrome.exe
+[15/2018/04:02:17]  chrome.exe
+[15/2018/04:02:17]  chrome.exe
+[15/2018/04:02:17]  cmd.exe
+[15/2018/04:02:17]  conhost.exe
+[15/2018/04:02:17]  360webshield.exe
+[15/2018/04:02:17]  chrome.exe
+[15/2018/04:02:17]  chrome.exe
+[15/2018/04:02:17]  ucp.exe
+[15/2018/04:02:17]  audiodg.exe
+[15/2018/04:02:17]  chrome.exe
+[15/2018/04:02:17]  chrome.exe
+[15/2018/04:02:17]  Skype.exe
+[15/2018/04:02:17]  Skype.exe
+[15/2018/04:02:17]  Skype.exe
+[15/2018/04:02:17]  Skype.exe
+[15/2018/04:02:17]  Skype.exe
+[15/2018/04:02:17]  AnVir.exe
+[15/2018/04:02:17]  SearchProtocolHost.exe
+[15/2018/04:02:17]  SearchFilterHost.exe
+[15/2018/04:02:17]  Mark46.PS.v0.0.5.5.exe
+[15/2018/04:02:17]  dllhost.exe
+[15/2018/04:02:17]  AsusTPCenter.exe
+[15/2018/04:02:17]  AsusTPCenter.exe
+[15/2018/04:02:17]  AsusTPCenter.exe
+[15/2018/04:02:17]  -------------------------------------------------
+[15/2018/04:02:18]  Ваш ID: 333050Z797
+[15/2018/04:02:19]  Windows 7  Service Pack 1 x32
+MD5: [3624e4284086da1ed06a69420ce9b574] - Size: [6.5 KB] - DLL: C:\\Windows\System32\apisetschema.dll
+MD5: [79fed832c161dfa33201352891478d7f] - Size: [409.81 KB] - DLL: C:\\Windows\System32\locale.nls
+MD5: [364ffe57fbbcbd901effa5a22d603a65] - Size: [4 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\msctf.dll.mui
+MD5: [8dd165cd6796dc2b62230962b0fef630] - Size: [839.63 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\ucp.exe
+MD5: [0a81ca84f2d0a5bff652ea71cd7188b4] - Size: [128 B] - DLL: C:\\Users\Рафаэль\AppData\Local\Microsoft\Windows\Temporary Internet Files\counters.dat
+MD5: [acb769ec498fb62316eab45adb680f22] - Size: [64.53 KB] - DLL: C:\\Windows\System32\C_1252.NLS
+MD5: [05f8901f9b0cf472b183196d84791389] - Size: [2.81 MB] - DLL: C:\\Windows\Globalization\Sorting\SortDefault.nls
+MD5: [f462545467a417699fac0b28c7e1e77c] - Size: [116 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vstdlib.dll
+MD5: [376acdef47613b7374e0b25b1a42d1db] - Size: [209.24 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\tier0.dll
+MD5: [f7ce6a01fd8cc53f151928712d8959ae] - Size: [152 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vaudio_speex.dll
+MD5: [4006dd98edcfd1da23ac6175e73cb1e0] - Size: [316 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\FileSystem_Steam.dll
+MD5: [4c60d794e334c48e0512f0e95130454e] - Size: [68 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\inputsystem.dll
+MD5: [886cff5bd45ee6e1f22099f2b69e4b4c] - Size: [196 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\dmserializers.dll
+MD5: [3de458f059ce4a5a89df9c59b253dc27] - Size: [76 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\valve_avi.dll
+MD5: [4206bb583832fa5aacbe54b8ec3d9e39] - Size: [47.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\urlmon.dll.mui
+MD5: [9988927d465010fe7527acb6ad500e15] - Size: [136 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\datacache.dll
+MD5: [f605ab26b3f78cb5676148b04d82c1ec] - Size: [7.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\msvfw32.dll.mui
+MD5: [a990d29d0bf0cc3f69fa2fda8cc35e86] - Size: [952 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\datamodel.dll
+MD5: [cf7cbff5eea947f17da5978021d1ddcb] - Size: [588 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\MaterialSystem.dll
+MD5: [7a16401e816c6bfd8b662028d9ccfb33] - Size: [773.49 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vguimatsurface.dll
+MD5: [19e072aed1546482f325c03568fa0e0e] - Size: [449.49 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vgui2.dll
+MD5: [9d243b36b4d4c383484a61fc0d8e3aed] - Size: [62.5 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\steam_api.dll
+MD5: [8e82d6ea8a7c3b674ad7b4e612d994d9] - Size: [41 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\crypt32.dll.mui
+MD5: [4ba5ea72e175c75ddf5de6147c47ac23] - Size: [3.7 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\engine.dll
+MD5: [bcde0b774050cf3504a5619b225b36eb] - Size: [50.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\setupapi.dll.mui
+MD5: [c78b229cc61cdbf69eba16796e58e577] - Size: [2.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\wshtcpip.dll.mui
+MD5: [b0362bddd15abe4f7fca0460f5e1da2f] - Size: [2.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\wship6.dll.mui
+MD5: [94cc268515a532651e1e5c154103fa89] - Size: [2.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\wdmaud.drv.mui
+MD5: [5aba5d97637291b1494ca73044848d3c] - Size: [124 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dbg.dll
+MD5: [1c7fa1f970cd8c2e84bcaf5d929b266f] - Size: [168 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx6.dll
+MD5: [9376509054231fa938601ada5321e182] - Size: [52 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\unicode.dll
+MD5: [569cfec8463082ee3ddfc6866befcf4a] - Size: [120 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx7.dll
+MD5: [91b57edfedd614358debca629dfeb5cd] - Size: [224 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx8.dll
+MD5: [6798b61b8bf40e20613a32baacc69413] - Size: [2 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\MMDevAPI.dll.mui
+MD5: [dfe1ba04c7e489d1a6877e827cd7d241] - Size: [280 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx9.dll
+MD5: [ccd2975301b474a63693752453759628] - Size: [100 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\scenefilecache.dll
+MD5: [d255db57c55d6c8dbf06e8d963f4d742] - Size: [56 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vaudio_miles.dll
+MD5: [b6dd854d1f752a685832a025c2ba6673] - Size: [47.97 KB] - DLL: C:\\Users\Рафаэль\AppData\Local\Microsoft\Internet Explorer\MSIMGSIZ.DAT
+MD5: [90fb1802d488ffa9029854a77d4f3f27] - Size: [4 KB] - DLL: C:\\Windows\SysWOW64\oleaccrc.dll
+MD5: [b3f19302660cbeea4afa5632fe700d74] - Size: [196 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\SoundEmitterSystem.dll
+MD5: [0e99ca8ec1ff013f4bc7898a9c7db51b] - Size: [1.76 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\GameUI.dll
+MD5: [db75324f76691d8099f28c0f7ce79a24] - Size: [287 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\mshtml.dll.mui
+MD5: [958021f4ef8693b962c57d5854160e09] - Size: [1.03 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\ServerBrowser.dll
+MD5: [fa9d5468cf51cd1d0a925ab1a17197f2] - Size: [176 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\launcher.dll
+MD5: [c5fee9a08d828daf6bf59b699e8d556d] - Size: [313.46 KB] - DLL: C:\\Windows\ServiceProfiles\LocalService\AppData\Local\~FontCache-System.dat
+MD5: [9596dc8cb1f0daa047522ce84850ca41] - Size: [304 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\Steam.dll
+MD5: [91372c57cd38cd596dc33f54fd88392f] - Size: [364 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\Mss32.dll
+MD5: [c1ba065f4508aeb9028828cf418991be] - Size: [5.79 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\cstrike\bin\server.dll
+MD5: [091fddc0a30055e077dbc73d2c687098] - Size: [3.97 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\cstrike\bin\client.dll
+MD5: [2f95888eac02a20afb93051bd73b76ab] - Size: [1.13 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vphysics.dll
+MD5: [b6bcba8dff46272b218dae0a93ffeb0b] - Size: [209.5 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\mssvoice.asi
+MD5: [c6bf2dd9018536e3478369cc65a03870] - Size: [146 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\mssmp3.asi
+MD5: [5dea6e46a8899ce6bc9ebea17b59e29d] - Size: [605.24 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\shaderapidx9.dll
+MD5: [99ad19565b1fc08af26c98dfda0d99b1] - Size: [400 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\StudioRender.dll
+MD5: [24c268d0de234e23ad4332ba55f55a68] - Size: [1.8 MB] - DLL: C:\\Windows\SysWOW64\ru-RU\ieframe.dll.mui
+MD5: [8137195c031b11ed75dc9c1c0fdd1a0e] - Size: [16 MB] - DLL: C:\\Windows\ServiceProfiles\LocalService\AppData\Local\~FontCache-FontFace.dat
+MD5: [de46d8b2044defab6dacfba59e02dff0] - Size: [8 MB] - DLL: C:\\Windows\ServiceProfiles\LocalService\AppData\Local\~FontCache-S-1-5-21-3537108633-1547193747-2185087647-1000.dat
+MD5: [3c7516556aaaae6758768a39ae09b496] - Size: [9.19 MB] - DLL: C:\\Windows\Fonts\StaticCache.dat
+MD5: [e115e693576a3bce05e6a10cdd891d75] - Size: [92 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\parsifal.dll
+MD5: [db413178ec1e3980f4eb141b8c7ed29f] - Size: [4.3 MB] - DLL: C:\\Windows\SysWOW64\jscript9.dll
+MD5: [ee04d1eaa3093341c7e3070c33a82152] - Size: [760.5 KB] - DLL: C:\\Windows\SysWOW64\aticfx32.dll
+MD5: [74aa6c4bce56a55a022b609921f225a4] - Size: [29 KB] - DLL: C:\\Windows\SysWOW64\atiu9pag.dll
+MD5: [a4c85f362ebb7815676f1cd9cfc5ba59] - Size: [4.5 KB] - DLL: C:\\Windows\SysWOW64\ksuser.dll
+MD5: [139d3ab6aa920c34c50cbffb9eb7d222] - Size: [14 KB] - DLL: C:\\Windows\SysWOW64\avrt.dll
+MD5: [8ee6bde1d572677aa35707c52c585f75] - Size: [173.5 KB] - DLL: C:\\Windows\SysWOW64\mlang.dll
+MD5: [13b70d276d8792bb3e7ad40aa0006966] - Size: [19.33 MB] - DLL: C:\\Windows\SysWOW64\mshtml.dll
+MD5: [919001d2bb17df06ca3f8ac16ad039f6] - Size: [371.5 KB] - DLL: C:\\Windows\SysWOW64\sxs.dll
+MD5: [60f4aefa103d421ea4a40e31409b4756] - Size: [3 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-shell32-l1-1-0.dll
+MD5: [54388876c4a2a4bdb74e9ea73819b3f6] - Size: [13.05 MB] - DLL: C:\\Windows\SysWOW64\ieframe.dll
+MD5: [ec546e99ad2a4ce11d1186c6f770b6e8] - Size: [104 KB] - DLL: C:\\Windows\SysWOW64\cryptnet.dll
+MD5: [2d85275e42dfc08060f7553f2b41bad5] - Size: [248.5 KB] - DLL: C:\\Windows\SysWOW64\schannel.dll
+MD5: [3ffcec72d548e12e4e6bf4afae948858] - Size: [17 KB] - DLL: C:\\Windows\SysWOW64\credssp.dll
+MD5: [997c0c1eea9022e141133f2a17176870] - Size: [5.64 MB] - DLL: C:\\Windows\SysWOW64\atiumdag.dll
+MD5: [1a656ccfc382bc1c972e354b21d090ae] - Size: [4.01 MB] - DLL: C:\\Windows\SysWOW64\atiumdva.dll
+MD5: [241a1900c52dcba38b20a4f3671444e0] - Size: [1012.5 KB] - DLL: C:\\Windows\SysWOW64\d3d8.dll
+MD5: [965cfc7687f0d188f215dc142fc8f6a1] - Size: [1.9 MB] - DLL: C:\\Windows\SysWOW64\d3d10warp.dll
+MD5: [298fde634538b62ceeec266d8773b21a] - Size: [178 KB] - DLL: C:\\Windows\SysWOW64\msls31.dll
+MD5: [62500c41cbd004865e9de26b1710d355] - Size: [900.81 KB] - DLL: C:\\Windows\SysWOW64\ucrtbase.dll
+MD5: [109f0f02fd37c84bfc7508d4227d7ed5] - Size: [429.8 KB] - DLL: C:\\Windows\SysWOW64\msvcp140.dll
+MD5: [585987a92fdd082a032cce1fbf654d22] - Size: [302.5 KB] - DLL: C:\\Windows\SysWOW64\actxprxy.dll
+MD5: [14800bd31701a5047ac3145bb1e698ae] - Size: [3.26 MB] - DLL: C:\\Windows\SysWOW64\d2d1.dll
+MD5: [49fb1f8e797d068eaf24cd306c9c6bf3] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-utility-l1-1-0.dll
+MD5: [3591bbcf32984c29edf1c0379380a6bd] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-environment-l1-1-0.dll
+MD5: [b77448d3c5df8436acbf711d794f3bf2] - Size: [13.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-filesystem-l1-1-0.dll
+MD5: [fee84740ed6699ae5319168c6a13bbee] - Size: [13.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-time-l1-1-0.dll
+MD5: [a8cfdb191e68491c95d493f4cefb4c96] - Size: [19.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-multibyte-l1-1-0.dll
+MD5: [c335ec1182ac10b188705554e0bc1186] - Size: [117.5 KB] - DLL: C:\\Windows\SysWOW64\msvfw32.dll
+MD5: [77b1471a490b53b24efe136f09f76550] - Size: [11 KB] - DLL: C:\\Windows\SysWOW64\d3d8thk.dll
+MD5: [6ef5f3f18413c367195f06e503ab86a6] - Size: [1.74 MB] - DLL: C:\\Windows\SysWOW64\d3d9.dll
+MD5: [6de66fe7c526637e74cd066461c7c871] - Size: [1.44 MB] - DLL: C:\\Windows\SysWOW64\d3d11.dll
+MD5: [86dbeb0067aca7192c3f2a3f7f359cc6] - Size: [21.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-math-l1-1-0.dll
+MD5: [61956008f9a8d23b857dc877a6cd4da1] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-locale-l1-1-0.dll
+MD5: [1d1eaa16d193c6a2d45981ed3914d22a] - Size: [30.5 KB] - DLL: C:\\Windows\SysWOW64\msimtf.dll
+MD5: [6f8e3b7b70e1bba871212940c1fbdf60] - Size: [10.5 KB] - DLL: C:\\Windows\SysWOW64\SensApi.dll
+MD5: [f9a3bbf1e514691b9ac6fc318de36e18] - Size: [279.5 KB] - DLL: C:\\Program Files (x86)\Internet Explorer\ieproxy.dll
+MD5: [48f133e1bdcb793625c835a0ba135300] - Size: [15.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-convert-l1-1-0.dll
+MD5: [33f4b7ef234b595d611a9418aecec7a8] - Size: [17.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-stdio-l1-1-0.dll
+MD5: [38f59ad407c27cc2d4353b9228da28a2] - Size: [12.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-heap-l1-1-0.dll
+MD5: [7587bf9cb4147022cd5681b015183046] - Size: [81.82 KB] - DLL: C:\\Windows\SysWOW64\vcruntime140.dll
+MD5: [c2e787f8373a8287b06ecfa373b88cc2] - Size: [1.19 MB] - DLL: C:\\Windows\SysWOW64\DWrite.dll
+MD5: [d4f264fe23f8953d840904418220c15e] - Size: [286.5 KB] - DLL: C:\\Windows\SysWOW64\dxgi.dll
+MD5: [13230d6ba1a1a23250e492956ae46a0f] - Size: [17.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-string-l1-1-0.dll
+MD5: [1f01079ba3a3cf661e36298553f5cb19] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-file-l1-2-0.dll
+MD5: [2bf6be23d2e045e020c70379ec8620ad] - Size: [1.38 MB] - DLL: C:\\Program Files (x86)\360\Total Security\safemon\safemon.dll
+MD5: [9eac1a09a012aaff86bc53d053aca024] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-processthreads-l1-1-1.dll
+MD5: [adede3729654da5a8caf34811915a129] - Size: [13.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-localization-l1-2-0.dll
+MD5: [08e433aec4dd24dc1034e2f9df0f177a] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-file-l2-1-0.dll
+MD5: [415b5a63986174b140700b53bf2867d7] - Size: [15.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-runtime-l1-1-0.dll
+MD5: [d205c24a9d069049fe2df2a1b38726a7] - Size: [168 KB] - DLL: C:\\Windows\SysWOW64\wdmaud.drv
+MD5: [007863e45f25aa47a4c30d0930bbfd85] - Size: [5.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-shlwapi-l2-1-0.dll
+MD5: [1fcda65915e15a4410ac7912f1f93e03] - Size: [38 KB] - DLL: C:\\Windows\SysWOW64\mcicda.dll
+MD5: [49aca548b2423f1c67898e6ac719a9a6] - Size: [3.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-advapi32-l2-1-0.dll
+MD5: [5e8ce463f875143f8e5d91e6b0098ad1] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-timezone-l1-1-0.dll
+MD5: [0e85c11f8850d524b02181c6e02ba9ae] - Size: [443 KB] - DLL: C:\\Windows\SysWOW64\dsound.dll
+MD5: [525b93b761dccb2d33a58ed603178228] - Size: [1.17 MB] - DLL: C:\\Windows\SysWOW64\WindowsCodecs.dll
+MD5: [08dfdbd2fd4ea951dc46b1c7661ed35a] - Size: [142 KB] - DLL: C:\\Windows\SysWOW64\powrprof.dll
+MD5: [5a12c364ad1d4fcc0ad0e56dbbc34462] - Size: [16.5 KB] - DLL: C:\\Windows\SysWOW64\midimap.dll
+MD5: [07393a09c46083588e751b63b03c8301] - Size: [20.5 KB] - DLL: C:\\Windows\SysWOW64\msacm32.drv
+MD5: [d2bbc72e0cdf8639c8274edb395c9103] - Size: [133.5 KB] - DLL: C:\\Windows\SysWOW64\dinput.dll
+MD5: [85683df1f917e4d7f6be1a04986bf1c8] - Size: [70.5 KB] - DLL: C:\\Windows\SysWOW64\msacm32.dll
+MD5: [dceabba22e12cc44c2e7785c0eb9c6e3] - Size: [89.5 KB] - DLL: C:\\Windows\SysWOW64\avifil32.dll
+MD5: [58788565442368b0615ddaf1d452b843] - Size: [518 KB] - DLL: C:\\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\comctl32.dll
+MD5: [fd049c25a168d3de310d9207b7b6367b] - Size: [548.5 KB] - DLL: C:\\Windows\SysWOW64\UIAutomationCore.dll
+MD5: [b2aba92f93b3b1bd241ec284bbf53de1] - Size: [190.5 KB] - DLL: C:\\Windows\SysWOW64\AudioSes.dll
+MD5: [243974ec02f7ae49e4179c54624143ab] - Size: [208.5 KB] - DLL: C:\\Windows\SysWOW64\MMDevAPI.dll
+MD5: [52213d271f6804aaa44f57aefd2b778a] - Size: [66 KB] - DLL: C:\\Windows\SysWOW64\dwmapi.dll
+MD5: [43964fa89ccf97ba6be34d69455ac65f] - Size: [240 KB] - DLL: C:\\Windows\SysWOW64\uxtheme.dll
+MD5: [ac122407b29378ff9646f03404ac7c54] - Size: [35.5 KB] - DLL: C:\\Windows\SysWOW64\wshbth.dll
+MD5: [5df5d8cfd9b9573fa3b2c89d9061a240] - Size: [20.5 KB] - DLL: C:\\Windows\SysWOW64\winrnr.dll
+MD5: [5cf640eddb1e40a5ab1bb743bcdec610] - Size: [63.5 KB] - DLL: C:\\Windows\SysWOW64\pnrpnsp.dll
+MD5: [0b7e85364cb878e2ad531db7b601a9e5] - Size: [51 KB] - DLL: C:\\Windows\SysWOW64\NapiNSP.dll
+MD5: [15e298b5ec5b89c5994a59863969d9ff] - Size: [16.5 KB] - DLL: C:\\Windows\SysWOW64\npmproxy.dll
+MD5: [8c338238c16777a802d6a9211eb2ba50] - Size: [352 KB] - DLL: C:\\Windows\SysWOW64\netprofm.dll
+MD5: [02814474c497130152e6c5d1f6f36d95] - Size: [51 KB] - DLL: C:\\Windows\SysWOW64\nlaapi.dll
+MD5: [63df770df74acb370ef5a16727069aaf] - Size: [21.5 KB] - DLL: C:\\Windows\SysWOW64\hid.dll
+MD5: [fbe4e7975289230f84d9da2222448ac3] - Size: [77.5 KB] - DLL: C:\\Windows\SysWOW64\gpapi.dll
+MD5: [6b98026761228f913e9fa3f974920a20] - Size: [243.51 KB] - DLL: C:\\Windows\SysWOW64\bcryptprimitives.dll
+MD5: [6aece69d261d0d57589e42497445b0f3] - Size: [81 KB] - DLL: C:\\Windows\SysWOW64\bcrypt.dll
+MD5: [feb057e65d139130a9b1780ae5786fbc] - Size: [218 KB] - DLL: C:\\Windows\SysWOW64\ncrypt.dll
+MD5: [4355cf8bd07b0e48c111fc3d2f36d313] - Size: [142.23 KB] - DLL: C:\\Program Files (x86)\Common Files\microsoft shared\Windows Live\WLIDNSP.DLL
+MD5: [9392cd363c6fe0cc6efc927903f85845] - Size: [211.5 KB] - DLL: C:\\Windows\SysWOW64\FWPUCLNT.DLL
+MD5: [ed6ee83d61ebc683c2cd8e899ea6febe] - Size: [11.5 KB] - DLL: C:\\Windows\SysWOW64\rasadhlp.dll
+MD5: [ee5c8e27c37b79cb54a2fceeed2dc262] - Size: [9 KB] - DLL: C:\\Windows\SysWOW64\WSHTCPIP.DLL
+MD5: [73e8667a19feedd856df2695e9e511d4] - Size: [10.5 KB] - DLL: C:\\Windows\SysWOW64\wship6.dll
+MD5: [a88241c2a519afd2c99a40000f9113e6] - Size: [226 KB] - DLL: C:\\Windows\SysWOW64\mswsock.dll
+MD5: [c463aeddeca88e934ade53610e1a4b8d] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-synch-l1-2-0.dll
+MD5: [8e01332cc4b68bc6b5b7effe374442aa] - Size: [228 KB] - DLL: C:\\Windows\SysWOW64\oleacc.dll
+MD5: [81f6c1ae23b1c493d9e996c3103915d7] - Size: [43 KB] - DLL: C:\\Windows\SysWOW64\dhcpcsvc6.dll
+MD5: [5997d769cdb108390dcfaebf442bf816] - Size: [45 KB] - DLL: C:\\Windows\SysWOW64\RpcRtRemote.dll
+MD5: [b40420876b9288e0a1c8cca8a84e5dc9] - Size: [264 KB] - DLL: C:\\Windows\SysWOW64\dnsapi.dll
+MD5: [ed8ec63f7522df4852147c84ec62c36a] - Size: [237.24 KB] - DLL: C:\\Windows\SysWOW64\rsaenh.dll
+MD5: [12c45e3cb6d65f73209549e2d02eca7a] - Size: [965 KB] - DLL: C:\\Windows\SysWOW64\propsys.dll
+MD5: [9a85abce0fdd1af8e79e731eb0b679f3] - Size: [60.5 KB] - DLL: C:\\Windows\SysWOW64\dhcpcsvc.dll
+MD5: [d161cb594609d47c8e9b7599f3195e56] - Size: [79 KB] - DLL: C:\\Windows\SysWOW64\cryptsp.dll
+MD5: [5ccdcd40e732d54e0f7451ac66ac1c87] - Size: [88 KB] - DLL: C:\\Windows\SysWOW64\srvcli.dll
+MD5: [04556379bc8074060226e5acac6c4160] - Size: [21.5 KB] - DLL: C:\\Windows\SysWOW64\secur32.dll
+MD5: [e5a4a1326a02f8e7b59e6c3270ce7202] - Size: [46 KB] - DLL: C:\\Windows\SysWOW64\wkscli.dll
+MD5: [2fca0d2c59a855c54bafa22aa329df0f] - Size: [56 KB] - DLL: C:\\Windows\SysWOW64\netapi32.dll
+MD5: [a90dc9abd65db1a8902f361103029952] - Size: [101.5 KB] - DLL: C:\\Windows\SysWOW64\IPHLPAPI.DLL
+MD5: [20b3934db73eaba2b49b7177873cb81f] - Size: [22 KB] - DLL: C:\\Windows\SysWOW64\netutils.dll
+MD5: [f05f26dd4b8640cb71f8c40bd6530fd1] - Size: [16 KB] - DLL: C:\\Windows\SysWOW64\winnsi.dll
+MD5: [d5afc3a476925ce740b7079d9bd2d269] - Size: [289 KB] - DLL: C:\\Windows\SysWOW64\apphelp.dll
+MD5: [3fd15b4611d9bda3f8013548c0ecaeca] - Size: [119 KB] - DLL: C:\\Windows\SysWOW64\ntmarta.dll
+MD5: [df13a51a5c591887d2ec6ae64ceed0fa] - Size: [15 KB] - DLL: C:\\Windows\SysWOW64\wsock32.dll
+MD5: [d5aefad57c08349a4393d987df7c715d] - Size: [189.5 KB] - DLL: C:\\Windows\SysWOW64\winmm.dll
+MD5: [885e18b2d0a445fb637850282530eb72] - Size: [1.6 MB] - DLL: C:\\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\comctl32.dll
+MD5: [702254574e7e52052de39408457b7149] - Size: [21 KB] - DLL: C:\\Windows\SysWOW64\version.dll
+MD5: [-1] - Size: [4 GB] - DLL: 
+MD5: [2b96a8c92e6be12402c082955509fd40] - Size: [35.5 KB] - DLL: C:\\Windows\SysWOW64\cryptbase.dll
+MD5: [f473218213024054245582a7333dd22b] - Size: [94.5 KB] - DLL: C:\\Windows\SysWOW64\sspicli.dll
+MD5: [7fd3a85b889e031623799f6fdd3d2ded] - Size: [12.28 MB] - DLL: C:\\Windows\SysWOW64\shell32.dll
+MD5: [f8c7346ce9939f2e67887e2300f25694] - Size: [615 KB] - DLL: C:\\Windows\SysWOW64\usp10.dll
+MD5: [2eeff4502f5e13b1bed4a04ccad64c08] - Size: [63 KB] - DLL: C:\\Windows\SysWOW64\devobj.dll
+MD5: [2f929c103155ee98efb649fe9af21740] - Size: [265 KB] - DLL: C:\\Windows\SysWOW64\Wldap32.dll
+MD5: [94e1c3a20358db82b31677318bbeb120] - Size: [568 KB] - DLL: C:\\Windows\SysWOW64\oleaut32.dll
+MD5: [2e33dfd10f28f86c3fc40ee123cc3904] - Size: [2.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-normaliz-l1-1-0.dll
+MD5: [e069a3b525828f055d9bf71a1b3dbc1e] - Size: [305.5 KB] - DLL: C:\\Windows\SysWOW64\gdi32.dll
+MD5: [22ec05f46ffe3b940493191eeef7d1a6] - Size: [2.19 MB] - DLL: C:\\Windows\SysWOW64\iertutil.dll
+MD5: [9c278785347bcc991f8ea2999d90f58d] - Size: [2 KB] - DLL: C:\\Windows\SysWOW64\normaliz.dll
+MD5: [6b1e1d3d3db1c1fad675e01c6fbef330] - Size: [1.12 MB] - DLL: C:\\Windows\SysWOW64\crypt32.dll
+MD5: [f436e847fa799ecd75ad8c313673f450] - Size: [142.5 KB] - DLL: C:\\Windows\SysWOW64\cfgmgr32.dll
+MD5: [dd3af637a1a91478e092c11a6b512667] - Size: [1.35 MB] - DLL: C:\\Windows\SysWOW64\ole32.dll
+MD5: [8cc3c111d653e96f3ea1590891491d71] - Size: [342 KB] - DLL: C:\\Windows\SysWOW64\shlwapi.dll
+MD5: [1c60e09ca1c3a045bc4d367f67c915b7] - Size: [5.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-ole32-l1-1-0.dll
+MD5: [e4ac81b38ecad78439161d38107b2bec] - Size: [629 KB] - DLL: C:\\Windows\SysWOW64\advapi32.dll
+MD5: [59ea5753ebdae42cf92fd5b6e7ae4d53] - Size: [201.5 KB] - DLL: C:\\Windows\SysWOW64\ws2_32.dll
+MD5: [a6f09e5669d9a19035f6d942caa15882] - Size: [117 KB] - DLL: C:\\Windows\SysWOW64\imm32.dll
+MD5: [6951562dc4625eefc6eacd52ad165866] - Size: [9.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-shlwapi-l1-1-0.dll
+MD5: [d15618a0ff8dbc2c5bf3726bacc75a0b] - Size: [80 KB] - DLL: C:\\Windows\SysWOW64\userenv.dll
+MD5: [589cbc4989f750e1da35625ab481cf43] - Size: [4 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-user32-l1-1-0.dll
+MD5: [9b6b3aec1ad29d9ee608732f3559e355] - Size: [1.25 MB] - DLL: C:\\Windows\SysWOW64\urlmon.dll
+MD5: [257c2dc5b89c68da3b8c5e4ccec98c9a] - Size: [2.64 MB] - DLL: C:\\Windows\SysWOW64\wininet.dll
+MD5: [af40fdab98b0ff209632c3403db6c39f] - Size: [811 KB] - DLL: C:\\Windows\SysWOW64\msctf.dll
+MD5: [3cb074875ac88a7c1010a2a7f9881a8c] - Size: [813.5 KB] - DLL: C:\\Windows\SysWOW64\user32.dll
+MD5: [c733d233b623b7ffce5031e4b756ee26] - Size: [31 KB] - DLL: C:\\Windows\SysWOW64\profapi.dll
+MD5: [a543ac1f7138376d778d630a35fcbc4c] - Size: [6 KB] - DLL: C:\\Windows\SysWOW64\psapi.dll
+MD5: [3be0d923aa45a4dbe091c2d84f0b4fe7] - Size: [3 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-version-l1-1-0.dll
+MD5: [65a5e27c2217d606e212b6088ccd6104] - Size: [90 KB] - DLL: C:\\Windows\SysWOW64\sechost.dll
+MD5: [880d297793d854133da108ae46483b63] - Size: [650.5 KB] - DLL: C:\\Windows\SysWOW64\rpcrt4.dll
+MD5: [10fb16b50affda6d44588f3c445dc273] - Size: [1.59 MB] - DLL: C:\\Windows\SysWOW64\setupapi.dll
+MD5: [6a13b4f3b3f575f1e24b877b9359aaba] - Size: [10.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-advapi32-l1-1-0.dll
+MD5: [09e512220e90adda6e818120bb528b0a] - Size: [175 KB] - DLL: C:\\Windows\SysWOW64\wintrust.dll
+MD5: [ff5688d309347f2720911d8796912834] - Size: [510 KB] - DLL: C:\\Windows\SysWOW64\clbcatq.dll
+MD5: [1430fa19b8a066e78022de1f55d47738] - Size: [25 KB] - DLL: C:\\Windows\SysWOW64\lpk.dll
+MD5: [9dc80a8aaaaac397bdab3c67165a824e] - Size: [674.5 KB] - DLL: C:\\Windows\SysWOW64\msvcrt.dll
+MD5: [938f39b50bafe13d6f58c7790682c010] - Size: [33.5 KB] - DLL: C:\\Windows\SysWOW64\msasn1.dll
+MD5: [0723a00c740a0d1b5460fbfe048c3e68] - Size: [8.5 KB] - DLL: C:\\Windows\SysWOW64\nsi.dll
+MD5: [5e752f38cd67885f75e7b36df56cc89c] - Size: [269 KB] - DLL: C:\\Windows\SysWOW64\KernelBase.dll
+MD5: [320b4197eaec624aa9e6207c615aa66f] - Size: [1.06 MB] - DLL: C:\\Windows\SysWOW64\kernel32.dll
+MD5: [9b94706fb9c29f71544bde9b575fad31] - Size: [1.25 MB] - DLL: C:\\Windows\System32\ntdll.dll
+MD5: [9b94706fb9c29f71544bde9b575fad31] - Size: [1.25 MB] - DLL: C:\\Windows\SysWOW64\ntdll.dll
+[15/2018/04:04:14]  Найдена конфликтная программа.
+ Откройте диспетчер задач и отключите все сторонние программы кроме игры. 
+______________________________________________
+ Подсказка: Свойства: 114_holzigto_injector.rar
+[15/2018/04:09:00]  Найдена конфликтная программа.
+ Откройте диспетчер задач и отключите все сторонние программы кроме игры. 
+______________________________________________
+ Подсказка: DLL Injector v2.0 www.dllinjector.com
+[15/2018/04:10:57]  Skype: SkypeRT
+[15/2018/04:10:57]  -------------------------------------------------
+[15/2018/04:10:57]  [System Process]
+[15/2018/04:10:57]  System
+[15/2018/04:10:57]  smss.exe
+[15/2018/04:10:57]  csrss.exe
+[15/2018/04:10:57]  wininit.exe
+[15/2018/04:10:57]  csrss.exe
+[15/2018/04:10:57]  winlogon.exe
+[15/2018/04:10:57]  services.exe
+[15/2018/04:10:57]  lsass.exe
+[15/2018/04:10:57]  lsm.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  ASCService.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  atiesrxx.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  atieclxx.exe
+[15/2018/04:10:57]  RTKAUDIOSERVICE64.EXE
+[15/2018/04:10:57]  RAVBg64.exe
+[15/2018/04:10:57]  QHActiveDefense.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  AsLdrSrv.exe
+[15/2018/04:10:57]  spoolsv.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  Fuel.Service.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  TeamViewer_Service.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  WmiPrvSE.exe
+[15/2018/04:10:57]  WmiPrvSE.exe
+[15/2018/04:10:57]  QHWatchdog.exe
+[15/2018/04:10:57]  taskhost.exe
+[15/2018/04:10:57]  HControl.exe
+[15/2018/04:10:57]  dwm.exe
+[15/2018/04:10:57]  explorer.exe
+[15/2018/04:10:57]  taskeng.exe
+[15/2018/04:10:57]  Monitor.exe
+[15/2018/04:10:57]  taskeng.exe
+[15/2018/04:10:57]  AsusTPLoader.exe
+[15/2018/04:10:57]  QuickGesture64.exe
+[15/2018/04:10:57]  QuickGesture.exe
+[15/2018/04:10:57]  RAVCpl64.exe
+[15/2018/04:10:57]  ETDCtrl.exe
+[15/2018/04:10:57]  vsnp2uvc.exe
+[15/2018/04:10:57]  GoogleCrashHandler.exe
+[15/2018/04:10:57]  GoogleCrashHandler64.exe
+[15/2018/04:10:57]  ETDCtrlHelper.exe
+[15/2018/04:10:57]  ATKOSD2.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  AsusSmartGestureDetector64.exe
+[15/2018/04:10:57]  CheckNDISPort_df.exe
+[15/2018/04:10:57]  CancelAutoPlay_df.exe
+[15/2018/04:10:57]  MOM.exe
+[15/2018/04:10:57]  SearchIndexer.exe
+[15/2018/04:10:57]  wmpnetwk.exe
+[15/2018/04:10:57]  svchost.exe
+[15/2018/04:10:57]  RAVBg64.exe
+[15/2018/04:10:57]  dllhost.exe
+[15/2018/04:10:57]  UninstallMonitor.exe
+[15/2018/04:10:57]  PresentationFontCache.exe
+[15/2018/04:10:57]  chrome.exe
+[15/2018/04:10:57]  chrome.exe
+[15/2018/04:10:57]  chrome.exe
+[15/2018/04:10:57]  chrome.exe
+[15/2018/04:10:57]  chrome.exe
+[15/2018/04:10:57]  chrome.exe
+[15/2018/04:10:57]  cmd.exe
+[15/2018/04:10:57]  conhost.exe
+[15/2018/04:10:57]  360webshield.exe
+[15/2018/04:10:57]  chrome.exe
+[15/2018/04:10:57]  chrome.exe
+[15/2018/04:10:57]  audiodg.exe
+[15/2018/04:10:57]  chrome.exe
+[15/2018/04:10:57]  chrome.exe
+[15/2018/04:10:57]  Skype.exe
+[15/2018/04:10:57]  Skype.exe
+[15/2018/04:10:57]  Skype.exe
+[15/2018/04:10:57]  Skype.exe
+[15/2018/04:10:57]  Skype.exe
+[15/2018/04:10:57]  AnVir.exe
+[15/2018/04:10:57]  hl2.exe
+[15/2018/04:10:57]  SearchProtocolHost.exe
+[15/2018/04:10:57]  SearchFilterHost.exe
+[15/2018/04:10:57]  Mark46.PS.v0.0.5.5.exe
+[15/2018/04:10:57]  dllhost.exe
+[15/2018/04:10:57]  -------------------------------------------------
+[15/2018/04:10:59]  Ваш ID: 333050Z797
+[15/2018/04:10:59]  Windows 7  Service Pack 1 x32
+[15/2018/04:11:02]  ....................................................................................
+[15/2018/04:11:02]  -------------------------------------------------
+[15/2018/04:11:02]  [System Process]
+[15/2018/04:11:02]  System
+[15/2018/04:11:02]  smss.exe
+[15/2018/04:11:02]  csrss.exe
+[15/2018/04:11:02]  wininit.exe
+[15/2018/04:11:02]  csrss.exe
+[15/2018/04:11:02]  winlogon.exe
+[15/2018/04:11:02]  services.exe
+[15/2018/04:11:02]  lsass.exe
+[15/2018/04:11:02]  lsm.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  ASCService.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  atiesrxx.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  atieclxx.exe
+[15/2018/04:11:02]  RTKAUDIOSERVICE64.EXE
+[15/2018/04:11:02]  RAVBg64.exe
+[15/2018/04:11:02]  QHActiveDefense.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  AsLdrSrv.exe
+[15/2018/04:11:02]  spoolsv.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  Fuel.Service.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  TeamViewer_Service.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  WmiPrvSE.exe
+[15/2018/04:11:02]  WmiPrvSE.exe
+[15/2018/04:11:02]  QHWatchdog.exe
+[15/2018/04:11:02]  taskhost.exe
+[15/2018/04:11:02]  HControl.exe
+[15/2018/04:11:02]  dwm.exe
+[15/2018/04:11:02]  explorer.exe
+[15/2018/04:11:02]  taskeng.exe
+[15/2018/04:11:02]  Monitor.exe
+[15/2018/04:11:02]  taskeng.exe
+[15/2018/04:11:02]  AsusTPLoader.exe
+[15/2018/04:11:02]  QuickGesture64.exe
+[15/2018/04:11:02]  QuickGesture.exe
+[15/2018/04:11:02]  RAVCpl64.exe
+[15/2018/04:11:02]  ETDCtrl.exe
+[15/2018/04:11:02]  vsnp2uvc.exe
+[15/2018/04:11:02]  GoogleCrashHandler.exe
+[15/2018/04:11:02]  GoogleCrashHandler64.exe
+[15/2018/04:11:02]  ETDCtrlHelper.exe
+[15/2018/04:11:02]  ATKOSD2.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  AsusSmartGestureDetector64.exe
+[15/2018/04:11:02]  CheckNDISPort_df.exe
+[15/2018/04:11:02]  CancelAutoPlay_df.exe
+[15/2018/04:11:02]  MOM.exe
+[15/2018/04:11:02]  SearchIndexer.exe
+[15/2018/04:11:02]  wmpnetwk.exe
+[15/2018/04:11:02]  svchost.exe
+[15/2018/04:11:02]  RAVBg64.exe
+[15/2018/04:11:02]  dllhost.exe
+[15/2018/04:11:02]  UninstallMonitor.exe
+[15/2018/04:11:02]  PresentationFontCache.exe
+[15/2018/04:11:02]  chrome.exe
+[15/2018/04:11:02]  chrome.exe
+[15/2018/04:11:02]  chrome.exe
+[15/2018/04:11:02]  chrome.exe
+[15/2018/04:11:02]  chrome.exe
+[15/2018/04:11:02]  chrome.exe
+[15/2018/04:11:02]  cmd.exe
+[15/2018/04:11:02]  conhost.exe
+[15/2018/04:11:02]  360webshield.exe
+[15/2018/04:11:02]  chrome.exe
+[15/2018/04:11:02]  chrome.exe
+[15/2018/04:11:02]  audiodg.exe
+[15/2018/04:11:02]  chrome.exe
+[15/2018/04:11:02]  chrome.exe
+[15/2018/04:11:02]  Skype.exe
+[15/2018/04:11:02]  Skype.exe
+[15/2018/04:11:02]  Skype.exe
+[15/2018/04:11:02]  Skype.exe
+[15/2018/04:11:02]  Skype.exe
+[15/2018/04:11:02]  AnVir.exe
+[15/2018/04:11:02]  hl2.exe
+[15/2018/04:11:02]  Mark46.PS.v0.0.5.5.exe
+[15/2018/04:11:02]  SearchProtocolHost.exe
+[15/2018/04:11:02]  SearchFilterHost.exe
+[15/2018/04:11:02]  -------------------------------------------------
+[15/2018/04:11:05]  1 > D:\\cssv34\Counter-Strike Source v34 NewStylehl2.exe
+[15/2018/04:11:05]  Сканирование начался...
+[15/2018/04:11:10]  NeonHack[1] (Не обнаружено)
+[15/2018/04:11:13]  Hack[1] (Не обнаружено)
+[15/2018/04:11:18]  WalHack UCP (Не обнаружено)
+[15/2018/04:11:21]  Inuria CSS 1.1 (Не обнаружено)
+[15/2018/04:11:24]  DubMood UCP Hack (Не обнаружено)
+[15/2018/04:11:27]  INURIA_CSS (Не обнаружено)
+[15/2018/04:11:31]  Perfect Hack (Не обнаружено)
+[15/2018/04:11:34]  Unknown Hack (Не обнаружено)
+[15/2018/04:11:38]  Proofens (Не обнаружено)
+[15/2018/04:11:42]  Bunnyhop_Hack_v2 (Не обнаружено)
+[15/2018/04:11:46]  Infinium (Не обнаружено)
+[15/2018/04:11:50]  Triggerbot (Обнаружено)
+[15/2018/04:11:51]  =========================================================================================
+[15/2018/04:11:51]  MD5: [3624e4284086da1ed06a69420ce9b574] - Size: [6.5 KB] - DLL: C:\\Windows\System32\apisetschema.dll
+[15/2018/04:11:51]  MD5: [79fed832c161dfa33201352891478d7f] - Size: [409.81 KB] - DLL: C:\\Windows\System32\locale.nls
+[15/2018/04:11:51]  MD5: [bcde0b774050cf3504a5619b225b36eb] - Size: [50.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\setupapi.dll.mui
+[15/2018/04:11:51]  MD5: [0d32f12bb3132aa2d20cff0935ae2c49] - Size: [535.78 KB] - DLL: C:\\Program Files (x86)\IObit\Advanced SystemCare\HPProtectNotify32.dll
+[15/2018/04:11:51]  MD5: [376acdef47613b7374e0b25b1a42d1db] - Size: [209.24 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\tier0.dll
+[15/2018/04:11:51]  MD5: [f462545467a417699fac0b28c7e1e77c] - Size: [116 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vstdlib.dll
+[15/2018/04:11:51]  MD5: [7c271bbd974c760f516f1c9f9b61e0f2] - Size: [104 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\hl2.exe
+[15/2018/04:11:51]  MD5: [4006dd98edcfd1da23ac6175e73cb1e0] - Size: [316 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\FileSystem_Steam.dll
+[15/2018/04:11:51]  MD5: [4c60d794e334c48e0512f0e95130454e] - Size: [68 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\inputsystem.dll
+[15/2018/04:11:51]  MD5: [05f8901f9b0cf472b183196d84791389] - Size: [2.81 MB] - DLL: C:\\Windows\Globalization\Sorting\SortDefault.nls
+[15/2018/04:11:51]  MD5: [9988927d465010fe7527acb6ad500e15] - Size: [136 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\datacache.dll
+[15/2018/04:11:51]  MD5: [886cff5bd45ee6e1f22099f2b69e4b4c] - Size: [196 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\dmserializers.dll
+[15/2018/04:11:51]  MD5: [f605ab26b3f78cb5676148b04d82c1ec] - Size: [7.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\msvfw32.dll.mui
+[15/2018/04:11:51]  MD5: [3de458f059ce4a5a89df9c59b253dc27] - Size: [76 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\valve_avi.dll
+[15/2018/04:11:51]  MD5: [9d243b36b4d4c383484a61fc0d8e3aed] - Size: [62.5 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\steam_api.dll
+[15/2018/04:11:51]  MD5: [a990d29d0bf0cc3f69fa2fda8cc35e86] - Size: [952 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\datamodel.dll
+[15/2018/04:11:51]  MD5: [cf7cbff5eea947f17da5978021d1ddcb] - Size: [588 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\MaterialSystem.dll
+[15/2018/04:11:51]  MD5: [5aba5d97637291b1494ca73044848d3c] - Size: [124 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dbg.dll
+[15/2018/04:11:51]  MD5: [7a16401e816c6bfd8b662028d9ccfb33] - Size: [773.49 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vguimatsurface.dll
+[15/2018/04:11:51]  MD5: [19e072aed1546482f325c03568fa0e0e] - Size: [449.49 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vgui2.dll
+[15/2018/04:11:51]  MD5: [4ba5ea72e175c75ddf5de6147c47ac23] - Size: [3.7 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\engine.dll
+[15/2018/04:11:51]  MD5: [1c7fa1f970cd8c2e84bcaf5d929b266f] - Size: [168 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx6.dll
+[15/2018/04:11:51]  MD5: [569cfec8463082ee3ddfc6866befcf4a] - Size: [120 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx7.dll
+[15/2018/04:11:51]  MD5: [91b57edfedd614358debca629dfeb5cd] - Size: [224 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx8.dll
+[15/2018/04:11:51]  MD5: [acb769ec498fb62316eab45adb680f22] - Size: [64.53 KB] - DLL: C:\\Windows\System32\C_1252.NLS
+[15/2018/04:11:51]  MD5: [dfe1ba04c7e489d1a6877e827cd7d241] - Size: [280 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx9.dll
+[15/2018/04:11:51]  MD5: [94cc268515a532651e1e5c154103fa89] - Size: [2.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\wdmaud.drv.mui
+[15/2018/04:11:51]  MD5: [6798b61b8bf40e20613a32baacc69413] - Size: [2 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\MMDevAPI.dll.mui
+[15/2018/04:11:51]  MD5: [9376509054231fa938601ada5321e182] - Size: [52 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\unicode.dll
+[15/2018/04:11:51]  MD5: [fa9d5468cf51cd1d0a925ab1a17197f2] - Size: [176 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\launcher.dll
+[15/2018/04:11:51]  MD5: [364ffe57fbbcbd901effa5a22d603a65] - Size: [4 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\msctf.dll.mui
+[15/2018/04:11:51]  MD5: [3c7516556aaaae6758768a39ae09b496] - Size: [9.19 MB] - DLL: C:\\Windows\Fonts\StaticCache.dat
+[15/2018/04:11:51]  MD5: [b3f19302660cbeea4afa5632fe700d74] - Size: [196 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\SoundEmitterSystem.dll
+[15/2018/04:11:51]  MD5: [ccd2975301b474a63693752453759628] - Size: [100 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\scenefilecache.dll
+[15/2018/04:11:51]  MD5: [0e99ca8ec1ff013f4bc7898a9c7db51b] - Size: [1.76 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\GameUI.dll
+[15/2018/04:11:51]  MD5: [d255db57c55d6c8dbf06e8d963f4d742] - Size: [56 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vaudio_miles.dll
+[15/2018/04:11:51]  MD5: [958021f4ef8693b962c57d5854160e09] - Size: [1.03 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\ServerBrowser.dll
+[15/2018/04:11:51]  MD5: [9596dc8cb1f0daa047522ce84850ca41] - Size: [304 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\Steam.dll
+[15/2018/04:11:51]  MD5: [91372c57cd38cd596dc33f54fd88392f] - Size: [364 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\Mss32.dll
+[15/2018/04:11:51]  MD5: [c1ba065f4508aeb9028828cf418991be] - Size: [5.79 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\cstrike\bin\server.dll
+[15/2018/04:11:51]  MD5: [091fddc0a30055e077dbc73d2c687098] - Size: [3.97 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\cstrike\bin\client.dll
+[15/2018/04:11:51]  MD5: [2f95888eac02a20afb93051bd73b76ab] - Size: [1.13 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vphysics.dll
+[15/2018/04:11:51]  MD5: [b6bcba8dff46272b218dae0a93ffeb0b] - Size: [209.5 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\mssvoice.asi
+[15/2018/04:11:51]  MD5: [c6bf2dd9018536e3478369cc65a03870] - Size: [146 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\mssmp3.asi
+[15/2018/04:11:51]  MD5: [5dea6e46a8899ce6bc9ebea17b59e29d] - Size: [605.24 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\shaderapidx9.dll
+[15/2018/04:11:51]  MD5: [99ad19565b1fc08af26c98dfda0d99b1] - Size: [400 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\StudioRender.dll
+[15/2018/04:11:51]  MD5: [e115e693576a3bce05e6a10cdd891d75] - Size: [92 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\parsifal.dll
+[15/2018/04:11:51]  MD5: [ee04d1eaa3093341c7e3070c33a82152] - Size: [760.5 KB] - DLL: C:\\Windows\SysWOW64\aticfx32.dll
+[15/2018/04:11:51]  MD5: [a4c85f362ebb7815676f1cd9cfc5ba59] - Size: [4.5 KB] - DLL: C:\\Windows\SysWOW64\ksuser.dll
+[15/2018/04:11:51]  MD5: [139d3ab6aa920c34c50cbffb9eb7d222] - Size: [14 KB] - DLL: C:\\Windows\SysWOW64\avrt.dll
+[15/2018/04:11:51]  MD5: [919001d2bb17df06ca3f8ac16ad039f6] - Size: [371.5 KB] - DLL: C:\\Windows\SysWOW64\sxs.dll
+[15/2018/04:11:51]  MD5: [54388876c4a2a4bdb74e9ea73819b3f6] - Size: [13.05 MB] - DLL: C:\\Windows\SysWOW64\ieframe.dll
+[15/2018/04:11:51]  MD5: [997c0c1eea9022e141133f2a17176870] - Size: [5.64 MB] - DLL: C:\\Windows\SysWOW64\atiumdag.dll
+[15/2018/04:11:51]  MD5: [1a656ccfc382bc1c972e354b21d090ae] - Size: [4.01 MB] - DLL: C:\\Windows\SysWOW64\atiumdva.dll
+[15/2018/04:11:51]  MD5: [62500c41cbd004865e9de26b1710d355] - Size: [900.81 KB] - DLL: C:\\Windows\SysWOW64\ucrtbase.dll
+[15/2018/04:11:51]  MD5: [109f0f02fd37c84bfc7508d4227d7ed5] - Size: [429.8 KB] - DLL: C:\\Windows\SysWOW64\msvcp140.dll
+[15/2018/04:11:51]  MD5: [fe5ea45889e7a8fb38739c319576fcf2] - Size: [2.08 MB] - DLL: C:\\Windows\AppPatch\AcGenral.dll
+[15/2018/04:11:51]  MD5: [77b1471a490b53b24efe136f09f76550] - Size: [11 KB] - DLL: C:\\Windows\SysWOW64\d3d8thk.dll
+[15/2018/04:11:51]  MD5: [6ef5f3f18413c367195f06e503ab86a6] - Size: [1.74 MB] - DLL: C:\\Windows\SysWOW64\d3d9.dll
+[15/2018/04:11:51]  MD5: [f9a3bbf1e514691b9ac6fc318de36e18] - Size: [279.5 KB] - DLL: C:\\Program Files (x86)\Internet Explorer\ieproxy.dll
+[15/2018/04:11:51]  MD5: [49fb1f8e797d068eaf24cd306c9c6bf3] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-utility-l1-1-0.dll
+[15/2018/04:11:51]  MD5: [3591bbcf32984c29edf1c0379380a6bd] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-environment-l1-1-0.dll
+[15/2018/04:11:51]  MD5: [b77448d3c5df8436acbf711d794f3bf2] - Size: [13.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-filesystem-l1-1-0.dll
+[15/2018/04:11:51]  MD5: [fee84740ed6699ae5319168c6a13bbee] - Size: [13.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-time-l1-1-0.dll
+[15/2018/04:11:51]  MD5: [a8cfdb191e68491c95d493f4cefb4c96] - Size: [19.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-multibyte-l1-1-0.dll
+[15/2018/04:11:51]  MD5: [86dbeb0067aca7192c3f2a3f7f359cc6] - Size: [21.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-math-l1-1-0.dll
+[15/2018/04:11:51]  MD5: [61956008f9a8d23b857dc877a6cd4da1] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-locale-l1-1-0.dll
+[15/2018/04:11:51]  MD5: [48f133e1bdcb793625c835a0ba135300] - Size: [15.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-convert-l1-1-0.dll
+[15/2018/04:11:51]  MD5: [7587bf9cb4147022cd5681b015183046] - Size: [81.82 KB] - DLL: C:\\Windows\SysWOW64\vcruntime140.dll
+[15/2018/04:11:51]  MD5: [1fcda65915e15a4410ac7912f1f93e03] - Size: [38 KB] - DLL: C:\\Windows\SysWOW64\mcicda.dll
+[15/2018/04:11:51]  MD5: [33f4b7ef234b595d611a9418aecec7a8] - Size: [17.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-stdio-l1-1-0.dll
+[15/2018/04:11:51]  MD5: [d2bbc72e0cdf8639c8274edb395c9103] - Size: [133.5 KB] - DLL: C:\\Windows\SysWOW64\dinput.dll
+[15/2018/04:11:51]  MD5: [38f59ad407c27cc2d4353b9228da28a2] - Size: [12.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-heap-l1-1-0.dll
+[15/2018/04:11:51]  MD5: [13230d6ba1a1a23250e492956ae46a0f] - Size: [17.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-string-l1-1-0.dll
+[15/2018/04:11:51]  MD5: [c335ec1182ac10b188705554e0bc1186] - Size: [117.5 KB] - DLL: C:\\Windows\SysWOW64\msvfw32.dll
+[15/2018/04:11:51]  MD5: [d205c24a9d069049fe2df2a1b38726a7] - Size: [168 KB] - DLL: C:\\Windows\SysWOW64\wdmaud.drv
+[15/2018/04:11:52]  MD5: [007863e45f25aa47a4c30d0930bbfd85] - Size: [5.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-shlwapi-l2-1-0.dll
+[15/2018/04:11:52]  MD5: [1f01079ba3a3cf661e36298553f5cb19] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-file-l1-2-0.dll
+[15/2018/04:11:52]  MD5: [9eac1a09a012aaff86bc53d053aca024] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-processthreads-l1-1-1.dll
+[15/2018/04:11:52]  MD5: [adede3729654da5a8caf34811915a129] - Size: [13.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-localization-l1-2-0.dll
+[15/2018/04:11:52]  MD5: [0e85c11f8850d524b02181c6e02ba9ae] - Size: [443 KB] - DLL: C:\\Windows\SysWOW64\dsound.dll
+[15/2018/04:11:52]  MD5: [08e433aec4dd24dc1034e2f9df0f177a] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-file-l2-1-0.dll
+[15/2018/04:11:52]  MD5: [415b5a63986174b140700b53bf2867d7] - Size: [15.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-runtime-l1-1-0.dll
+[15/2018/04:11:52]  MD5: [08dfdbd2fd4ea951dc46b1c7661ed35a] - Size: [142 KB] - DLL: C:\\Windows\SysWOW64\powrprof.dll
+[15/2018/04:11:52]  MD5: [5a12c364ad1d4fcc0ad0e56dbbc34462] - Size: [16.5 KB] - DLL: C:\\Windows\SysWOW64\midimap.dll
+[15/2018/04:11:52]  MD5: [07393a09c46083588e751b63b03c8301] - Size: [20.5 KB] - DLL: C:\\Windows\SysWOW64\msacm32.drv
+[15/2018/04:11:52]  MD5: [5e8ce463f875143f8e5d91e6b0098ad1] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-timezone-l1-1-0.dll
+[15/2018/04:11:52]  MD5: [dceabba22e12cc44c2e7785c0eb9c6e3] - Size: [89.5 KB] - DLL: C:\\Windows\SysWOW64\avifil32.dll
+[15/2018/04:11:52]  MD5: [85683df1f917e4d7f6be1a04986bf1c8] - Size: [70.5 KB] - DLL: C:\\Windows\SysWOW64\msacm32.dll
+[15/2018/04:11:52]  MD5: [60f4aefa103d421ea4a40e31409b4756] - Size: [3 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-shell32-l1-1-0.dll
+[15/2018/04:11:52]  MD5: [74aa6c4bce56a55a022b609921f225a4] - Size: [29 KB] - DLL: C:\\Windows\SysWOW64\atiu9pag.dll
+[15/2018/04:11:52]  MD5: [58788565442368b0615ddaf1d452b843] - Size: [518 KB] - DLL: C:\\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\comctl32.dll
+[15/2018/04:11:52]  MD5: [b2aba92f93b3b1bd241ec284bbf53de1] - Size: [190.5 KB] - DLL: C:\\Windows\SysWOW64\AudioSes.dll
+[15/2018/04:11:52]  MD5: [243974ec02f7ae49e4179c54624143ab] - Size: [208.5 KB] - DLL: C:\\Windows\SysWOW64\MMDevAPI.dll
+[15/2018/04:11:52]  MD5: [52213d271f6804aaa44f57aefd2b778a] - Size: [66 KB] - DLL: C:\\Windows\SysWOW64\dwmapi.dll
+[15/2018/04:11:52]  MD5: [43964fa89ccf97ba6be34d69455ac65f] - Size: [240 KB] - DLL: C:\\Windows\SysWOW64\uxtheme.dll
+[15/2018/04:11:52]  MD5: [63df770df74acb370ef5a16727069aaf] - Size: [21.5 KB] - DLL: C:\\Windows\SysWOW64\hid.dll
+[15/2018/04:11:52]  MD5: [e3e811471de781900ff21c1fd84e941e] - Size: [88 KB] - DLL: C:\\Windows\SysWOW64\ntdsapi.dll
+[15/2018/04:11:52]  MD5: [cfc7d8289d2b5f3cf8d16e2db7f93d4a] - Size: [592 KB] - DLL: C:\\Windows\SysWOW64\wbem\fastprox.dll
+[15/2018/04:11:52]  MD5: [776ae0564f8b1c282e331fd95a1bdc5f] - Size: [46.5 KB] - DLL: C:\\Windows\SysWOW64\wbem\wbemsvc.dll
+[15/2018/04:11:52]  MD5: [704314fd398c81d5f342caa5df7b7f21] - Size: [354.5 KB] - DLL: C:\\Windows\SysWOW64\wbemcomn.dll
+[15/2018/04:11:52]  MD5: [c5b0324db461559add070e632a6919fa] - Size: [28.5 KB] - DLL: C:\\Windows\SysWOW64\wbem\wbemprox.dll
+[15/2018/04:11:52]  MD5: [84799328d87b3091a3bdd251e1ad31f9] - Size: [40 KB] - DLL: C:\\Windows\SysWOW64\sfc_os.dll
+[15/2018/04:11:52]  MD5: [40caeee0eaf1b8569f7c8df6420f2cb9] - Size: [2.5 KB] - DLL: C:\\Windows\SysWOW64\sfc.dll
+[15/2018/04:11:52]  MD5: [ee5c8e27c37b79cb54a2fceeed2dc262] - Size: [9 KB] - DLL: C:\\Windows\SysWOW64\WSHTCPIP.DLL
+[15/2018/04:11:52]  MD5: [a88241c2a519afd2c99a40000f9113e6] - Size: [226 KB] - DLL: C:\\Windows\SysWOW64\mswsock.dll
+[15/2018/04:11:52]  MD5: [c463aeddeca88e934ade53610e1a4b8d] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-synch-l1-2-0.dll
+[15/2018/04:11:52]  MD5: [b9a8cbcfcd3ec9d2ea4740af347bf108] - Size: [62.5 KB] - DLL: C:\\Windows\SysWOW64\mpr.dll
+[15/2018/04:11:52]  MD5: [5997d769cdb108390dcfaebf442bf816] - Size: [45 KB] - DLL: C:\\Windows\SysWOW64\RpcRtRemote.dll
+[15/2018/04:11:52]  MD5: [68ecca523ed760aafc03c5d587569859] - Size: [50 KB] - DLL: C:\\Windows\SysWOW64\samcli.dll
+[15/2018/04:11:52]  MD5: [ed8ec63f7522df4852147c84ec62c36a] - Size: [237.24 KB] - DLL: C:\\Windows\SysWOW64\rsaenh.dll
+[15/2018/04:11:52]  MD5: [12c45e3cb6d65f73209549e2d02eca7a] - Size: [965 KB] - DLL: C:\\Windows\SysWOW64\propsys.dll
+[15/2018/04:11:52]  MD5: [d161cb594609d47c8e9b7599f3195e56] - Size: [79 KB] - DLL: C:\\Windows\SysWOW64\cryptsp.dll
+[15/2018/04:11:52]  MD5: [d5afc3a476925ce740b7079d9bd2d269] - Size: [289 KB] - DLL: C:\\Windows\SysWOW64\apphelp.dll
+[15/2018/04:11:52]  MD5: [df13a51a5c591887d2ec6ae64ceed0fa] - Size: [15 KB] - DLL: C:\\Windows\SysWOW64\wsock32.dll
+[15/2018/04:11:52]  MD5: [d5aefad57c08349a4393d987df7c715d] - Size: [189.5 KB] - DLL: C:\\Windows\SysWOW64\winmm.dll
+[15/2018/04:11:52]  MD5: [885e18b2d0a445fb637850282530eb72] - Size: [1.6 MB] - DLL: C:\\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\comctl32.dll
+[15/2018/04:11:52]  MD5: [702254574e7e52052de39408457b7149] - Size: [21 KB] - DLL: C:\\Windows\SysWOW64\version.dll
+[15/2018/04:11:52]  MD5: [-1] - Size: [4 GB] - DLL: 
+[15/2018/04:11:52]  MD5: [2b96a8c92e6be12402c082955509fd40] - Size: [35.5 KB] - DLL: C:\\Windows\SysWOW64\cryptbase.dll
+[15/2018/04:11:52]  MD5: [f473218213024054245582a7333dd22b] - Size: [94.5 KB] - DLL: C:\\Windows\SysWOW64\sspicli.dll
+[15/2018/04:11:52]  MD5: [7fd3a85b889e031623799f6fdd3d2ded] - Size: [12.28 MB] - DLL: C:\\Windows\SysWOW64\shell32.dll
+[15/2018/04:11:52]  MD5: [f8c7346ce9939f2e67887e2300f25694] - Size: [615 KB] - DLL: C:\\Windows\SysWOW64\usp10.dll
+[15/2018/04:11:52]  MD5: [2eeff4502f5e13b1bed4a04ccad64c08] - Size: [63 KB] - DLL: C:\\Windows\SysWOW64\devobj.dll
+[15/2018/04:11:52]  MD5: [94e1c3a20358db82b31677318bbeb120] - Size: [568 KB] - DLL: C:\\Windows\SysWOW64\oleaut32.dll
+[15/2018/04:11:52]  MD5: [2e33dfd10f28f86c3fc40ee123cc3904] - Size: [2.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-normaliz-l1-1-0.dll
+[15/2018/04:11:52]  MD5: [e069a3b525828f055d9bf71a1b3dbc1e] - Size: [305.5 KB] - DLL: C:\\Windows\SysWOW64\gdi32.dll
+[15/2018/04:11:52]  MD5: [22ec05f46ffe3b940493191eeef7d1a6] - Size: [2.19 MB] - DLL: C:\\Windows\SysWOW64\iertutil.dll
+[15/2018/04:11:52]  MD5: [9c278785347bcc991f8ea2999d90f58d] - Size: [2 KB] - DLL: C:\\Windows\SysWOW64\normaliz.dll
+[15/2018/04:11:52]  MD5: [6b1e1d3d3db1c1fad675e01c6fbef330] - Size: [1.12 MB] - DLL: C:\\Windows\SysWOW64\crypt32.dll
+[15/2018/04:11:52]  MD5: [f436e847fa799ecd75ad8c313673f450] - Size: [142.5 KB] - DLL: C:\\Windows\SysWOW64\cfgmgr32.dll
+[15/2018/04:11:52]  MD5: [dd3af637a1a91478e092c11a6b512667] - Size: [1.35 MB] - DLL: C:\\Windows\SysWOW64\ole32.dll
+[15/2018/04:11:52]  MD5: [8cc3c111d653e96f3ea1590891491d71] - Size: [342 KB] - DLL: C:\\Windows\SysWOW64\shlwapi.dll
+[15/2018/04:11:52]  MD5: [1c60e09ca1c3a045bc4d367f67c915b7] - Size: [5.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-ole32-l1-1-0.dll
+[15/2018/04:11:52]  MD5: [e4ac81b38ecad78439161d38107b2bec] - Size: [629 KB] - DLL: C:\\Windows\SysWOW64\advapi32.dll
+[15/2018/04:11:52]  MD5: [59ea5753ebdae42cf92fd5b6e7ae4d53] - Size: [201.5 KB] - DLL: C:\\Windows\SysWOW64\ws2_32.dll
+[15/2018/04:11:52]  MD5: [a6f09e5669d9a19035f6d942caa15882] - Size: [117 KB] - DLL: C:\\Windows\SysWOW64\imm32.dll
+[15/2018/04:11:52]  MD5: [6951562dc4625eefc6eacd52ad165866] - Size: [9.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-shlwapi-l1-1-0.dll
+[15/2018/04:11:52]  MD5: [d15618a0ff8dbc2c5bf3726bacc75a0b] - Size: [80 KB] - DLL: C:\\Windows\SysWOW64\userenv.dll
+[15/2018/04:11:52]  MD5: [589cbc4989f750e1da35625ab481cf43] - Size: [4 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-user32-l1-1-0.dll
+[15/2018/04:11:52]  MD5: [9b6b3aec1ad29d9ee608732f3559e355] - Size: [1.25 MB] - DLL: C:\\Windows\SysWOW64\urlmon.dll
+[15/2018/04:11:52]  MD5: [257c2dc5b89c68da3b8c5e4ccec98c9a] - Size: [2.64 MB] - DLL: C:\\Windows\SysWOW64\wininet.dll
+[15/2018/04:11:52]  MD5: [af40fdab98b0ff209632c3403db6c39f] - Size: [811 KB] - DLL: C:\\Windows\SysWOW64\msctf.dll
+[15/2018/04:11:52]  MD5: [3cb074875ac88a7c1010a2a7f9881a8c] - Size: [813.5 KB] - DLL: C:\\Windows\SysWOW64\user32.dll
+[15/2018/04:11:52]  MD5: [c733d233b623b7ffce5031e4b756ee26] - Size: [31 KB] - DLL: C:\\Windows\SysWOW64\profapi.dll
+[15/2018/04:11:52]  MD5: [3be0d923aa45a4dbe091c2d84f0b4fe7] - Size: [3 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-version-l1-1-0.dll
+[15/2018/04:11:52]  MD5: [65a5e27c2217d606e212b6088ccd6104] - Size: [90 KB] - DLL: C:\\Windows\SysWOW64\sechost.dll
+[15/2018/04:11:52]  MD5: [880d297793d854133da108ae46483b63] - Size: [650.5 KB] - DLL: C:\\Windows\SysWOW64\rpcrt4.dll
+[15/2018/04:11:52]  MD5: [10fb16b50affda6d44588f3c445dc273] - Size: [1.59 MB] - DLL: C:\\Windows\SysWOW64\setupapi.dll
+[15/2018/04:11:52]  MD5: [6a13b4f3b3f575f1e24b877b9359aaba] - Size: [10.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-advapi32-l1-1-0.dll
+[15/2018/04:11:52]  MD5: [09e512220e90adda6e818120bb528b0a] - Size: [175 KB] - DLL: C:\\Windows\SysWOW64\wintrust.dll
+[15/2018/04:11:52]  MD5: [ff5688d309347f2720911d8796912834] - Size: [510 KB] - DLL: C:\\Windows\SysWOW64\clbcatq.dll
+[15/2018/04:11:52]  MD5: [1430fa19b8a066e78022de1f55d47738] - Size: [25 KB] - DLL: C:\\Windows\SysWOW64\lpk.dll
+[15/2018/04:11:52]  MD5: [9dc80a8aaaaac397bdab3c67165a824e] - Size: [674.5 KB] - DLL: C:\\Windows\SysWOW64\msvcrt.dll
+[15/2018/04:11:52]  MD5: [938f39b50bafe13d6f58c7790682c010] - Size: [33.5 KB] - DLL: C:\\Windows\SysWOW64\msasn1.dll
+[15/2018/04:11:52]  MD5: [0723a00c740a0d1b5460fbfe048c3e68] - Size: [8.5 KB] - DLL: C:\\Windows\SysWOW64\nsi.dll
+[15/2018/04:11:52]  MD5: [5e752f38cd67885f75e7b36df56cc89c] - Size: [269 KB] - DLL: C:\\Windows\SysWOW64\KernelBase.dll
+[15/2018/04:11:52]  MD5: [320b4197eaec624aa9e6207c615aa66f] - Size: [1.06 MB] - DLL: C:\\Windows\SysWOW64\kernel32.dll
+[15/2018/04:11:52]  MD5: [9b94706fb9c29f71544bde9b575fad31] - Size: [1.25 MB] - DLL: C:\\Windows\System32\ntdll.dll
+[15/2018/04:11:52]  MD5: [9b94706fb9c29f71544bde9b575fad31] - Size: [1.25 MB] - DLL: C:\\Windows\SysWOW64\ntdll.dll
+[15/2018/04:11:52]  =========================================================================================
+[15/2018/04:11:52]  Сканирование завершено!
+[15/2018/04:11:52]  -> ScreenShot URL: http://mark46.clan.su/MK/HACK_USER/333050Z797_hl2/VI46YHOUJLQ7KW1_HACK.JPG
+[15/2018/04:11:52]  ....................................................................................
+[15/2018/04:12:42]  ....................................................................................
+[15/2018/04:12:42]  -------------------------------------------------
+[15/2018/04:12:42]  [System Process]
+[15/2018/04:12:42]  System
+[15/2018/04:12:42]  smss.exe
+[15/2018/04:12:42]  csrss.exe
+[15/2018/04:12:42]  wininit.exe
+[15/2018/04:12:42]  csrss.exe
+[15/2018/04:12:42]  winlogon.exe
+[15/2018/04:12:42]  services.exe
+[15/2018/04:12:42]  lsass.exe
+[15/2018/04:12:42]  lsm.exe
+[15/2018/04:12:42]  svchost.exe
+[15/2018/04:12:42]  ASCService.exe
+[15/2018/04:12:42]  svchost.exe
+[15/2018/04:12:42]  atiesrxx.exe
+[15/2018/04:12:42]  svchost.exe
+[15/2018/04:12:42]  svchost.exe
+[15/2018/04:12:42]  svchost.exe
+[15/2018/04:12:42]  svchost.exe
+[15/2018/04:12:42]  svchost.exe
+[15/2018/04:12:42]  atieclxx.exe
+[15/2018/04:12:42]  RTKAUDIOSERVICE64.EXE
+[15/2018/04:12:42]  RAVBg64.exe
+[15/2018/04:12:42]  QHActiveDefense.exe
+[15/2018/04:12:42]  svchost.exe
+[15/2018/04:12:42]  AsLdrSrv.exe
+[15/2018/04:12:42]  spoolsv.exe
+[15/2018/04:12:43]  svchost.exe
+[15/2018/04:12:43]  Fuel.Service.exe
+[15/2018/04:12:43]  svchost.exe
+[15/2018/04:12:43]  svchost.exe
+[15/2018/04:12:43]  TeamViewer_Service.exe
+[15/2018/04:12:43]  svchost.exe
+[15/2018/04:12:43]  svchost.exe
+[15/2018/04:12:43]  svchost.exe
+[15/2018/04:12:43]  WmiPrvSE.exe
+[15/2018/04:12:43]  WmiPrvSE.exe
+[15/2018/04:12:43]  QHWatchdog.exe
+[15/2018/04:12:43]  taskhost.exe
+[15/2018/04:12:43]  HControl.exe
+[15/2018/04:12:43]  dwm.exe
+[15/2018/04:12:43]  explorer.exe
+[15/2018/04:12:43]  taskeng.exe
+[15/2018/04:12:43]  Monitor.exe
+[15/2018/04:12:43]  taskeng.exe
+[15/2018/04:12:43]  AsusTPLoader.exe
+[15/2018/04:12:43]  QuickGesture64.exe
+[15/2018/04:12:43]  QuickGesture.exe
+[15/2018/04:12:43]  RAVCpl64.exe
+[15/2018/04:12:43]  ETDCtrl.exe
+[15/2018/04:12:43]  vsnp2uvc.exe
+[15/2018/04:12:43]  GoogleCrashHandler.exe
+[15/2018/04:12:43]  GoogleCrashHandler64.exe
+[15/2018/04:12:43]  ETDCtrlHelper.exe
+[15/2018/04:12:43]  ATKOSD2.exe
+[15/2018/04:12:43]  svchost.exe
+[15/2018/04:12:43]  AsusSmartGestureDetector64.exe
+[15/2018/04:12:43]  CheckNDISPort_df.exe
+[15/2018/04:12:43]  CancelAutoPlay_df.exe
+[15/2018/04:12:43]  MOM.exe
+[15/2018/04:12:43]  SearchIndexer.exe
+[15/2018/04:12:43]  wmpnetwk.exe
+[15/2018/04:12:43]  svchost.exe
+[15/2018/04:12:43]  RAVBg64.exe
+[15/2018/04:12:43]  dllhost.exe
+[15/2018/04:12:43]  UninstallMonitor.exe
+[15/2018/04:12:43]  PresentationFontCache.exe
+[15/2018/04:12:43]  chrome.exe
+[15/2018/04:12:43]  chrome.exe
+[15/2018/04:12:43]  chrome.exe
+[15/2018/04:12:43]  chrome.exe
+[15/2018/04:12:43]  chrome.exe
+[15/2018/04:12:43]  chrome.exe
+[15/2018/04:12:43]  cmd.exe
+[15/2018/04:12:43]  conhost.exe
+[15/2018/04:12:43]  360webshield.exe
+[15/2018/04:12:43]  chrome.exe
+[15/2018/04:12:43]  chrome.exe
+[15/2018/04:12:43]  audiodg.exe
+[15/2018/04:12:43]  chrome.exe
+[15/2018/04:12:43]  chrome.exe
+[15/2018/04:12:43]  Skype.exe
+[15/2018/04:12:43]  Skype.exe
+[15/2018/04:12:43]  Skype.exe
+[15/2018/04:12:43]  Skype.exe
+[15/2018/04:12:43]  Skype.exe
+[15/2018/04:12:43]  AnVir.exe
+[15/2018/04:12:43]  hl2.exe
+[15/2018/04:12:43]  Mark46.PS.v0.0.5.5.exe
+[15/2018/04:12:43]  SearchFilterHost.exe
+[15/2018/04:12:43]  SearchProtocolHost.exe
+[15/2018/04:12:43]  chrome.exe
+[15/2018/04:12:43]  AsusTPCenter.exe
+[15/2018/04:12:43]  AsusTPCenter.exe
+[15/2018/04:12:43]  -------------------------------------------------
+[15/2018/04:12:46]  1 > D:\\cssv34\Counter-Strike Source v34 NewStylehl2.exe
+[15/2018/04:12:50]  -> ScreenShot URL: http://mark46.clan.su/MK/HACK_USER/333050Z797_hl2/VI46YHOUJLQ7KW1_HACK.JPG
+[15/2018/04:12:50]  ....................................................................................
+[15/2018/04:13:08]  Skype: SkypeRT
+[15/2018/04:13:08]  -------------------------------------------------
+[15/2018/04:13:08]  [System Process]
+[15/2018/04:13:08]  System
+[15/2018/04:13:08]  smss.exe
+[15/2018/04:13:08]  csrss.exe
+[15/2018/04:13:08]  wininit.exe
+[15/2018/04:13:08]  csrss.exe
+[15/2018/04:13:08]  winlogon.exe
+[15/2018/04:13:08]  services.exe
+[15/2018/04:13:08]  lsass.exe
+[15/2018/04:13:08]  lsm.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  ASCService.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  atiesrxx.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  atieclxx.exe
+[15/2018/04:13:08]  RTKAUDIOSERVICE64.EXE
+[15/2018/04:13:08]  RAVBg64.exe
+[15/2018/04:13:08]  QHActiveDefense.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  AsLdrSrv.exe
+[15/2018/04:13:08]  spoolsv.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  Fuel.Service.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  TeamViewer_Service.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  WmiPrvSE.exe
+[15/2018/04:13:08]  WmiPrvSE.exe
+[15/2018/04:13:08]  QHWatchdog.exe
+[15/2018/04:13:08]  taskhost.exe
+[15/2018/04:13:08]  HControl.exe
+[15/2018/04:13:08]  dwm.exe
+[15/2018/04:13:08]  explorer.exe
+[15/2018/04:13:08]  taskeng.exe
+[15/2018/04:13:08]  Monitor.exe
+[15/2018/04:13:08]  taskeng.exe
+[15/2018/04:13:08]  AsusTPLoader.exe
+[15/2018/04:13:08]  QuickGesture64.exe
+[15/2018/04:13:08]  QuickGesture.exe
+[15/2018/04:13:08]  RAVCpl64.exe
+[15/2018/04:13:08]  ETDCtrl.exe
+[15/2018/04:13:08]  vsnp2uvc.exe
+[15/2018/04:13:08]  GoogleCrashHandler.exe
+[15/2018/04:13:08]  GoogleCrashHandler64.exe
+[15/2018/04:13:08]  ETDCtrlHelper.exe
+[15/2018/04:13:08]  ATKOSD2.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  AsusSmartGestureDetector64.exe
+[15/2018/04:13:08]  CheckNDISPort_df.exe
+[15/2018/04:13:08]  CancelAutoPlay_df.exe
+[15/2018/04:13:08]  MOM.exe
+[15/2018/04:13:08]  SearchIndexer.exe
+[15/2018/04:13:08]  wmpnetwk.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  RAVBg64.exe
+[15/2018/04:13:08]  dllhost.exe
+[15/2018/04:13:08]  UninstallMonitor.exe
+[15/2018/04:13:08]  PresentationFontCache.exe
+[15/2018/04:13:08]  chrome.exe
+[15/2018/04:13:08]  chrome.exe
+[15/2018/04:13:08]  chrome.exe
+[15/2018/04:13:08]  chrome.exe
+[15/2018/04:13:08]  chrome.exe
+[15/2018/04:13:08]  chrome.exe
+[15/2018/04:13:08]  cmd.exe
+[15/2018/04:13:08]  conhost.exe
+[15/2018/04:13:08]  360webshield.exe
+[15/2018/04:13:08]  chrome.exe
+[15/2018/04:13:08]  chrome.exe
+[15/2018/04:13:08]  audiodg.exe
+[15/2018/04:13:08]  chrome.exe
+[15/2018/04:13:08]  chrome.exe
+[15/2018/04:13:08]  Skype.exe
+[15/2018/04:13:08]  Skype.exe
+[15/2018/04:13:08]  Skype.exe
+[15/2018/04:13:08]  Skype.exe
+[15/2018/04:13:08]  Skype.exe
+[15/2018/04:13:08]  AnVir.exe
+[15/2018/04:13:08]  hl2.exe
+[15/2018/04:13:08]  SearchFilterHost.exe
+[15/2018/04:13:08]  SearchProtocolHost.exe
+[15/2018/04:13:08]  chrome.exe
+[15/2018/04:13:08]  svchost.exe
+[15/2018/04:13:08]  chrome.exe
+[15/2018/04:13:08]  dllhost.exe
+[15/2018/04:13:08]  dllhost.exe
+[15/2018/04:13:08]  dllhost.exe
+[15/2018/04:13:08]  Mark46.PS.v0.0.5.5.exe
+[15/2018/04:13:08]  dllhost.exe
+[15/2018/04:13:08]  -------------------------------------------------
+[15/2018/04:13:10]  Ваш ID: 333050Z797
+[15/2018/04:13:10]  Windows 7  Service Pack 1 x32
+[15/2018/04:13:12]  ....................................................................................
+[15/2018/04:13:12]  -------------------------------------------------
+[15/2018/04:13:12]  [System Process]
+[15/2018/04:13:12]  System
+[15/2018/04:13:12]  smss.exe
+[15/2018/04:13:12]  csrss.exe
+[15/2018/04:13:12]  wininit.exe
+[15/2018/04:13:12]  csrss.exe
+[15/2018/04:13:12]  winlogon.exe
+[15/2018/04:13:12]  services.exe
+[15/2018/04:13:12]  lsass.exe
+[15/2018/04:13:12]  lsm.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  ASCService.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  atiesrxx.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  atieclxx.exe
+[15/2018/04:13:12]  RTKAUDIOSERVICE64.EXE
+[15/2018/04:13:12]  RAVBg64.exe
+[15/2018/04:13:12]  QHActiveDefense.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  AsLdrSrv.exe
+[15/2018/04:13:12]  spoolsv.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  Fuel.Service.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  TeamViewer_Service.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  WmiPrvSE.exe
+[15/2018/04:13:12]  WmiPrvSE.exe
+[15/2018/04:13:12]  QHWatchdog.exe
+[15/2018/04:13:12]  taskhost.exe
+[15/2018/04:13:12]  HControl.exe
+[15/2018/04:13:12]  dwm.exe
+[15/2018/04:13:12]  explorer.exe
+[15/2018/04:13:12]  taskeng.exe
+[15/2018/04:13:12]  Monitor.exe
+[15/2018/04:13:12]  taskeng.exe
+[15/2018/04:13:12]  AsusTPLoader.exe
+[15/2018/04:13:12]  QuickGesture64.exe
+[15/2018/04:13:12]  QuickGesture.exe
+[15/2018/04:13:12]  RAVCpl64.exe
+[15/2018/04:13:12]  ETDCtrl.exe
+[15/2018/04:13:12]  vsnp2uvc.exe
+[15/2018/04:13:12]  GoogleCrashHandler.exe
+[15/2018/04:13:12]  GoogleCrashHandler64.exe
+[15/2018/04:13:12]  ETDCtrlHelper.exe
+[15/2018/04:13:12]  ATKOSD2.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  AsusSmartGestureDetector64.exe
+[15/2018/04:13:12]  CheckNDISPort_df.exe
+[15/2018/04:13:12]  CancelAutoPlay_df.exe
+[15/2018/04:13:12]  MOM.exe
+[15/2018/04:13:12]  SearchIndexer.exe
+[15/2018/04:13:12]  wmpnetwk.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  RAVBg64.exe
+[15/2018/04:13:12]  dllhost.exe
+[15/2018/04:13:12]  UninstallMonitor.exe
+[15/2018/04:13:12]  PresentationFontCache.exe
+[15/2018/04:13:12]  chrome.exe
+[15/2018/04:13:12]  chrome.exe
+[15/2018/04:13:12]  chrome.exe
+[15/2018/04:13:12]  chrome.exe
+[15/2018/04:13:12]  chrome.exe
+[15/2018/04:13:12]  chrome.exe
+[15/2018/04:13:12]  cmd.exe
+[15/2018/04:13:12]  conhost.exe
+[15/2018/04:13:12]  360webshield.exe
+[15/2018/04:13:12]  chrome.exe
+[15/2018/04:13:12]  chrome.exe
+[15/2018/04:13:12]  audiodg.exe
+[15/2018/04:13:12]  chrome.exe
+[15/2018/04:13:12]  chrome.exe
+[15/2018/04:13:12]  Skype.exe
+[15/2018/04:13:12]  Skype.exe
+[15/2018/04:13:12]  Skype.exe
+[15/2018/04:13:12]  Skype.exe
+[15/2018/04:13:12]  Skype.exe
+[15/2018/04:13:12]  AnVir.exe
+[15/2018/04:13:12]  hl2.exe
+[15/2018/04:13:12]  SearchProtocolHost.exe
+[15/2018/04:13:12]  chrome.exe
+[15/2018/04:13:12]  svchost.exe
+[15/2018/04:13:12]  chrome.exe
+[15/2018/04:13:12]  Mark46.PS.v0.0.5.5.exe
+[15/2018/04:13:12]  dllhost.exe
+[15/2018/04:13:12]  SearchFilterHost.exe
+[15/2018/04:13:12]  -------------------------------------------------
+[15/2018/04:13:14]  1 > D:\\cssv34\Counter-Strike Source v34 NewStylehl2.exe
+[15/2018/04:13:15]  Сканирование начался...
+[15/2018/04:13:19]  NeonHack[1] (Не обнаружено)
+[15/2018/04:13:22]  Hack[1] (Не обнаружено)
+[15/2018/04:13:26]  WalHack UCP (Не обнаружено)
+[15/2018/04:13:29]  Inuria CSS 1.1 (Не обнаружено)
+[15/2018/04:13:32]  DubMood UCP Hack (Не обнаружено)
+[15/2018/04:13:35]  INURIA_CSS (Не обнаружено)
+[15/2018/04:13:39]  Perfect Hack (Не обнаружено)
+[15/2018/04:13:42]  Unknown Hack (Не обнаружено)
+[15/2018/04:13:45]  Proofens (Не обнаружено)
+[15/2018/04:13:48]  Bunnyhop_Hack_v2 (Не обнаружено)
+[15/2018/04:13:51]  Infinium (Не обнаружено)
+[15/2018/04:13:55]  Triggerbot (Обнаружено)
+[15/2018/04:13:55]  =========================================================================================
+[15/2018/04:13:55]  MD5: [3624e4284086da1ed06a69420ce9b574] - Size: [6.5 KB] - DLL: C:\\Windows\System32\apisetschema.dll
+[15/2018/04:13:55]  MD5: [79fed832c161dfa33201352891478d7f] - Size: [409.81 KB] - DLL: C:\\Windows\System32\locale.nls
+[15/2018/04:13:55]  MD5: [bcde0b774050cf3504a5619b225b36eb] - Size: [50.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\setupapi.dll.mui
+[15/2018/04:13:55]  MD5: [0d32f12bb3132aa2d20cff0935ae2c49] - Size: [535.78 KB] - DLL: C:\\Program Files (x86)\IObit\Advanced SystemCare\HPProtectNotify32.dll
+[15/2018/04:13:55]  MD5: [376acdef47613b7374e0b25b1a42d1db] - Size: [209.24 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\tier0.dll
+[15/2018/04:13:55]  MD5: [f462545467a417699fac0b28c7e1e77c] - Size: [116 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vstdlib.dll
+[15/2018/04:13:55]  MD5: [7c271bbd974c760f516f1c9f9b61e0f2] - Size: [104 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\hl2.exe
+[15/2018/04:13:55]  MD5: [4006dd98edcfd1da23ac6175e73cb1e0] - Size: [316 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\FileSystem_Steam.dll
+[15/2018/04:13:55]  MD5: [4c60d794e334c48e0512f0e95130454e] - Size: [68 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\inputsystem.dll
+[15/2018/04:13:55]  MD5: [05f8901f9b0cf472b183196d84791389] - Size: [2.81 MB] - DLL: C:\\Windows\Globalization\Sorting\SortDefault.nls
+[15/2018/04:13:55]  MD5: [9988927d465010fe7527acb6ad500e15] - Size: [136 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\datacache.dll
+[15/2018/04:13:55]  MD5: [886cff5bd45ee6e1f22099f2b69e4b4c] - Size: [196 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\dmserializers.dll
+[15/2018/04:13:55]  MD5: [f605ab26b3f78cb5676148b04d82c1ec] - Size: [7.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\msvfw32.dll.mui
+[15/2018/04:13:55]  MD5: [3de458f059ce4a5a89df9c59b253dc27] - Size: [76 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\valve_avi.dll
+[15/2018/04:13:55]  MD5: [9d243b36b4d4c383484a61fc0d8e3aed] - Size: [62.5 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\steam_api.dll
+[15/2018/04:13:55]  MD5: [a990d29d0bf0cc3f69fa2fda8cc35e86] - Size: [952 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\datamodel.dll
+[15/2018/04:13:55]  MD5: [cf7cbff5eea947f17da5978021d1ddcb] - Size: [588 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\MaterialSystem.dll
+[15/2018/04:13:55]  MD5: [5aba5d97637291b1494ca73044848d3c] - Size: [124 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dbg.dll
+[15/2018/04:13:55]  MD5: [7a16401e816c6bfd8b662028d9ccfb33] - Size: [773.49 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vguimatsurface.dll
+[15/2018/04:13:55]  MD5: [19e072aed1546482f325c03568fa0e0e] - Size: [449.49 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vgui2.dll
+[15/2018/04:13:55]  MD5: [4ba5ea72e175c75ddf5de6147c47ac23] - Size: [3.7 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\engine.dll
+[15/2018/04:13:55]  MD5: [1c7fa1f970cd8c2e84bcaf5d929b266f] - Size: [168 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx6.dll
+[15/2018/04:13:55]  MD5: [569cfec8463082ee3ddfc6866befcf4a] - Size: [120 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx7.dll
+[15/2018/04:13:55]  MD5: [91b57edfedd614358debca629dfeb5cd] - Size: [224 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx8.dll
+[15/2018/04:13:55]  MD5: [acb769ec498fb62316eab45adb680f22] - Size: [64.53 KB] - DLL: C:\\Windows\System32\C_1252.NLS
+[15/2018/04:13:55]  MD5: [dfe1ba04c7e489d1a6877e827cd7d241] - Size: [280 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx9.dll
+[15/2018/04:13:55]  MD5: [94cc268515a532651e1e5c154103fa89] - Size: [2.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\wdmaud.drv.mui
+[15/2018/04:13:55]  MD5: [6798b61b8bf40e20613a32baacc69413] - Size: [2 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\MMDevAPI.dll.mui
+[15/2018/04:13:55]  MD5: [9376509054231fa938601ada5321e182] - Size: [52 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\unicode.dll
+[15/2018/04:13:55]  MD5: [fa9d5468cf51cd1d0a925ab1a17197f2] - Size: [176 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\launcher.dll
+[15/2018/04:13:55]  MD5: [364ffe57fbbcbd901effa5a22d603a65] - Size: [4 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\msctf.dll.mui
+[15/2018/04:13:55]  MD5: [3c7516556aaaae6758768a39ae09b496] - Size: [9.19 MB] - DLL: C:\\Windows\Fonts\StaticCache.dat
+[15/2018/04:13:55]  MD5: [b3f19302660cbeea4afa5632fe700d74] - Size: [196 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\SoundEmitterSystem.dll
+[15/2018/04:13:55]  MD5: [ccd2975301b474a63693752453759628] - Size: [100 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\scenefilecache.dll
+[15/2018/04:13:55]  MD5: [0e99ca8ec1ff013f4bc7898a9c7db51b] - Size: [1.76 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\GameUI.dll
+[15/2018/04:13:55]  MD5: [d255db57c55d6c8dbf06e8d963f4d742] - Size: [56 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vaudio_miles.dll
+[15/2018/04:13:55]  MD5: [958021f4ef8693b962c57d5854160e09] - Size: [1.03 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\ServerBrowser.dll
+[15/2018/04:13:55]  MD5: [9596dc8cb1f0daa047522ce84850ca41] - Size: [304 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\Steam.dll
+[15/2018/04:13:55]  MD5: [91372c57cd38cd596dc33f54fd88392f] - Size: [364 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\Mss32.dll
+[15/2018/04:13:55]  MD5: [c1ba065f4508aeb9028828cf418991be] - Size: [5.79 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\cstrike\bin\server.dll
+[15/2018/04:13:55]  MD5: [091fddc0a30055e077dbc73d2c687098] - Size: [3.97 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\cstrike\bin\client.dll
+[15/2018/04:13:55]  MD5: [2f95888eac02a20afb93051bd73b76ab] - Size: [1.13 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vphysics.dll
+[15/2018/04:13:55]  MD5: [b6bcba8dff46272b218dae0a93ffeb0b] - Size: [209.5 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\mssvoice.asi
+[15/2018/04:13:55]  MD5: [c6bf2dd9018536e3478369cc65a03870] - Size: [146 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\mssmp3.asi
+[15/2018/04:13:55]  MD5: [5dea6e46a8899ce6bc9ebea17b59e29d] - Size: [605.24 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\shaderapidx9.dll
+[15/2018/04:13:55]  MD5: [99ad19565b1fc08af26c98dfda0d99b1] - Size: [400 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\StudioRender.dll
+[15/2018/04:13:55]  MD5: [e115e693576a3bce05e6a10cdd891d75] - Size: [92 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\parsifal.dll
+[15/2018/04:13:55]  MD5: [ee04d1eaa3093341c7e3070c33a82152] - Size: [760.5 KB] - DLL: C:\\Windows\SysWOW64\aticfx32.dll
+[15/2018/04:13:55]  MD5: [a4c85f362ebb7815676f1cd9cfc5ba59] - Size: [4.5 KB] - DLL: C:\\Windows\SysWOW64\ksuser.dll
+[15/2018/04:13:55]  MD5: [139d3ab6aa920c34c50cbffb9eb7d222] - Size: [14 KB] - DLL: C:\\Windows\SysWOW64\avrt.dll
+[15/2018/04:13:55]  MD5: [919001d2bb17df06ca3f8ac16ad039f6] - Size: [371.5 KB] - DLL: C:\\Windows\SysWOW64\sxs.dll
+[15/2018/04:13:55]  MD5: [54388876c4a2a4bdb74e9ea73819b3f6] - Size: [13.05 MB] - DLL: C:\\Windows\SysWOW64\ieframe.dll
+[15/2018/04:13:55]  MD5: [997c0c1eea9022e141133f2a17176870] - Size: [5.64 MB] - DLL: C:\\Windows\SysWOW64\atiumdag.dll
+[15/2018/04:13:55]  MD5: [1a656ccfc382bc1c972e354b21d090ae] - Size: [4.01 MB] - DLL: C:\\Windows\SysWOW64\atiumdva.dll
+[15/2018/04:13:55]  MD5: [62500c41cbd004865e9de26b1710d355] - Size: [900.81 KB] - DLL: C:\\Windows\SysWOW64\ucrtbase.dll
+[15/2018/04:13:55]  MD5: [109f0f02fd37c84bfc7508d4227d7ed5] - Size: [429.8 KB] - DLL: C:\\Windows\SysWOW64\msvcp140.dll
+[15/2018/04:13:55]  MD5: [fe5ea45889e7a8fb38739c319576fcf2] - Size: [2.08 MB] - DLL: C:\\Windows\AppPatch\AcGenral.dll
+[15/2018/04:13:55]  MD5: [77b1471a490b53b24efe136f09f76550] - Size: [11 KB] - DLL: C:\\Windows\SysWOW64\d3d8thk.dll
+[15/2018/04:13:55]  MD5: [6ef5f3f18413c367195f06e503ab86a6] - Size: [1.74 MB] - DLL: C:\\Windows\SysWOW64\d3d9.dll
+[15/2018/04:13:55]  MD5: [f9a3bbf1e514691b9ac6fc318de36e18] - Size: [279.5 KB] - DLL: C:\\Program Files (x86)\Internet Explorer\ieproxy.dll
+[15/2018/04:13:55]  MD5: [49fb1f8e797d068eaf24cd306c9c6bf3] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-utility-l1-1-0.dll
+[15/2018/04:13:55]  MD5: [3591bbcf32984c29edf1c0379380a6bd] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-environment-l1-1-0.dll
+[15/2018/04:13:55]  MD5: [b77448d3c5df8436acbf711d794f3bf2] - Size: [13.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-filesystem-l1-1-0.dll
+[15/2018/04:13:55]  MD5: [fee84740ed6699ae5319168c6a13bbee] - Size: [13.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-time-l1-1-0.dll
+[15/2018/04:13:55]  MD5: [a8cfdb191e68491c95d493f4cefb4c96] - Size: [19.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-multibyte-l1-1-0.dll
+[15/2018/04:13:55]  MD5: [86dbeb0067aca7192c3f2a3f7f359cc6] - Size: [21.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-math-l1-1-0.dll
+[15/2018/04:13:55]  MD5: [61956008f9a8d23b857dc877a6cd4da1] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-locale-l1-1-0.dll
+[15/2018/04:13:55]  MD5: [48f133e1bdcb793625c835a0ba135300] - Size: [15.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-convert-l1-1-0.dll
+[15/2018/04:13:55]  MD5: [7587bf9cb4147022cd5681b015183046] - Size: [81.82 KB] - DLL: C:\\Windows\SysWOW64\vcruntime140.dll
+[15/2018/04:13:55]  MD5: [1fcda65915e15a4410ac7912f1f93e03] - Size: [38 KB] - DLL: C:\\Windows\SysWOW64\mcicda.dll
+[15/2018/04:13:55]  MD5: [33f4b7ef234b595d611a9418aecec7a8] - Size: [17.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-stdio-l1-1-0.dll
+[15/2018/04:13:55]  MD5: [d2bbc72e0cdf8639c8274edb395c9103] - Size: [133.5 KB] - DLL: C:\\Windows\SysWOW64\dinput.dll
+[15/2018/04:13:55]  MD5: [38f59ad407c27cc2d4353b9228da28a2] - Size: [12.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-heap-l1-1-0.dll
+[15/2018/04:13:55]  MD5: [13230d6ba1a1a23250e492956ae46a0f] - Size: [17.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-string-l1-1-0.dll
+[15/2018/04:13:55]  MD5: [c335ec1182ac10b188705554e0bc1186] - Size: [117.5 KB] - DLL: C:\\Windows\SysWOW64\msvfw32.dll
+[15/2018/04:13:55]  MD5: [d205c24a9d069049fe2df2a1b38726a7] - Size: [168 KB] - DLL: C:\\Windows\SysWOW64\wdmaud.drv
+[15/2018/04:13:55]  MD5: [007863e45f25aa47a4c30d0930bbfd85] - Size: [5.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-shlwapi-l2-1-0.dll
+[15/2018/04:13:55]  MD5: [1f01079ba3a3cf661e36298553f5cb19] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-file-l1-2-0.dll
+[15/2018/04:13:55]  MD5: [9eac1a09a012aaff86bc53d053aca024] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-processthreads-l1-1-1.dll
+[15/2018/04:13:55]  MD5: [adede3729654da5a8caf34811915a129] - Size: [13.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-localization-l1-2-0.dll
+[15/2018/04:13:55]  MD5: [0e85c11f8850d524b02181c6e02ba9ae] - Size: [443 KB] - DLL: C:\\Windows\SysWOW64\dsound.dll
+[15/2018/04:13:56]  MD5: [08e433aec4dd24dc1034e2f9df0f177a] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-file-l2-1-0.dll
+[15/2018/04:13:56]  MD5: [415b5a63986174b140700b53bf2867d7] - Size: [15.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-runtime-l1-1-0.dll
+[15/2018/04:13:56]  MD5: [08dfdbd2fd4ea951dc46b1c7661ed35a] - Size: [142 KB] - DLL: C:\\Windows\SysWOW64\powrprof.dll
+[15/2018/04:13:56]  MD5: [5a12c364ad1d4fcc0ad0e56dbbc34462] - Size: [16.5 KB] - DLL: C:\\Windows\SysWOW64\midimap.dll
+[15/2018/04:13:56]  MD5: [07393a09c46083588e751b63b03c8301] - Size: [20.5 KB] - DLL: C:\\Windows\SysWOW64\msacm32.drv
+[15/2018/04:13:56]  MD5: [5e8ce463f875143f8e5d91e6b0098ad1] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-timezone-l1-1-0.dll
+[15/2018/04:13:56]  MD5: [dceabba22e12cc44c2e7785c0eb9c6e3] - Size: [89.5 KB] - DLL: C:\\Windows\SysWOW64\avifil32.dll
+[15/2018/04:13:56]  MD5: [85683df1f917e4d7f6be1a04986bf1c8] - Size: [70.5 KB] - DLL: C:\\Windows\SysWOW64\msacm32.dll
+[15/2018/04:13:56]  MD5: [60f4aefa103d421ea4a40e31409b4756] - Size: [3 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-shell32-l1-1-0.dll
+[15/2018/04:13:56]  MD5: [74aa6c4bce56a55a022b609921f225a4] - Size: [29 KB] - DLL: C:\\Windows\SysWOW64\atiu9pag.dll
+[15/2018/04:13:56]  MD5: [58788565442368b0615ddaf1d452b843] - Size: [518 KB] - DLL: C:\\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\comctl32.dll
+[15/2018/04:13:56]  MD5: [b2aba92f93b3b1bd241ec284bbf53de1] - Size: [190.5 KB] - DLL: C:\\Windows\SysWOW64\AudioSes.dll
+[15/2018/04:13:56]  MD5: [243974ec02f7ae49e4179c54624143ab] - Size: [208.5 KB] - DLL: C:\\Windows\SysWOW64\MMDevAPI.dll
+[15/2018/04:13:56]  MD5: [52213d271f6804aaa44f57aefd2b778a] - Size: [66 KB] - DLL: C:\\Windows\SysWOW64\dwmapi.dll
+[15/2018/04:13:56]  MD5: [43964fa89ccf97ba6be34d69455ac65f] - Size: [240 KB] - DLL: C:\\Windows\SysWOW64\uxtheme.dll
+[15/2018/04:13:56]  MD5: [63df770df74acb370ef5a16727069aaf] - Size: [21.5 KB] - DLL: C:\\Windows\SysWOW64\hid.dll
+[15/2018/04:13:56]  MD5: [e3e811471de781900ff21c1fd84e941e] - Size: [88 KB] - DLL: C:\\Windows\SysWOW64\ntdsapi.dll
+[15/2018/04:13:56]  MD5: [cfc7d8289d2b5f3cf8d16e2db7f93d4a] - Size: [592 KB] - DLL: C:\\Windows\SysWOW64\wbem\fastprox.dll
+[15/2018/04:13:56]  MD5: [776ae0564f8b1c282e331fd95a1bdc5f] - Size: [46.5 KB] - DLL: C:\\Windows\SysWOW64\wbem\wbemsvc.dll
+[15/2018/04:13:56]  MD5: [704314fd398c81d5f342caa5df7b7f21] - Size: [354.5 KB] - DLL: C:\\Windows\SysWOW64\wbemcomn.dll
+[15/2018/04:13:56]  MD5: [c5b0324db461559add070e632a6919fa] - Size: [28.5 KB] - DLL: C:\\Windows\SysWOW64\wbem\wbemprox.dll
+[15/2018/04:13:56]  MD5: [84799328d87b3091a3bdd251e1ad31f9] - Size: [40 KB] - DLL: C:\\Windows\SysWOW64\sfc_os.dll
+[15/2018/04:13:56]  MD5: [40caeee0eaf1b8569f7c8df6420f2cb9] - Size: [2.5 KB] - DLL: C:\\Windows\SysWOW64\sfc.dll
+[15/2018/04:13:56]  MD5: [ee5c8e27c37b79cb54a2fceeed2dc262] - Size: [9 KB] - DLL: C:\\Windows\SysWOW64\WSHTCPIP.DLL
+[15/2018/04:13:56]  MD5: [a88241c2a519afd2c99a40000f9113e6] - Size: [226 KB] - DLL: C:\\Windows\SysWOW64\mswsock.dll
+[15/2018/04:13:56]  MD5: [c463aeddeca88e934ade53610e1a4b8d] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-synch-l1-2-0.dll
+[15/2018/04:13:56]  MD5: [b9a8cbcfcd3ec9d2ea4740af347bf108] - Size: [62.5 KB] - DLL: C:\\Windows\SysWOW64\mpr.dll
+[15/2018/04:13:56]  MD5: [5997d769cdb108390dcfaebf442bf816] - Size: [45 KB] - DLL: C:\\Windows\SysWOW64\RpcRtRemote.dll
+[15/2018/04:13:56]  MD5: [68ecca523ed760aafc03c5d587569859] - Size: [50 KB] - DLL: C:\\Windows\SysWOW64\samcli.dll
+[15/2018/04:13:56]  MD5: [ed8ec63f7522df4852147c84ec62c36a] - Size: [237.24 KB] - DLL: C:\\Windows\SysWOW64\rsaenh.dll
+[15/2018/04:13:56]  MD5: [12c45e3cb6d65f73209549e2d02eca7a] - Size: [965 KB] - DLL: C:\\Windows\SysWOW64\propsys.dll
+[15/2018/04:13:56]  MD5: [d161cb594609d47c8e9b7599f3195e56] - Size: [79 KB] - DLL: C:\\Windows\SysWOW64\cryptsp.dll
+[15/2018/04:13:56]  MD5: [d5afc3a476925ce740b7079d9bd2d269] - Size: [289 KB] - DLL: C:\\Windows\SysWOW64\apphelp.dll
+[15/2018/04:13:56]  MD5: [df13a51a5c591887d2ec6ae64ceed0fa] - Size: [15 KB] - DLL: C:\\Windows\SysWOW64\wsock32.dll
+[15/2018/04:13:56]  MD5: [d5aefad57c08349a4393d987df7c715d] - Size: [189.5 KB] - DLL: C:\\Windows\SysWOW64\winmm.dll
+[15/2018/04:13:56]  MD5: [885e18b2d0a445fb637850282530eb72] - Size: [1.6 MB] - DLL: C:\\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\comctl32.dll
+[15/2018/04:13:56]  MD5: [702254574e7e52052de39408457b7149] - Size: [21 KB] - DLL: C:\\Windows\SysWOW64\version.dll
+[15/2018/04:13:56]  MD5: [-1] - Size: [4 GB] - DLL: 
+[15/2018/04:13:56]  MD5: [2b96a8c92e6be12402c082955509fd40] - Size: [35.5 KB] - DLL: C:\\Windows\SysWOW64\cryptbase.dll
+[15/2018/04:13:56]  MD5: [f473218213024054245582a7333dd22b] - Size: [94.5 KB] - DLL: C:\\Windows\SysWOW64\sspicli.dll
+[15/2018/04:13:56]  MD5: [7fd3a85b889e031623799f6fdd3d2ded] - Size: [12.28 MB] - DLL: C:\\Windows\SysWOW64\shell32.dll
+[15/2018/04:13:56]  MD5: [f8c7346ce9939f2e67887e2300f25694] - Size: [615 KB] - DLL: C:\\Windows\SysWOW64\usp10.dll
+[15/2018/04:13:56]  MD5: [2eeff4502f5e13b1bed4a04ccad64c08] - Size: [63 KB] - DLL: C:\\Windows\SysWOW64\devobj.dll
+[15/2018/04:13:56]  MD5: [94e1c3a20358db82b31677318bbeb120] - Size: [568 KB] - DLL: C:\\Windows\SysWOW64\oleaut32.dll
+[15/2018/04:13:56]  MD5: [2e33dfd10f28f86c3fc40ee123cc3904] - Size: [2.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-normaliz-l1-1-0.dll
+[15/2018/04:13:56]  MD5: [e069a3b525828f055d9bf71a1b3dbc1e] - Size: [305.5 KB] - DLL: C:\\Windows\SysWOW64\gdi32.dll
+[15/2018/04:13:56]  MD5: [22ec05f46ffe3b940493191eeef7d1a6] - Size: [2.19 MB] - DLL: C:\\Windows\SysWOW64\iertutil.dll
+[15/2018/04:13:56]  MD5: [9c278785347bcc991f8ea2999d90f58d] - Size: [2 KB] - DLL: C:\\Windows\SysWOW64\normaliz.dll
+[15/2018/04:13:56]  MD5: [6b1e1d3d3db1c1fad675e01c6fbef330] - Size: [1.12 MB] - DLL: C:\\Windows\SysWOW64\crypt32.dll
+[15/2018/04:13:56]  MD5: [f436e847fa799ecd75ad8c313673f450] - Size: [142.5 KB] - DLL: C:\\Windows\SysWOW64\cfgmgr32.dll
+[15/2018/04:13:56]  MD5: [dd3af637a1a91478e092c11a6b512667] - Size: [1.35 MB] - DLL: C:\\Windows\SysWOW64\ole32.dll
+[15/2018/04:13:56]  MD5: [8cc3c111d653e96f3ea1590891491d71] - Size: [342 KB] - DLL: C:\\Windows\SysWOW64\shlwapi.dll
+[15/2018/04:13:56]  MD5: [1c60e09ca1c3a045bc4d367f67c915b7] - Size: [5.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-ole32-l1-1-0.dll
+[15/2018/04:13:56]  MD5: [e4ac81b38ecad78439161d38107b2bec] - Size: [629 KB] - DLL: C:\\Windows\SysWOW64\advapi32.dll
+[15/2018/04:13:56]  MD5: [59ea5753ebdae42cf92fd5b6e7ae4d53] - Size: [201.5 KB] - DLL: C:\\Windows\SysWOW64\ws2_32.dll
+[15/2018/04:13:56]  MD5: [a6f09e5669d9a19035f6d942caa15882] - Size: [117 KB] - DLL: C:\\Windows\SysWOW64\imm32.dll
+[15/2018/04:13:56]  MD5: [6951562dc4625eefc6eacd52ad165866] - Size: [9.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-shlwapi-l1-1-0.dll
+[15/2018/04:13:56]  MD5: [d15618a0ff8dbc2c5bf3726bacc75a0b] - Size: [80 KB] - DLL: C:\\Windows\SysWOW64\userenv.dll
+[15/2018/04:13:56]  MD5: [589cbc4989f750e1da35625ab481cf43] - Size: [4 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-user32-l1-1-0.dll
+[15/2018/04:13:56]  MD5: [9b6b3aec1ad29d9ee608732f3559e355] - Size: [1.25 MB] - DLL: C:\\Windows\SysWOW64\urlmon.dll
+[15/2018/04:13:56]  MD5: [257c2dc5b89c68da3b8c5e4ccec98c9a] - Size: [2.64 MB] - DLL: C:\\Windows\SysWOW64\wininet.dll
+[15/2018/04:13:56]  MD5: [af40fdab98b0ff209632c3403db6c39f] - Size: [811 KB] - DLL: C:\\Windows\SysWOW64\msctf.dll
+[15/2018/04:13:56]  MD5: [3cb074875ac88a7c1010a2a7f9881a8c] - Size: [813.5 KB] - DLL: C:\\Windows\SysWOW64\user32.dll
+[15/2018/04:13:56]  MD5: [c733d233b623b7ffce5031e4b756ee26] - Size: [31 KB] - DLL: C:\\Windows\SysWOW64\profapi.dll
+[15/2018/04:13:56]  MD5: [3be0d923aa45a4dbe091c2d84f0b4fe7] - Size: [3 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-version-l1-1-0.dll
+[15/2018/04:13:56]  MD5: [65a5e27c2217d606e212b6088ccd6104] - Size: [90 KB] - DLL: C:\\Windows\SysWOW64\sechost.dll
+[15/2018/04:13:56]  MD5: [880d297793d854133da108ae46483b63] - Size: [650.5 KB] - DLL: C:\\Windows\SysWOW64\rpcrt4.dll
+[15/2018/04:13:56]  MD5: [10fb16b50affda6d44588f3c445dc273] - Size: [1.59 MB] - DLL: C:\\Windows\SysWOW64\setupapi.dll
+[15/2018/04:13:56]  MD5: [6a13b4f3b3f575f1e24b877b9359aaba] - Size: [10.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-advapi32-l1-1-0.dll
+[15/2018/04:13:56]  MD5: [09e512220e90adda6e818120bb528b0a] - Size: [175 KB] - DLL: C:\\Windows\SysWOW64\wintrust.dll
+[15/2018/04:13:56]  MD5: [ff5688d309347f2720911d8796912834] - Size: [510 KB] - DLL: C:\\Windows\SysWOW64\clbcatq.dll
+[15/2018/04:13:56]  MD5: [1430fa19b8a066e78022de1f55d47738] - Size: [25 KB] - DLL: C:\\Windows\SysWOW64\lpk.dll
+[15/2018/04:13:56]  MD5: [9dc80a8aaaaac397bdab3c67165a824e] - Size: [674.5 KB] - DLL: C:\\Windows\SysWOW64\msvcrt.dll
+[15/2018/04:13:56]  MD5: [938f39b50bafe13d6f58c7790682c010] - Size: [33.5 KB] - DLL: C:\\Windows\SysWOW64\msasn1.dll
+[15/2018/04:13:56]  MD5: [0723a00c740a0d1b5460fbfe048c3e68] - Size: [8.5 KB] - DLL: C:\\Windows\SysWOW64\nsi.dll
+[15/2018/04:13:56]  MD5: [5e752f38cd67885f75e7b36df56cc89c] - Size: [269 KB] - DLL: C:\\Windows\SysWOW64\KernelBase.dll
+[15/2018/04:13:56]  MD5: [320b4197eaec624aa9e6207c615aa66f] - Size: [1.06 MB] - DLL: C:\\Windows\SysWOW64\kernel32.dll
+[15/2018/04:13:56]  MD5: [9b94706fb9c29f71544bde9b575fad31] - Size: [1.25 MB] - DLL: C:\\Windows\System32\ntdll.dll
+[15/2018/04:13:56]  MD5: [9b94706fb9c29f71544bde9b575fad31] - Size: [1.25 MB] - DLL: C:\\Windows\SysWOW64\ntdll.dll
+[15/2018/04:13:56]  =========================================================================================
+[15/2018/04:13:56]  Сканирование завершено!
+[15/2018/04:13:56]  -> ScreenShot URL: http://mark46.clan.su/MK/HACK_USER/333050Z797_hl2/Q8UJ8UVHQ1QGPG0_HACK.JPG
+[15/2018/04:13:56]  ....................................................................................
+[23/2018/01:14:35]  Skype: SkypeRT
+[23/2018/01:14:35]  -------------------------------------------------
+[23/2018/01:14:35]  [System Process]
+[23/2018/01:14:35]  System
+[23/2018/01:14:35]  smss.exe
+[23/2018/01:14:35]  csrss.exe
+[23/2018/01:14:35]  wininit.exe
+[23/2018/01:14:35]  csrss.exe
+[23/2018/01:14:35]  services.exe
+[23/2018/01:14:35]  lsass.exe
+[23/2018/01:14:35]  lsm.exe
+[23/2018/01:14:35]  winlogon.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  ASCService.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  atiesrxx.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  audiodg.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  RTKAUDIOSERVICE64.EXE
+[23/2018/01:14:35]  atieclxx.exe
+[23/2018/01:14:35]  RAVBg64.exe
+[23/2018/01:14:35]  QHActiveDefense.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  AsLdrSrv.exe
+[23/2018/01:14:35]  spoolsv.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  Fuel.Service.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  TeamViewer_Service.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  WmiPrvSE.exe
+[23/2018/01:14:35]  WmiPrvSE.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  QHWatchdog.exe
+[23/2018/01:14:35]  taskhost.exe
+[23/2018/01:14:35]  HControl.exe
+[23/2018/01:14:35]  dwm.exe
+[23/2018/01:14:35]  taskeng.exe
+[23/2018/01:14:35]  Monitor.exe
+[23/2018/01:14:35]  ATKOSD2.exe
+[23/2018/01:14:35]  explorer.exe
+[23/2018/01:14:35]  rundll32.exe
+[23/2018/01:14:35]  RAVCpl64.exe
+[23/2018/01:14:35]  ETDCtrl.exe
+[23/2018/01:14:35]  vsnp2uvc.exe
+[23/2018/01:14:35]  Skype.exe
+[23/2018/01:14:35]  CheckNDISPort_df.exe
+[23/2018/01:14:35]  CancelAutoPlay_df.exe
+[23/2018/01:14:35]  MOM.exe
+[23/2018/01:14:35]  ETDCtrlHelper.exe
+[23/2018/01:14:35]  AsusTPLoader.exe
+[23/2018/01:14:35]  RAVBg64.exe
+[23/2018/01:14:35]  QuickGesture64.exe
+[23/2018/01:14:35]  QuickGesture.exe
+[23/2018/01:14:35]  Skype.exe
+[23/2018/01:14:35]  Skype.exe
+[23/2018/01:14:35]  GoogleCrashHandler.exe
+[23/2018/01:14:35]  GoogleCrashHandler64.exe
+[23/2018/01:14:35]  Skype.exe
+[23/2018/01:14:35]  SearchIndexer.exe
+[23/2018/01:14:35]  UninstallMonitor.exe
+[23/2018/01:14:35]  AsusSmartGestureDetector64.exe
+[23/2018/01:14:35]  PresentationFontCache.exe
+[23/2018/01:14:35]  ucp.exe
+[23/2018/01:14:35]  svchost.exe
+[23/2018/01:14:35]  wuauclt.exe
+[23/2018/01:14:35]  myAC.ex
+[23/2018/01:14:35]  Skype.exe
+[23/2018/01:14:35]  WinRAR.exe
+[23/2018/01:14:35]  taskhost.exe
+[23/2018/01:14:35]  SearchProtocolHost.exe
+[23/2018/01:14:35]  SearchFilterHost.exe
+[23/2018/01:14:35]  Mark46.PS.v0.0.5.5.exe
+[23/2018/01:14:35]  dllhost.exe
+[23/2018/01:14:35]  -------------------------------------------------
+[23/2018/01:14:37]  Ваш ID: 333050Z797
+[23/2018/01:14:38]  Windows 7  Service Pack 1 x32
+[23/2018/01:14:44]  ....................................................................................
+[23/2018/01:14:44]  -------------------------------------------------
+[23/2018/01:14:44]  [System Process]
+[23/2018/01:14:44]  System
+[23/2018/01:14:44]  smss.exe
+[23/2018/01:14:44]  csrss.exe
+[23/2018/01:14:44]  wininit.exe
+[23/2018/01:14:44]  csrss.exe
+[23/2018/01:14:44]  services.exe
+[23/2018/01:14:44]  lsass.exe
+[23/2018/01:14:44]  lsm.exe
+[23/2018/01:14:44]  winlogon.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  ASCService.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  atiesrxx.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  audiodg.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  RTKAUDIOSERVICE64.EXE
+[23/2018/01:14:44]  atieclxx.exe
+[23/2018/01:14:44]  RAVBg64.exe
+[23/2018/01:14:44]  QHActiveDefense.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  AsLdrSrv.exe
+[23/2018/01:14:44]  spoolsv.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  Fuel.Service.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  TeamViewer_Service.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  WmiPrvSE.exe
+[23/2018/01:14:44]  WmiPrvSE.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  QHWatchdog.exe
+[23/2018/01:14:44]  taskhost.exe
+[23/2018/01:14:44]  HControl.exe
+[23/2018/01:14:44]  dwm.exe
+[23/2018/01:14:44]  taskeng.exe
+[23/2018/01:14:44]  Monitor.exe
+[23/2018/01:14:44]  ATKOSD2.exe
+[23/2018/01:14:44]  explorer.exe
+[23/2018/01:14:44]  rundll32.exe
+[23/2018/01:14:44]  RAVCpl64.exe
+[23/2018/01:14:44]  ETDCtrl.exe
+[23/2018/01:14:44]  vsnp2uvc.exe
+[23/2018/01:14:44]  Skype.exe
+[23/2018/01:14:44]  CheckNDISPort_df.exe
+[23/2018/01:14:44]  CancelAutoPlay_df.exe
+[23/2018/01:14:44]  MOM.exe
+[23/2018/01:14:44]  ETDCtrlHelper.exe
+[23/2018/01:14:44]  AsusTPLoader.exe
+[23/2018/01:14:44]  RAVBg64.exe
+[23/2018/01:14:44]  QuickGesture64.exe
+[23/2018/01:14:44]  QuickGesture.exe
+[23/2018/01:14:44]  Skype.exe
+[23/2018/01:14:44]  Skype.exe
+[23/2018/01:14:44]  GoogleCrashHandler.exe
+[23/2018/01:14:44]  GoogleCrashHandler64.exe
+[23/2018/01:14:44]  Skype.exe
+[23/2018/01:14:44]  SearchIndexer.exe
+[23/2018/01:14:44]  UninstallMonitor.exe
+[23/2018/01:14:44]  AsusSmartGestureDetector64.exe
+[23/2018/01:14:44]  PresentationFontCache.exe
+[23/2018/01:14:44]  ucp.exe
+[23/2018/01:14:44]  svchost.exe
+[23/2018/01:14:44]  wuauclt.exe
+[23/2018/01:14:44]  myAC.ex
+[23/2018/01:14:44]  Skype.exe
+[23/2018/01:14:44]  WinRAR.exe
+[23/2018/01:14:44]  taskhost.exe
+[23/2018/01:14:44]  SearchFilterHost.exe
+[23/2018/01:14:44]  Mark46.PS.v0.0.5.5.exe
+[23/2018/01:14:44]  SearchProtocolHost.exe
+[23/2018/01:14:44]  AsusTPCenter.exe
+[23/2018/01:14:44]  AsusTPCenter.exe
+[23/2018/01:14:44]  AsusTPCenter.exe
+[23/2018/01:14:44]  -------------------------------------------------
+[23/2018/01:14:47]  1 > D:\\cssv34\Counter-Strike Source v34 NewStyleucp.exe
+[23/2018/01:14:49]  Сканирование начался...
+[23/2018/01:15:01]  DubMood MK-01 (Не обнаружено)
+[23/2018/01:15:10]  WallHack UCP (Не обнаружено)
+[23/2018/01:15:17]  Unknown Hack (Не обнаружено)
+[23/2018/01:15:23]  DubMood MK-02 (Не обнаружено)
+[23/2018/01:15:24]  =========================================================================================
+[23/2018/01:15:24]  MD5: [3624e4284086da1ed06a69420ce9b574] - Size: [6.5 KB] - DLL: C:\\Windows\System32\apisetschema.dll
+[23/2018/01:15:24]  MD5: [79fed832c161dfa33201352891478d7f] - Size: [409.81 KB] - DLL: C:\\Windows\System32\locale.nls
+[23/2018/01:15:24]  MD5: [8dd165cd6796dc2b62230962b0fef630] - Size: [839.63 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\ucp.exe
+[23/2018/01:15:24]  MD5: [f462545467a417699fac0b28c7e1e77c] - Size: [116 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vstdlib.dll
+[23/2018/01:15:24]  MD5: [f605ab26b3f78cb5676148b04d82c1ec] - Size: [7.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\msvfw32.dll.mui
+[23/2018/01:15:24]  MD5: [92645c11aa7540023a01610ad59e6d9b] - Size: [128 B] - DLL: C:\\Users\Рафаэль\AppData\Local\Microsoft\Windows\Temporary Internet Files\counters.dat
+[23/2018/01:15:24]  MD5: [05f8901f9b0cf472b183196d84791389] - Size: [2.81 MB] - DLL: C:\\Windows\Globalization\Sorting\SortDefault.nls
+[23/2018/01:15:24]  MD5: [376acdef47613b7374e0b25b1a42d1db] - Size: [209.24 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\tier0.dll
+[23/2018/01:15:24]  MD5: [4006dd98edcfd1da23ac6175e73cb1e0] - Size: [316 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\FileSystem_Steam.dll
+[23/2018/01:15:24]  MD5: [886cff5bd45ee6e1f22099f2b69e4b4c] - Size: [196 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\dmserializers.dll
+[23/2018/01:15:24]  MD5: [9988927d465010fe7527acb6ad500e15] - Size: [136 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\datacache.dll
+[23/2018/01:15:24]  MD5: [4c60d794e334c48e0512f0e95130454e] - Size: [68 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\inputsystem.dll
+[23/2018/01:15:24]  MD5: [a990d29d0bf0cc3f69fa2fda8cc35e86] - Size: [952 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\datamodel.dll
+[23/2018/01:15:24]  MD5: [cf7cbff5eea947f17da5978021d1ddcb] - Size: [588 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\MaterialSystem.dll
+[23/2018/01:15:24]  MD5: [3de458f059ce4a5a89df9c59b253dc27] - Size: [76 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\valve_avi.dll
+[23/2018/01:15:24]  MD5: [7a16401e816c6bfd8b662028d9ccfb33] - Size: [773.49 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vguimatsurface.dll
+[23/2018/01:15:24]  MD5: [acb769ec498fb62316eab45adb680f22] - Size: [64.53 KB] - DLL: C:\\Windows\System32\C_1252.NLS
+[23/2018/01:15:24]  MD5: [9d243b36b4d4c383484a61fc0d8e3aed] - Size: [62.5 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\steam_api.dll
+[23/2018/01:15:24]  MD5: [19e072aed1546482f325c03568fa0e0e] - Size: [449.49 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vgui2.dll
+[23/2018/01:15:24]  MD5: [4ba5ea72e175c75ddf5de6147c47ac23] - Size: [3.7 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\engine.dll
+[23/2018/01:15:24]  MD5: [08c41d27ba7de4ec3ac950febad55494] - Size: [47.97 KB] - DLL: C:\\Users\Рафаэль\AppData\Local\Microsoft\Internet Explorer\MSIMGSIZ.DAT
+[23/2018/01:15:24]  MD5: [5aba5d97637291b1494ca73044848d3c] - Size: [124 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dbg.dll
+[23/2018/01:15:24]  MD5: [f7ce6a01fd8cc53f151928712d8959ae] - Size: [152 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vaudio_speex.dll
+[23/2018/01:15:24]  MD5: [1c7fa1f970cd8c2e84bcaf5d929b266f] - Size: [168 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx6.dll
+[23/2018/01:15:24]  MD5: [6cb26848bcdaa361b6ee21264fb362c3] - Size: [64.53 KB] - DLL: C:\\Windows\System32\C_20127.NLS
+[23/2018/01:15:24]  MD5: [569cfec8463082ee3ddfc6866befcf4a] - Size: [120 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx7.dll
+[23/2018/01:15:24]  MD5: [91b57edfedd614358debca629dfeb5cd] - Size: [224 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx8.dll
+[23/2018/01:15:24]  MD5: [dfe1ba04c7e489d1a6877e827cd7d241] - Size: [280 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\stdshader_dx9.dll
+[23/2018/01:15:24]  MD5: [90fb1802d488ffa9029854a77d4f3f27] - Size: [4 KB] - DLL: C:\\Windows\SysWOW64\oleaccrc.dll
+[23/2018/01:15:24]  MD5: [94cc268515a532651e1e5c154103fa89] - Size: [2.5 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\wdmaud.drv.mui
+[23/2018/01:15:24]  MD5: [6798b61b8bf40e20613a32baacc69413] - Size: [2 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\MMDevAPI.dll.mui
+[23/2018/01:15:24]  MD5: [9376509054231fa938601ada5321e182] - Size: [52 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\unicode.dll
+[23/2018/01:15:24]  MD5: [6eee3713d2330d93183846f2d34f0976] - Size: [186.86 KB] - DLL: C:\\Windows\Fonts\verdana.ttf
+[23/2018/01:15:24]  MD5: [d255db57c55d6c8dbf06e8d963f4d742] - Size: [56 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vaudio_miles.dll
+[23/2018/01:15:24]  MD5: [364ffe57fbbcbd901effa5a22d603a65] - Size: [4 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\msctf.dll.mui
+[23/2018/01:15:24]  MD5: [ccd2975301b474a63693752453759628] - Size: [100 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\scenefilecache.dll
+[23/2018/01:15:24]  MD5: [b3f19302660cbeea4afa5632fe700d74] - Size: [196 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\SoundEmitterSystem.dll
+[23/2018/01:15:24]  MD5: [0e99ca8ec1ff013f4bc7898a9c7db51b] - Size: [1.76 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\GameUI.dll
+[23/2018/01:15:24]  MD5: [1171028651a0217165684f983cdf3a3b] - Size: [756.09 KB] - DLL: C:\\Windows\Fonts\arial.ttf
+[23/2018/01:15:24]  MD5: [176e2cda870a65d95fbf4c10fef4c97d] - Size: [816.91 KB] - DLL: C:\\Windows\Fonts\times.ttf
+[23/2018/01:15:24]  MD5: [fa9d5468cf51cd1d0a925ab1a17197f2] - Size: [176 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\launcher.dll
+[23/2018/01:15:24]  MD5: [000388b9a607030c5942c2b13bdb5634] - Size: [733 KB] - DLL: C:\\Windows\Fonts\arialbd.ttf
+[23/2018/01:15:24]  MD5: [958021f4ef8693b962c57d5854160e09] - Size: [1.03 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\ServerBrowser.dll
+[23/2018/01:15:24]  MD5: [9596dc8cb1f0daa047522ce84850ca41] - Size: [304 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\Steam.dll
+[23/2018/01:15:24]  MD5: [3c7516556aaaae6758768a39ae09b496] - Size: [9.19 MB] - DLL: C:\\Windows\Fonts\StaticCache.dat
+[23/2018/01:15:24]  MD5: [91372c57cd38cd596dc33f54fd88392f] - Size: [364 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\Mss32.dll
+[23/2018/01:15:24]  MD5: [c1ba065f4508aeb9028828cf418991be] - Size: [5.79 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\cstrike\bin\server.dll
+[23/2018/01:15:24]  MD5: [091fddc0a30055e077dbc73d2c687098] - Size: [3.97 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\cstrike\bin\client.dll
+[23/2018/01:15:24]  MD5: [2f95888eac02a20afb93051bd73b76ab] - Size: [1.13 MB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\vphysics.dll
+[23/2018/01:15:24]  MD5: [b6bcba8dff46272b218dae0a93ffeb0b] - Size: [209.5 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\mssvoice.asi
+[23/2018/01:15:24]  MD5: [c6bf2dd9018536e3478369cc65a03870] - Size: [146 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\mssmp3.asi
+[23/2018/01:15:24]  MD5: [5dea6e46a8899ce6bc9ebea17b59e29d] - Size: [605.24 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\shaderapidx9.dll
+[23/2018/01:15:24]  MD5: [99ad19565b1fc08af26c98dfda0d99b1] - Size: [400 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\StudioRender.dll
+[23/2018/01:15:24]  MD5: [23feeb72c2876795d5f4ed4ab1e5f1ea] - Size: [633.81 KB] - DLL: C:\\Windows\ServiceProfiles\LocalService\AppData\Local\~FontCache-System.dat
+[23/2018/01:15:24]  MD5: [b77be5210bc3e96f91d4d91cfcb31fe8] - Size: [16 MB] - DLL: C:\\Windows\ServiceProfiles\LocalService\AppData\Local\~FontCache-FontFace.dat
+[23/2018/01:15:24]  MD5: [6263a9ab701911b22c1759fa8c0b4ab4] - Size: [8 MB] - DLL: C:\\Windows\ServiceProfiles\LocalService\AppData\Local\~FontCache-S-1-5-21-3537108633-1547193747-2185087647-1000.dat
+[23/2018/01:15:24]  MD5: [6d6de5b244858f8a38f2ae91ad43d78d] - Size: [789 KB] - DLL: C:\\Windows\SysWOW64\ru-RU\KernelBase.dll.mui
+[23/2018/01:15:25]  MD5: [54388876c4a2a4bdb74e9ea73819b3f6] - Size: [13.05 MB] - DLL: C:\\Windows\SysWOW64\ieframe.dll
+[23/2018/01:15:25]  MD5: [241a1900c52dcba38b20a4f3671444e0] - Size: [1012.5 KB] - DLL: C:\\Windows\SysWOW64\d3d8.dll
+[23/2018/01:15:25]  MD5: [e115e693576a3bce05e6a10cdd891d75] - Size: [92 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\parsifal.dll
+[23/2018/01:15:25]  MD5: [14800bd31701a5047ac3145bb1e698ae] - Size: [3.26 MB] - DLL: C:\\Windows\SysWOW64\d2d1.dll
+[23/2018/01:15:25]  MD5: [c335ec1182ac10b188705554e0bc1186] - Size: [117.5 KB] - DLL: C:\\Windows\SysWOW64\msvfw32.dll
+[23/2018/01:15:25]  MD5: [edf2a5e96bec469da3f64e9bdd386111] - Size: [176 KB] - DLL: C:\\Windows\SysWOW64\xmllite.dll
+[23/2018/01:15:25]  MD5: [74aa6c4bce56a55a022b609921f225a4] - Size: [29 KB] - DLL: C:\\Windows\SysWOW64\atiu9pag.dll
+[23/2018/01:15:25]  MD5: [997c0c1eea9022e141133f2a17176870] - Size: [5.64 MB] - DLL: C:\\Windows\SysWOW64\atiumdag.dll
+[23/2018/01:15:25]  MD5: [1a656ccfc382bc1c972e354b21d090ae] - Size: [4.01 MB] - DLL: C:\\Windows\SysWOW64\atiumdva.dll
+[23/2018/01:15:25]  MD5: [ee04d1eaa3093341c7e3070c33a82152] - Size: [760.5 KB] - DLL: C:\\Windows\SysWOW64\aticfx32.dll
+[23/2018/01:15:25]  MD5: [6de66fe7c526637e74cd066461c7c871] - Size: [1.44 MB] - DLL: C:\\Windows\SysWOW64\d3d11.dll
+[23/2018/01:15:25]  MD5: [77b1471a490b53b24efe136f09f76550] - Size: [11 KB] - DLL: C:\\Windows\SysWOW64\d3d8thk.dll
+[23/2018/01:15:25]  MD5: [6ef5f3f18413c367195f06e503ab86a6] - Size: [1.74 MB] - DLL: C:\\Windows\SysWOW64\d3d9.dll
+[23/2018/01:15:25]  MD5: [a4c85f362ebb7815676f1cd9cfc5ba59] - Size: [4.5 KB] - DLL: C:\\Windows\SysWOW64\ksuser.dll
+[23/2018/01:15:25]  MD5: [139d3ab6aa920c34c50cbffb9eb7d222] - Size: [14 KB] - DLL: C:\\Windows\SysWOW64\avrt.dll
+[23/2018/01:15:25]  MD5: [49fb1f8e797d068eaf24cd306c9c6bf3] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-utility-l1-1-0.dll
+[23/2018/01:15:25]  MD5: [3591bbcf32984c29edf1c0379380a6bd] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-environment-l1-1-0.dll
+[23/2018/01:15:25]  MD5: [b77448d3c5df8436acbf711d794f3bf2] - Size: [13.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-filesystem-l1-1-0.dll
+[23/2018/01:15:25]  MD5: [fee84740ed6699ae5319168c6a13bbee] - Size: [13.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-time-l1-1-0.dll
+[23/2018/01:15:25]  MD5: [a8cfdb191e68491c95d493f4cefb4c96] - Size: [19.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-multibyte-l1-1-0.dll
+[23/2018/01:15:25]  MD5: [86dbeb0067aca7192c3f2a3f7f359cc6] - Size: [21.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-math-l1-1-0.dll
+[23/2018/01:15:25]  MD5: [62500c41cbd004865e9de26b1710d355] - Size: [900.81 KB] - DLL: C:\\Windows\SysWOW64\ucrtbase.dll
+[23/2018/01:15:25]  MD5: [61956008f9a8d23b857dc877a6cd4da1] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-locale-l1-1-0.dll
+[23/2018/01:15:25]  MD5: [48f133e1bdcb793625c835a0ba135300] - Size: [15.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-convert-l1-1-0.dll
+[23/2018/01:15:25]  MD5: [33f4b7ef234b595d611a9418aecec7a8] - Size: [17.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-stdio-l1-1-0.dll
+[23/2018/01:15:26]  MD5: [13b70d276d8792bb3e7ad40aa0006966] - Size: [19.33 MB] - DLL: C:\\Windows\SysWOW64\mshtml.dll
+[23/2018/01:15:26]  MD5: [965cfc7687f0d188f215dc142fc8f6a1] - Size: [1.9 MB] - DLL: C:\\Windows\SysWOW64\d3d10warp.dll
+[23/2018/01:15:26]  MD5: [298fde634538b62ceeec266d8773b21a] - Size: [178 KB] - DLL: C:\\Windows\SysWOW64\msls31.dll
+[23/2018/01:15:26]  MD5: [8ee6bde1d572677aa35707c52c585f75] - Size: [173.5 KB] - DLL: C:\\Windows\SysWOW64\mlang.dll
+[23/2018/01:15:26]  MD5: [db413178ec1e3980f4eb141b8c7ed29f] - Size: [4.3 MB] - DLL: C:\\Windows\SysWOW64\jscript9.dll
+[23/2018/01:15:26]  MD5: [38f59ad407c27cc2d4353b9228da28a2] - Size: [12.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-heap-l1-1-0.dll
+[23/2018/01:15:26]  MD5: [13230d6ba1a1a23250e492956ae46a0f] - Size: [17.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-string-l1-1-0.dll
+[23/2018/01:15:26]  MD5: [109f0f02fd37c84bfc7508d4227d7ed5] - Size: [429.8 KB] - DLL: C:\\Windows\SysWOW64\msvcp140.dll
+[23/2018/01:15:26]  MD5: [ec546e99ad2a4ce11d1186c6f770b6e8] - Size: [104 KB] - DLL: C:\\Windows\SysWOW64\cryptnet.dll
+[23/2018/01:15:26]  MD5: [cb52def1b1e1b9950f29548f2f19115a] - Size: [309 KB] - DLL: C:\\Windows\SysWOW64\webio.dll
+[23/2018/01:15:26]  MD5: [1e38aeb134500a43db7d4e4ea6f49b85] - Size: [343.5 KB] - DLL: C:\\Windows\SysWOW64\winhttp.dll
+[23/2018/01:15:26]  MD5: [2d85275e42dfc08060f7553f2b41bad5] - Size: [248.5 KB] - DLL: C:\\Windows\SysWOW64\schannel.dll
+[23/2018/01:15:26]  MD5: [2bf6be23d2e045e020c70379ec8620ad] - Size: [1.38 MB] - DLL: C:\\Program Files (x86)\360\Total Security\safemon\safemon.dll
+[23/2018/01:15:26]  MD5: [58788565442368b0615ddaf1d452b843] - Size: [518 KB] - DLL: C:\\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\comctl32.dll
+[23/2018/01:15:26]  MD5: [1f01079ba3a3cf661e36298553f5cb19] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-file-l1-2-0.dll
+[23/2018/01:15:26]  MD5: [8eda2e45e09cb319c2f960ceca17fdf5] - Size: [492.5 KB] - DLL: D:\\cssv34\Counter-Strike Source v34 NewStyle\bin\bugreporter_public.dll
+[23/2018/01:15:26]  MD5: [c2e787f8373a8287b06ecfa373b88cc2] - Size: [1.19 MB] - DLL: C:\\Windows\SysWOW64\DWrite.dll
+[23/2018/01:15:26]  MD5: [3ffcec72d548e12e4e6bf4afae948858] - Size: [17 KB] - DLL: C:\\Windows\SysWOW64\credssp.dll
+[23/2018/01:15:26]  MD5: [08dfdbd2fd4ea951dc46b1c7661ed35a] - Size: [142 KB] - DLL: C:\\Windows\SysWOW64\powrprof.dll
+[23/2018/01:15:26]  MD5: [9eac1a09a012aaff86bc53d053aca024] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-processthreads-l1-1-1.dll
+[23/2018/01:15:26]  MD5: [a9110b532b9f4205b5940040cd5ea551] - Size: [108.5 KB] - DLL: C:\\Windows\SysWOW64\t2embed.dll
+[23/2018/01:15:26]  MD5: [adede3729654da5a8caf34811915a129] - Size: [13.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-localization-l1-2-0.dll
+[23/2018/01:15:26]  MD5: [08e433aec4dd24dc1034e2f9df0f177a] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-file-l2-1-0.dll
+[23/2018/01:15:26]  MD5: [5e8ce463f875143f8e5d91e6b0098ad1] - Size: [11.34 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-timezone-l1-1-0.dll
+[23/2018/01:15:26]  MD5: [7587bf9cb4147022cd5681b015183046] - Size: [81.82 KB] - DLL: C:\\Windows\SysWOW64\vcruntime140.dll
+[23/2018/01:15:26]  MD5: [919001d2bb17df06ca3f8ac16ad039f6] - Size: [371.5 KB] - DLL: C:\\Windows\SysWOW64\sxs.dll
+[23/2018/01:15:26]  MD5: [60f4aefa103d421ea4a40e31409b4756] - Size: [3 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-shell32-l1-1-0.dll
+[23/2018/01:15:26]  MD5: [415b5a63986174b140700b53bf2867d7] - Size: [15.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-crt-runtime-l1-1-0.dll
+[23/2018/01:15:26]  MD5: [1fcda65915e15a4410ac7912f1f93e03] - Size: [38 KB] - DLL: C:\\Windows\SysWOW64\mcicda.dll
+[23/2018/01:15:26]  MD5: [5a12c364ad1d4fcc0ad0e56dbbc34462] - Size: [16.5 KB] - DLL: C:\\Windows\SysWOW64\midimap.dll
+[23/2018/01:15:26]  MD5: [07393a09c46083588e751b63b03c8301] - Size: [20.5 KB] - DLL: C:\\Windows\SysWOW64\msacm32.drv
+[23/2018/01:15:26]  MD5: [d205c24a9d069049fe2df2a1b38726a7] - Size: [168 KB] - DLL: C:\\Windows\SysWOW64\wdmaud.drv
+[23/2018/01:15:26]  MD5: [d2bbc72e0cdf8639c8274edb395c9103] - Size: [133.5 KB] - DLL: C:\\Windows\SysWOW64\dinput.dll
+[23/2018/01:15:26]  MD5: [85683df1f917e4d7f6be1a04986bf1c8] - Size: [70.5 KB] - DLL: C:\\Windows\SysWOW64\msacm32.dll
+[23/2018/01:15:26]  MD5: [dceabba22e12cc44c2e7785c0eb9c6e3] - Size: [89.5 KB] - DLL: C:\\Windows\SysWOW64\avifil32.dll
+[23/2018/01:15:26]  MD5: [b2aba92f93b3b1bd241ec284bbf53de1] - Size: [190.5 KB] - DLL: C:\\Windows\SysWOW64\AudioSes.dll
+[23/2018/01:15:26]  MD5: [43964fa89ccf97ba6be34d69455ac65f] - Size: [240 KB] - DLL: C:\\Windows\SysWOW64\uxtheme.dll
+[23/2018/01:15:26]  MD5: [243974ec02f7ae49e4179c54624143ab] - Size: [208.5 KB] - DLL: C:\\Windows\SysWOW64\MMDevAPI.dll
+[23/2018/01:15:26]  MD5: [52213d271f6804aaa44f57aefd2b778a] - Size: [66 KB] - DLL: C:\\Windows\SysWOW64\dwmapi.dll
+[23/2018/01:15:26]  MD5: [63df770df74acb370ef5a16727069aaf] - Size: [21.5 KB] - DLL: C:\\Windows\SysWOW64\hid.dll
+[23/2018/01:15:26]  MD5: [e343cabbd8d600abaf3f11625d33b3d0] - Size: [158 KB] - DLL: C:\\Windows\SysWOW64\netjoin.dll
+[23/2018/01:15:26]  MD5: [15e298b5ec5b89c5994a59863969d9ff] - Size: [16.5 KB] - DLL: C:\\Windows\SysWOW64\npmproxy.dll
+[23/2018/01:15:26]  MD5: [8c338238c16777a802d6a9211eb2ba50] - Size: [352 KB] - DLL: C:\\Windows\SysWOW64\netprofm.dll
+[23/2018/01:15:26]  MD5: [1d1eaa16d193c6a2d45981ed3914d22a] - Size: [30.5 KB] - DLL: C:\\Windows\SysWOW64\msimtf.dll
+[23/2018/01:15:27]  MD5: [ac122407b29378ff9646f03404ac7c54] - Size: [35.5 KB] - DLL: C:\\Windows\SysWOW64\wshbth.dll
+[23/2018/01:15:27]  MD5: [5df5d8cfd9b9573fa3b2c89d9061a240] - Size: [20.5 KB] - DLL: C:\\Windows\SysWOW64\winrnr.dll
+[23/2018/01:15:27]  MD5: [5cf640eddb1e40a5ab1bb743bcdec610] - Size: [63.5 KB] - DLL: C:\\Windows\SysWOW64\pnrpnsp.dll
+[23/2018/01:15:27]  MD5: [fbe4e7975289230f84d9da2222448ac3] - Size: [77.5 KB] - DLL: C:\\Windows\SysWOW64\gpapi.dll
+[23/2018/01:15:27]  MD5: [0b7e85364cb878e2ad531db7b601a9e5] - Size: [51 KB] - DLL: C:\\Windows\SysWOW64\NapiNSP.dll
+[23/2018/01:15:27]  MD5: [02814474c497130152e6c5d1f6f36d95] - Size: [51 KB] - DLL: C:\\Windows\SysWOW64\nlaapi.dll
+[23/2018/01:15:27]  MD5: [6b98026761228f913e9fa3f974920a20] - Size: [243.51 KB] - DLL: C:\\Windows\SysWOW64\bcryptprimitives.dll
+[23/2018/01:15:27]  MD5: [6aece69d261d0d57589e42497445b0f3] - Size: [81 KB] - DLL: C:\\Windows\SysWOW64\bcrypt.dll
+[23/2018/01:15:27]  MD5: [feb057e65d139130a9b1780ae5786fbc] - Size: [218 KB] - DLL: C:\\Windows\SysWOW64\ncrypt.dll
+[23/2018/01:15:27]  MD5: [9392cd363c6fe0cc6efc927903f85845] - Size: [211.5 KB] - DLL: C:\\Windows\SysWOW64\FWPUCLNT.DLL
+[23/2018/01:15:27]  MD5: [ed6ee83d61ebc683c2cd8e899ea6febe] - Size: [11.5 KB] - DLL: C:\\Windows\SysWOW64\rasadhlp.dll
+[23/2018/01:15:27]  MD5: [ee5c8e27c37b79cb54a2fceeed2dc262] - Size: [9 KB] - DLL: C:\\Windows\SysWOW64\WSHTCPIP.DLL
+[23/2018/01:15:27]  MD5: [73e8667a19feedd856df2695e9e511d4] - Size: [10.5 KB] - DLL: C:\\Windows\SysWOW64\wship6.dll
+[23/2018/01:15:27]  MD5: [c463aeddeca88e934ade53610e1a4b8d] - Size: [11.84 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-core-synch-l1-2-0.dll
+[23/2018/01:15:27]  MD5: [8e01332cc4b68bc6b5b7effe374442aa] - Size: [228 KB] - DLL: C:\\Windows\SysWOW64\oleacc.dll
+[23/2018/01:15:27]  MD5: [a88241c2a519afd2c99a40000f9113e6] - Size: [226 KB] - DLL: C:\\Windows\SysWOW64\mswsock.dll
+[23/2018/01:15:27]  MD5: [4355cf8bd07b0e48c111fc3d2f36d313] - Size: [142.23 KB] - DLL: C:\\Program Files (x86)\Common Files\microsoft shared\Windows Live\WLIDNSP.DLL
+[23/2018/01:15:27]  MD5: [5997d769cdb108390dcfaebf442bf816] - Size: [45 KB] - DLL: C:\\Windows\SysWOW64\RpcRtRemote.dll
+[23/2018/01:15:27]  MD5: [81f6c1ae23b1c493d9e996c3103915d7] - Size: [43 KB] - DLL: C:\\Windows\SysWOW64\dhcpcsvc6.dll
+[23/2018/01:15:27]  MD5: [04556379bc8074060226e5acac6c4160] - Size: [21.5 KB] - DLL: C:\\Windows\SysWOW64\secur32.dll
+[23/2018/01:15:27]  MD5: [b40420876b9288e0a1c8cca8a84e5dc9] - Size: [264 KB] - DLL: C:\\Windows\SysWOW64\dnsapi.dll
+[23/2018/01:15:27]  MD5: [9a85abce0fdd1af8e79e731eb0b679f3] - Size: [60.5 KB] - DLL: C:\\Windows\SysWOW64\dhcpcsvc.dll
+[23/2018/01:15:27]  MD5: [ed8ec63f7522df4852147c84ec62c36a] - Size: [237.24 KB] - DLL: C:\\Windows\SysWOW64\rsaenh.dll
+[23/2018/01:15:27]  MD5: [d161cb594609d47c8e9b7599f3195e56] - Size: [79 KB] - DLL: C:\\Windows\SysWOW64\cryptsp.dll
+[23/2018/01:15:27]  MD5: [a90dc9abd65db1a8902f361103029952] - Size: [101.5 KB] - DLL: C:\\Windows\SysWOW64\IPHLPAPI.DLL
+[23/2018/01:15:27]  MD5: [49aca548b2423f1c67898e6ac719a9a6] - Size: [3.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-advapi32-l2-1-0.dll
+[23/2018/01:15:27]  MD5: [6f8e3b7b70e1bba871212940c1fbdf60] - Size: [10.5 KB] - DLL: C:\\Windows\SysWOW64\SensApi.dll
+[23/2018/01:15:27]  MD5: [d4f264fe23f8953d840904418220c15e] - Size: [286.5 KB] - DLL: C:\\Windows\SysWOW64\dxgi.dll
+[23/2018/01:15:27]  MD5: [fd049c25a168d3de310d9207b7b6367b] - Size: [548.5 KB] - DLL: C:\\Windows\SysWOW64\UIAutomationCore.dll
+[23/2018/01:15:27]  MD5: [007863e45f25aa47a4c30d0930bbfd85] - Size: [5.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-shlwapi-l2-1-0.dll
+[23/2018/01:15:27]  MD5: [525b93b761dccb2d33a58ed603178228] - Size: [1.17 MB] - DLL: C:\\Windows\SysWOW64\WindowsCodecs.dll
+[23/2018/01:15:27]  MD5: [0e85c11f8850d524b02181c6e02ba9ae] - Size: [443 KB] - DLL: C:\\Windows\SysWOW64\dsound.dll
+[23/2018/01:15:27]  MD5: [f05f26dd4b8640cb71f8c40bd6530fd1] - Size: [16 KB] - DLL: C:\\Windows\SysWOW64\winnsi.dll
+[23/2018/01:15:27]  MD5: [e5a4a1326a02f8e7b59e6c3270ce7202] - Size: [46 KB] - DLL: C:\\Windows\SysWOW64\wkscli.dll
+[23/2018/01:15:27]  MD5: [5ccdcd40e732d54e0f7451ac66ac1c87] - Size: [88 KB] - DLL: C:\\Windows\SysWOW64\srvcli.dll
+[23/2018/01:15:27]  MD5: [20b3934db73eaba2b49b7177873cb81f] - Size: [22 KB] - DLL: C:\\Windows\SysWOW64\netutils.dll
+[23/2018/01:15:27]  MD5: [2fca0d2c59a855c54bafa22aa329df0f] - Size: [56 KB] - DLL: C:\\Windows\SysWOW64\netapi32.dll
+[23/2018/01:15:27]  MD5: [d5afc3a476925ce740b7079d9bd2d269] - Size: [289 KB] - DLL: C:\\Windows\SysWOW64\apphelp.dll
+[23/2018/01:15:27]  MD5: [12c45e3cb6d65f73209549e2d02eca7a] - Size: [965 KB] - DLL: C:\\Windows\SysWOW64\propsys.dll
+[23/2018/01:15:27]  MD5: [df13a51a5c591887d2ec6ae64ceed0fa] - Size: [15 KB] - DLL: C:\\Windows\SysWOW64\wsock32.dll
+[23/2018/01:15:27]  MD5: [d5aefad57c08349a4393d987df7c715d] - Size: [189.5 KB] - DLL: C:\\Windows\SysWOW64\winmm.dll
+[23/2018/01:15:27]  MD5: [885e18b2d0a445fb637850282530eb72] - Size: [1.6 MB] - DLL: C:\\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\comctl32.dll
+[23/2018/01:15:27]  MD5: [702254574e7e52052de39408457b7149] - Size: [21 KB] - DLL: C:\\Windows\SysWOW64\version.dll
+[23/2018/01:15:27]  MD5: [-1] - Size: [4 GB] - DLL: 
+[23/2018/01:15:27]  MD5: [2b96a8c92e6be12402c082955509fd40] - Size: [35.5 KB] - DLL: C:\\Windows\SysWOW64\cryptbase.dll
+[23/2018/01:15:27]  MD5: [f473218213024054245582a7333dd22b] - Size: [94.5 KB] - DLL: C:\\Windows\SysWOW64\sspicli.dll
+[23/2018/01:15:27]  MD5: [c733d233b623b7ffce5031e4b756ee26] - Size: [31 KB] - DLL: C:\\Windows\SysWOW64\profapi.dll
+[23/2018/01:15:27]  MD5: [257c2dc5b89c68da3b8c5e4ccec98c9a] - Size: [2.64 MB] - DLL: C:\\Windows\SysWOW64\wininet.dll
+[23/2018/01:15:27]  MD5: [9c278785347bcc991f8ea2999d90f58d] - Size: [2 KB] - DLL: C:\\Windows\SysWOW64\normaliz.dll
+[23/2018/01:15:28]  MD5: [e069a3b525828f055d9bf71a1b3dbc1e] - Size: [305.5 KB] - DLL: C:\\Windows\SysWOW64\gdi32.dll
+[23/2018/01:15:28]  MD5: [2e33dfd10f28f86c3fc40ee123cc3904] - Size: [2.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-normaliz-l1-1-0.dll
+[23/2018/01:15:28]  MD5: [f8c7346ce9939f2e67887e2300f25694] - Size: [615 KB] - DLL: C:\\Windows\SysWOW64\usp10.dll
+[23/2018/01:15:28]  MD5: [1430fa19b8a066e78022de1f55d47738] - Size: [25 KB] - DLL: C:\\Windows\SysWOW64\lpk.dll
+[23/2018/01:15:28]  MD5: [a6f09e5669d9a19035f6d942caa15882] - Size: [117 KB] - DLL: C:\\Windows\SysWOW64\imm32.dll
+[23/2018/01:15:28]  MD5: [6b1e1d3d3db1c1fad675e01c6fbef330] - Size: [1.12 MB] - DLL: C:\\Windows\SysWOW64\crypt32.dll
+[23/2018/01:15:28]  MD5: [0723a00c740a0d1b5460fbfe048c3e68] - Size: [8.5 KB] - DLL: C:\\Windows\SysWOW64\nsi.dll
+[23/2018/01:15:28]  MD5: [ff5688d309347f2720911d8796912834] - Size: [510 KB] - DLL: C:\\Windows\SysWOW64\clbcatq.dll
+[23/2018/01:15:28]  MD5: [5e752f38cd67885f75e7b36df56cc89c] - Size: [269 KB] - DLL: C:\\Windows\SysWOW64\KernelBase.dll
+[23/2018/01:15:28]  MD5: [6951562dc4625eefc6eacd52ad165866] - Size: [9.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-shlwapi-l1-1-0.dll
+[23/2018/01:15:28]  MD5: [8cc3c111d653e96f3ea1590891491d71] - Size: [342 KB] - DLL: C:\\Windows\SysWOW64\shlwapi.dll
+[23/2018/01:15:28]  MD5: [1c60e09ca1c3a045bc4d367f67c915b7] - Size: [5.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-ole32-l1-1-0.dll
+[23/2018/01:15:28]  MD5: [9b6b3aec1ad29d9ee608732f3559e355] - Size: [1.25 MB] - DLL: C:\\Windows\SysWOW64\urlmon.dll
+[23/2018/01:15:28]  MD5: [94e1c3a20358db82b31677318bbeb120] - Size: [568 KB] - DLL: C:\\Windows\SysWOW64\oleaut32.dll
+[23/2018/01:15:28]  MD5: [3be0d923aa45a4dbe091c2d84f0b4fe7] - Size: [3 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-version-l1-1-0.dll
+[23/2018/01:15:28]  MD5: [320b4197eaec624aa9e6207c615aa66f] - Size: [1.06 MB] - DLL: C:\\Windows\SysWOW64\kernel32.dll
+[23/2018/01:15:28]  MD5: [59ea5753ebdae42cf92fd5b6e7ae4d53] - Size: [201.5 KB] - DLL: C:\\Windows\SysWOW64\ws2_32.dll
+[23/2018/01:15:28]  MD5: [880d297793d854133da108ae46483b63] - Size: [650.5 KB] - DLL: C:\\Windows\SysWOW64\rpcrt4.dll
+[23/2018/01:15:28]  MD5: [10fb16b50affda6d44588f3c445dc273] - Size: [1.59 MB] - DLL: C:\\Windows\SysWOW64\setupapi.dll
+[23/2018/01:15:28]  MD5: [2f929c103155ee98efb649fe9af21740] - Size: [265 KB] - DLL: C:\\Windows\SysWOW64\Wldap32.dll
+[23/2018/01:15:28]  MD5: [6a13b4f3b3f575f1e24b877b9359aaba] - Size: [10.5 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-advapi32-l1-1-0.dll
+[23/2018/01:15:28]  MD5: [2eeff4502f5e13b1bed4a04ccad64c08] - Size: [63 KB] - DLL: C:\\Windows\SysWOW64\devobj.dll
+[23/2018/01:15:28]  MD5: [af40fdab98b0ff209632c3403db6c39f] - Size: [811 KB] - DLL: C:\\Windows\SysWOW64\msctf.dll
+[23/2018/01:15:28]  MD5: [e4ac81b38ecad78439161d38107b2bec] - Size: [629 KB] - DLL: C:\\Windows\SysWOW64\advapi32.dll
+[23/2018/01:15:28]  MD5: [09e512220e90adda6e818120bb528b0a] - Size: [175 KB] - DLL: C:\\Windows\SysWOW64\wintrust.dll
+[23/2018/01:15:28]  MD5: [7fd3a85b889e031623799f6fdd3d2ded] - Size: [12.28 MB] - DLL: C:\\Windows\SysWOW64\shell32.dll
+[23/2018/01:15:28]  MD5: [dd3af637a1a91478e092c11a6b512667] - Size: [1.35 MB] - DLL: C:\\Windows\SysWOW64\ole32.dll
+[23/2018/01:15:28]  MD5: [d15618a0ff8dbc2c5bf3726bacc75a0b] - Size: [80 KB] - DLL: C:\\Windows\SysWOW64\userenv.dll
+[23/2018/01:15:28]  MD5: [22ec05f46ffe3b940493191eeef7d1a6] - Size: [2.19 MB] - DLL: C:\\Windows\SysWOW64\iertutil.dll
+[23/2018/01:15:28]  MD5: [65a5e27c2217d606e212b6088ccd6104] - Size: [90 KB] - DLL: C:\\Windows\SysWOW64\sechost.dll
+[23/2018/01:15:28]  MD5: [9dc80a8aaaaac397bdab3c67165a824e] - Size: [674.5 KB] - DLL: C:\\Windows\SysWOW64\msvcrt.dll
+[23/2018/01:15:28]  MD5: [589cbc4989f750e1da35625ab481cf43] - Size: [4 KB] - DLL: C:\\Windows\SysWOW64\api-ms-win-downlevel-user32-l1-1-0.dll
+[23/2018/01:15:28]  MD5: [a543ac1f7138376d778d630a35fcbc4c] - Size: [6 KB] - DLL: C:\\Windows\SysWOW64\psapi.dll
+[23/2018/01:15:28]  MD5: [938f39b50bafe13d6f58c7790682c010] - Size: [33.5 KB] - DLL: C:\\Windows\SysWOW64\msasn1.dll
+[23/2018/01:15:28]  MD5: [3cb074875ac88a7c1010a2a7f9881a8c] - Size: [813.5 KB] - DLL: C:\\Windows\SysWOW64\user32.dll
+[23/2018/01:15:28]  MD5: [f436e847fa799ecd75ad8c313673f450] - Size: [142.5 KB] - DLL: C:\\Windows\SysWOW64\cfgmgr32.dll
+[23/2018/01:15:29]  MD5: [9b94706fb9c29f71544bde9b575fad31] - Size: [1.25 MB] - DLL: C:\\Windows\System32\ntdll.dll
+[23/2018/01:15:29]  MD5: [9b94706fb9c29f71544bde9b575fad31] - Size: [1.25 MB] - DLL: C:\\Windows\SysWOW64\ntdll.dll
+[23/2018/01:15:29]  =========================================================================================
+[23/2018/01:15:29]  Сканирование завершено!
+[23/2018/01:15:29]  -> ScreenShot URL: http://mark46.clan.su/MK/NOHACK_USER/333050Z797_ucp/Z2SPKQ2RHG37W6O_NOHACK.JPG
+[23/2018/01:15:29]  ....................................................................................
+[23/2018/01:16:37]  Игрок с нестандартным .CFG
+[23/2018/01:16:37]  ...........................................................
+[23/2018/01:16:37]  D:\cssv34\Counter-Strike Source v34 NewStyle\cstrike\cfg\valve.rc
+---------------------------------------------------
+
+[23/2018/01:17:39]  Найдена конфликтная программа.
+ Закройте все посторонние программы кроме самой игры. 
+ 'HxD'
+-------------------------------------------------------------
+Удалите с компьютера CheatEngine, ArtMoney и другие подобные программы.
