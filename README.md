@@ -33,3 +33,5 @@
 14. Для EVERYTHING: 
 
 R3D | Xone | Midnight | MUTINY | Yeahnot | LeagueMode | Unreal | VRedux | FURIOS | otcv | Avira | Neverlose | ESPdX | BoBerHook  | Legendware | EGHack | nixware.cc | HAUNTEDPROJECT| externalcrack | RAGER9 | RAGER8 | .ahk | WinX | PhoenixHack | OBR  | OneByteRadar | Skinchanger | NAIM | EZinjector | Reborn | OneByteWall*Hack | Keter | Annihilation | Sapphire | f0rg0tten  | Osiris | Multihack | Breakthrough | REKTWARE | D3m | ExtrimHack | EZfrags | Shark | RHcheats | FREEQN | Aqua | Boomwtf | Pphud  | INDIGO | FRUX0 | hack | cheat | чит | KlarWare | Aimware | Skeet | gamesense | Aurora | SpirtHack | Fatality | OneTap  | ev0lve | Eternity | Z0rhack | Stickrpg | Demonside.us | Bhop | BunnyHop | AviraSAMOWARE | ExLoader | .amc | R8 | freeqn | imgui.ini 
+
+15. Ролик "/7ystot'ы" на YouTube: https://youtu.be/QZf5e-e4UUE 
